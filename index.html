@@ -1,26 +1,51 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>The Daily Paper</title><style>
-body{margin:0;background:#faf8f3;color:#1a1a1a;font-family:Georgia,'Times New Roman',serif}
-.wrap{max-width:760px;margin:0 auto;padding:16px}
-header{text-align:center;border-bottom:3px double #1a1a1a;padding-bottom:8px}
-h1{font-size:2.4em;margin:.2em 0;letter-spacing:1px}.date{font-size:.9em;color:#555}
-nav{text-align:center;padding:8px 0;border-bottom:1px solid #ccc;font-size:.95em}nav a{color:#1a1a1a;margin:0 8px}
-h2{font-size:1.4em;border-bottom:2px solid #1a1a1a;margin:28px 0 6px;text-transform:uppercase;letter-spacing:1px}
-.it{padding:10px 0;border-bottom:1px solid #ddd}.it a{color:#111;text-decoration:none;font-weight:bold;font-size:1.08em}.it a:hover{text-decoration:underline}
-.meta{font-size:.8em;color:#666;margin-top:3px;font-family:Arial,sans-serif}.sum{font-size:.95em;color:#333;margin-top:3px}
-footer{font-size:.75em;color:#777;text-align:center;margin:30px 0}
-</style></head><body><div class="wrap">
-<header><h1>The Daily Paper</h1><div class="date" id="upd">Loading...</div></header>
-<nav id="nav"></nav><main id="main"></main>
-<footer id="ft"></footer></div><script>
-const VER='v1';
+<title>The Daily Paper</title><script>(function(){var t=localStorage.getItem('dp-theme')||'system';var d=t==='dark'||(t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light'})()</script>
+<style>
+:root{--bg:#f7f5f0;--card:#fffdf8;--tx:#25221e;--mu:#6b655c;--ln:#e6e1d6;--ac:#3d5a80}
+[data-theme=dark]{--bg:#1c1d21;--card:#25272c;--tx:#e8e4dc;--mu:#a39e94;--ln:#34363c;--ac:#9fb8d9}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:18px/1.55 Georgia,'Times New Roman',serif}
+header{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--ln);display:flex;align-items:center;gap:12px;padding:12px 16px;z-index:5}
+header h1{font-size:1.2em;margin:0;flex:1}header small{display:block;font:13px Arial,sans-serif;color:var(--mu)}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+.ib{width:44px;height:44px;display:grid;place-items:center;border-radius:10px}.ib svg{width:26px;height:26px;stroke:var(--tx);fill:none;stroke-width:2;stroke-linecap:round}
+main{max-width:640px;margin:0 auto;padding:8px 16px 40px}
+h2{font-size:1.5em;margin:18px 0 14px}
+.card{background:var(--card);border:1px solid var(--ln);border-radius:14px;padding:16px 18px;margin-bottom:14px}
+.card a{color:var(--tx);text-decoration:none;font-weight:bold;font-size:1.05em;line-height:1.4}
+.meta{font:14px Arial,sans-serif;color:var(--mu);margin-top:8px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.more{color:var(--ac);font:14px Arial,sans-serif;padding:0}.sum{font-size:.92em;color:var(--mu);margin-top:8px}
+.sm{display:block;width:100%;padding:14px;border:1px solid var(--ln);border-radius:12px;color:var(--ac);font:16px Arial,sans-serif;background:var(--card)}
+#dr{position:fixed;inset:0;background:rgba(0,0,0,.35);display:none;z-index:9}#dr.on{display:block}
+#dr nav{background:var(--bg);width:min(300px,85vw);height:100%;padding:16px;overflow:auto;font-family:Arial,sans-serif}
+#dr nav button.s{display:block;width:100%;text-align:left;padding:14px 12px;border-radius:10px;font-size:17px}
+#dr nav button.s.cur{background:var(--card);color:var(--ac);font-weight:bold}
+.lb{font-size:13px;color:var(--mu);text-transform:uppercase;letter-spacing:1px;margin:18px 12px 8px}
+.seg{display:flex;border:1px solid var(--ln);border-radius:10px;overflow:hidden;margin:0 4px}.seg button{flex:1;padding:10px 0;font-size:15px}.seg button.cur{background:var(--ac);color:var(--bg)}
+footer{text-align:center;font:12px Arial,sans-serif;color:var(--mu);margin-top:24px}
+</style></head><body>
+<header><button class="ib" id="mb" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button><h1>The Daily Paper<small id="upd">Loading...</small></h1></header>
+<div id="dr"><nav><div style="display:flex;justify-content:flex-end"><button class="ib" id="cb" aria-label="Close"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
+<div class="lb">Sections</div><div id="sl"></div><div class="lb">Theme</div>
+<div class="seg" id="th"><button data-t="light">Light</button><button data-t="dark">Dark</button><button data-t="system">System</button></div></nav></div>
+<main id="main"></main><footer id="ft"></footer>
+<script>
+const VER='v2',$=id=>document.getElementById(id);
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const sec=(n,items)=>'<section id="'+n.replace(/\W/g,'')+'"><h2>'+esc(n)+'</h2>'+(items.length?items.map(i=>'<div class="it"><a href="'+esc(i.link)+'" target="_blank" rel="noopener">'+esc(i.title)+'</a><div class="meta">'+esc(i.source)+(i.time?' &middot; '+esc(i.time):'')+'</div>'+(i.summary?'<div class="sum">'+esc(i.summary)+'</div>':'')+'</div>').join(''):'<p>Nothing here right now.</p>')+'</section>';
-(async()=>{const b='?v='+Date.now();const d=await (await fetch('data.json'+b,{cache:'no-store'})).json();
-let x=null;try{x=await (await fetch('x.json'+b,{cache:'no-store'})).json()}catch(e){}
-const all=d.sections.slice();if(x)all.splice(1,0,{name:'From X',items:x.items});
-document.getElementById('upd').textContent='Updated '+d.updated;
-document.getElementById('nav').innerHTML=all.map(s=>'<a href="#'+s.name.replace(/\W/g,'')+'">'+esc(s.name)+'</a>').join('');
-document.getElementById('main').innerHTML=all.map(s=>sec(s.name,s.items)).join('');
-document.getElementById('ft').textContent='Version '+VER+(x?' · X posts updated '+x.updated:'');})();
+let S={},cur=localStorage.getItem('dp-sec')||'Top US',shown=8;
+function theme(t){localStorage.setItem('dp-theme',t);const d=t==='dark'||(t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light';[...$('th').children].forEach(b=>b.classList.toggle('cur',b.dataset.t===t))}
+function render(){const it=S[cur]||[];localStorage.setItem('dp-sec',cur);
+ $('sl').innerHTML=Object.keys(S).map(n=>'<button class="s'+(n===cur?' cur':'')+'" data-n="'+esc(n)+'">'+esc(n)+'</button>').join('');
+ $('main').innerHTML='<h2>'+esc(cur)+'</h2>'+(it.length?it.slice(0,shown).map((i,k)=>'<div class="card"><a href="'+esc(i.link)+'" target="_blank" rel="noopener">'+esc(i.title)+'</a><div class="meta"><span>'+esc(i.source)+(i.time?' &middot; '+esc(i.time):'')+'</span>'+(i.summary?'<button class="more" data-k="'+k+'">More</button>':'')+'</div><div class="sum" hidden>'+esc(i.summary)+'</div></div>').join('')+(it.length>shown?'<button class="sm" id="smb">Show more</button>':''):'<p>Nothing new here right now.</p>')}
+$('main').onclick=e=>{if(e.target.id==='smb'){shown+=8;render()}else if(e.target.dataset.k){const s=e.target.parentNode.nextSibling;s.hidden=!s.hidden;e.target.textContent=s.hidden?'More':'Less'}};
+$('sl').onclick=e=>{const n=e.target.dataset.n;if(n){cur=n;shown=8;render();$('dr').classList.remove('on');scrollTo(0,0)}};
+$('th').onclick=e=>e.target.dataset.t&&theme(e.target.dataset.t);
+$('mb').onclick=()=>$('dr').classList.add('on');$('cb').onclick=()=>$('dr').classList.remove('on');
+$('dr').onclick=e=>{if(e.target.id==='dr')$('dr').classList.remove('on')};
+matchMedia('(prefers-color-scheme: dark)').onchange=()=>localStorage.getItem('dp-theme')==='system'&&theme('system');
+theme(localStorage.getItem('dp-theme')||'system');
+(async()=>{const b='?v='+Date.now(),d=await (await fetch('data.json'+b,{cache:'no-store'})).json();let x=null;try{x=await (await fetch('x.json'+b,{cache:'no-store'})).json()}catch(e){}
+ const g=n=>(d.sections.find(s=>s.name===n)||{items:[]}).items,all=d.sections.flatMap(s=>s.items),now=Date.now()/1000,seen=new Set();
+ const br=all.filter(i=>now-i.ts<6*3600).sort((a,b)=>b.ts-a.ts).filter(i=>!seen.has(i.title)&&seen.add(i.title));
+ S={'Top US':g('Top US News'),'Breaking':br,'From X':x?x.items:[],'Texas':g('Texas'),'Vermont':g('Vermont'),'Crime':g('Crime')};
+ if(!S[cur])cur='Top US';$('upd').textContent='Updated '+d.updated;$('ft').textContent='Version '+VER;render()})();
 </script></body></html>
