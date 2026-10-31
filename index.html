@@ -32,14 +32,20 @@ footer{text-align:center;font:12px Arial,sans-serif;color:var(--mu);margin-top:2
 <div class="seg" id="th"><button data-t="light">Light</button><button data-t="dark">Dark</button><button data-t="system">System</button></div></nav></div>
 <main id="main"></main><footer id="ft"></footer>
 <script>
-const VER='v3',$=id=>document.getElementById(id);
+const VER='v4',$=id=>document.getElementById(id);
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let S={},cur=localStorage.getItem('dp-sec')||'Front Page',shown=8;
 function theme(t){localStorage.setItem('dp-theme',t);const d=t==='dark'||(t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light';[...$('th').children].forEach(b=>b.classList.toggle('cur',b.dataset.t===t))}
 const card=(i,k,c)=>'<div class="card'+(c||'')+'"><a href="'+esc(i.link)+'" target="_blank" rel="noopener">'+esc(i.title)+'</a><div class="meta"><span>'+esc(i.source)+(i.time?' &middot; '+esc(i.time):'')+'</span>'+(i.summary?'<button class="more" data-k="'+k+'">More</button>':'')+'</div><div class="sum" hidden>'+esc(i.summary)+'</div></div>';
-function front(){const br=(S['Breaking']||[]).filter(i=>Date.now()/1000-i.ts<4*3600).slice(0,3),lead=(S['Top US']||[])[0];let h=br.map(i=>'<a class="brk" href="'+esc(i.link)+'" target="_blank" rel="noopener"><b>BREAKING</b>'+esc(i.title)+'</a>').join('');
- if(lead)h+='<h2>Front Page</h2>'+card(lead,0,' lead');
- ['Top US','From X','Texas','Vermont','Crime'].forEach(n=>{const it=(S[n]||[]).filter(i=>i!==lead).slice(0,3);if(it.length)h+='<div class="sh"><h3>'+esc(n)+'</h3><button class="sa" data-n="'+esc(n)+'">See all</button></div>'+it.map((i,k)=>card(i,k)).join('')});return h}
+function front(){const now=Date.now()/1000,kw=/\b(breaking|alert|killed|dead|dies|shooting|shot|storm|tornado|hurricane|flood|emergency|evacuat\w*|election|president|explosion|crash|wildfire|earthquake|amber)\b/i;
+ const all=[];['Top US','From X','Texas','Vermont','Crime'].forEach(n=>(S[n]||[]).forEach(i=>all.push(i)));
+ const words=t=>new Set(t.toLowerCase().match(/[a-z]{5,}/g)||[]);const W=all.map(i=>words(i.title));
+ const multi=(i,k)=>all.some((j,m)=>m!==k&&j.source.split(" ")[0].toLowerCase()!==i.source.split(" ")[0].toLowerCase()&&[...W[k]].filter(w=>W[m].has(w)).length>=3);
+ const seen=new Set(),pick=all.map((i,k)=>({i,k})).filter(o=>now-o.i.ts<24*3600&&(kw.test(o.i.title)||multi(o.i,o.k))).map(o=>o.i).sort((a,b)=>b.ts-a.ts).filter(i=>{const t=i.title.toLowerCase().slice(0,50);return !seen.has(t)&&seen.add(t)}).slice(0,8);
+ const br=pick.filter(i=>now-i.ts<6*3600),imp=pick.filter(i=>now-i.ts>=6*3600);
+ if(!pick.length)return '<h2>Front Page</h2><p class="sum">No breaking news right now.</p>'+(S['Top US']||[]).slice(0,3).map((i,k)=>card(i,k)).join('');
+ let h='<h2>Front Page</h2>'+br.map(i=>'<a class="brk" href="'+esc(i.link)+'" target="_blank" rel="noopener"><b>BREAKING</b>'+esc(i.title)+'<div style="color:var(--mu);font-size:13px;margin-top:4px">'+esc(i.source)+' &middot; '+esc(i.time)+'</div></a>').join('');
+ if(imp.length)h+='<div class="sh"><h3>Important</h3></div>'+imp.map((i,k)=>card(i,k)).join('');return h}
 function render(){const it=S[cur]||[];localStorage.setItem('dp-sec',cur);
  $('sl').innerHTML=Object.keys(S).map(n=>'<button class="s'+(n===cur?' cur':'')+'" data-n="'+esc(n)+'">'+esc(n)+'</button>').join('');
  if(cur==='Front Page'){$('main').innerHTML=front();return}
