@@ -14,6 +14,9 @@ h2{font-size:1.5em;margin:18px 0 14px}
 .card a{color:var(--tx);text-decoration:none;font-weight:bold;font-size:1.05em;line-height:1.4}
 .meta{font:14px Arial,sans-serif;color:var(--mu);margin-top:8px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .more{color:var(--ac);font:14px Arial,sans-serif;padding:0}.sum{font-size:.92em;color:var(--mu);margin-top:8px}
+.brk{display:block;border-left:4px solid #c0392b;background:var(--card);border-radius:10px;padding:10px 14px;margin:12px 0 4px;color:var(--tx);text-decoration:none;font:15px/1.4 Arial,sans-serif}
+.brk b{color:#c0392b;font-size:12px;letter-spacing:1px;margin-right:6px}[data-theme=dark] .brk b{color:#e57373}[data-theme=dark] .brk{border-left-color:#e57373}
+.lead a{font-size:1.4em}.sh{display:flex;justify-content:space-between;align-items:baseline;margin:30px 0 12px}.sh h3{margin:0;font-size:1.2em}.sa{color:var(--ac);font:15px Arial,sans-serif}
 .sm{display:block;width:100%;padding:14px;border:1px solid var(--ln);border-radius:12px;color:var(--ac);font:16px Arial,sans-serif;background:var(--card)}
 #dr{position:fixed;inset:0;background:rgba(0,0,0,.35);display:none;z-index:9}#dr.on{display:block}
 #dr nav{background:var(--bg);width:min(300px,85vw);height:100%;padding:16px;overflow:auto;font-family:Arial,sans-serif}
@@ -23,29 +26,34 @@ h2{font-size:1.5em;margin:18px 0 14px}
 .seg{display:flex;border:1px solid var(--ln);border-radius:10px;overflow:hidden;margin:0 4px}.seg button{flex:1;padding:10px 0;font-size:15px}.seg button.cur{background:var(--ac);color:var(--bg)}
 footer{text-align:center;font:12px Arial,sans-serif;color:var(--mu);margin-top:24px}
 </style></head><body>
-<header><button class="ib" id="mb" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button><h1>The Daily Paper<small id="upd">Loading...</small></h1></header>
+<header><button class="ib" id="mb" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button><h1 id="logo" style="cursor:pointer">The Daily Paper<small id="upd">Loading...</small></h1></header>
 <div id="dr"><nav><div style="display:flex;justify-content:flex-end"><button class="ib" id="cb" aria-label="Close"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>
 <div class="lb">Sections</div><div id="sl"></div><div class="lb">Theme</div>
 <div class="seg" id="th"><button data-t="light">Light</button><button data-t="dark">Dark</button><button data-t="system">System</button></div></nav></div>
 <main id="main"></main><footer id="ft"></footer>
 <script>
-const VER='v2',$=id=>document.getElementById(id);
+const VER='v3',$=id=>document.getElementById(id);
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-let S={},cur=localStorage.getItem('dp-sec')||'Top US',shown=8;
+let S={},cur=localStorage.getItem('dp-sec')||'Front Page',shown=8;
 function theme(t){localStorage.setItem('dp-theme',t);const d=t==='dark'||(t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light';[...$('th').children].forEach(b=>b.classList.toggle('cur',b.dataset.t===t))}
+const card=(i,k,c)=>'<div class="card'+(c||'')+'"><a href="'+esc(i.link)+'" target="_blank" rel="noopener">'+esc(i.title)+'</a><div class="meta"><span>'+esc(i.source)+(i.time?' &middot; '+esc(i.time):'')+'</span>'+(i.summary?'<button class="more" data-k="'+k+'">More</button>':'')+'</div><div class="sum" hidden>'+esc(i.summary)+'</div></div>';
+function front(){const br=(S['Breaking']||[]).filter(i=>Date.now()/1000-i.ts<4*3600).slice(0,3),lead=(S['Top US']||[])[0];let h=br.map(i=>'<a class="brk" href="'+esc(i.link)+'" target="_blank" rel="noopener"><b>BREAKING</b>'+esc(i.title)+'</a>').join('');
+ if(lead)h+='<h2>Front Page</h2>'+card(lead,0,' lead');
+ ['Top US','From X','Texas','Vermont','Crime'].forEach(n=>{const it=(S[n]||[]).filter(i=>i!==lead).slice(0,3);if(it.length)h+='<div class="sh"><h3>'+esc(n)+'</h3><button class="sa" data-n="'+esc(n)+'">See all</button></div>'+it.map((i,k)=>card(i,k)).join('')});return h}
 function render(){const it=S[cur]||[];localStorage.setItem('dp-sec',cur);
  $('sl').innerHTML=Object.keys(S).map(n=>'<button class="s'+(n===cur?' cur':'')+'" data-n="'+esc(n)+'">'+esc(n)+'</button>').join('');
+ if(cur==='Front Page'){$('main').innerHTML=front();return}
  $('main').innerHTML='<h2>'+esc(cur)+'</h2>'+(it.length?it.slice(0,shown).map((i,k)=>'<div class="card"><a href="'+esc(i.link)+'" target="_blank" rel="noopener">'+esc(i.title)+'</a><div class="meta"><span>'+esc(i.source)+(i.time?' &middot; '+esc(i.time):'')+'</span>'+(i.summary?'<button class="more" data-k="'+k+'">More</button>':'')+'</div><div class="sum" hidden>'+esc(i.summary)+'</div></div>').join('')+(it.length>shown?'<button class="sm" id="smb">Show more</button>':''):'<p>Nothing new here right now.</p>')}
-$('main').onclick=e=>{if(e.target.id==='smb'){shown+=8;render()}else if(e.target.dataset.k){const s=e.target.parentNode.nextSibling;s.hidden=!s.hidden;e.target.textContent=s.hidden?'More':'Less'}};
+$('main').onclick=e=>{if(e.target.classList.contains('sa')){cur=e.target.dataset.n;shown=8;render();scrollTo(0,0);return}if(e.target.id==='smb'){shown+=8;render()}else if(e.target.dataset.k){const s=e.target.parentNode.nextSibling;s.hidden=!s.hidden;e.target.textContent=s.hidden?'More':'Less'}};
 $('sl').onclick=e=>{const n=e.target.dataset.n;if(n){cur=n;shown=8;render();$('dr').classList.remove('on');scrollTo(0,0)}};
 $('th').onclick=e=>e.target.dataset.t&&theme(e.target.dataset.t);
-$('mb').onclick=()=>$('dr').classList.add('on');$('cb').onclick=()=>$('dr').classList.remove('on');
+$('logo').onclick=()=>{cur='Front Page';render();scrollTo(0,0)};$('mb').onclick=()=>$('dr').classList.add('on');$('cb').onclick=()=>$('dr').classList.remove('on');
 $('dr').onclick=e=>{if(e.target.id==='dr')$('dr').classList.remove('on')};
 matchMedia('(prefers-color-scheme: dark)').onchange=()=>localStorage.getItem('dp-theme')==='system'&&theme('system');
 theme(localStorage.getItem('dp-theme')||'system');
 (async()=>{const b='?v='+Date.now(),d=await (await fetch('data.json'+b,{cache:'no-store'})).json();let x=null;try{x=await (await fetch('x.json'+b,{cache:'no-store'})).json()}catch(e){}
  const g=n=>(d.sections.find(s=>s.name===n)||{items:[]}).items,all=d.sections.flatMap(s=>s.items),now=Date.now()/1000,seen=new Set();
  const br=all.filter(i=>now-i.ts<6*3600).sort((a,b)=>b.ts-a.ts).filter(i=>!seen.has(i.title)&&seen.add(i.title));
- S={'Top US':g('Top US News'),'Breaking':br,'From X':x?x.items:[],'Texas':g('Texas'),'Vermont':g('Vermont'),'Crime':g('Crime')};
+ S={'Front Page':[],'Top US':g('Top US News'),'Breaking':br,'From X':x?x.items:[],'Texas':g('Texas'),'Vermont':g('Vermont'),'Crime':g('Crime')};
  if(!S[cur])cur='Top US';$('upd').textContent='Updated '+d.updated;$('ft').textContent='Version '+VER;render()})();
 </script></body></html>
