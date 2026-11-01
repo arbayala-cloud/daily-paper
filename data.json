@@ -1,5 +1,5 @@
 {
- "updated": "Sunday, November 1, 2026 6:18 AM CT",
+ "updated": "Sunday, November 1, 2026 6:31 AM CT",
  "sections": [
   {
    "name": "Top US News",
@@ -21,26 +21,18 @@
      "time": "Nov 1, 5:00 AM CT"
     },
     {
+     "title": "Here's how to watch election night as the polls close, hour-by-hour",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+     "summary": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
+     "ts": 1793523600.0,
+     "time": "Nov 1, 3:00 AM CT"
+    },
+    {
      "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
      "source": "NPR",
      "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
      "summary": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party fac...",
-     "ts": 1793523600.0,
-     "time": "Nov 1, 3:00 AM CT"
-    },
-    {
-     "title": "How one family gave a critical boost to gene therapy research",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
-     "summary": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
-     "ts": 1793523600.0,
-     "time": "Nov 1, 3:00 AM CT"
-    },
-    {
-     "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
-     "summary": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to...",
      "ts": 1793523600.0,
      "time": "Nov 1, 3:00 AM CT"
     },
@@ -53,10 +45,10 @@
      "time": "Nov 1, 3:00 AM CT"
     },
     {
-     "title": "Here's how to watch election night as the polls close, hour-by-hour",
-     "source": "NPR National",
-     "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
-     "summary": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
+     "title": "How one family gave a critical boost to gene therapy research",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
+     "summary": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
      "ts": 1793523600.0,
      "time": "Nov 1, 3:00 AM CT"
     },
@@ -147,6 +139,14 @@
      "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
      "ts": 1793405763.0,
      "time": "Oct 30, 7:16 PM CT"
+    },
+    {
+     "title": "Manhunt under way after Toronto CEO and family violently attacked in home invasion",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/c6ewepng9ky5o?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "The real estate mogul and his two daughters were shot, while his wife was assaulted with a hammer, in an attack that has shocked the city.",
+     "ts": 1793398426.0,
+     "time": "Oct 30, 5:13 PM CT"
     }
    ]
   },
@@ -351,30 +351,6 @@
      "time": "Oct 31, 11:48 PM CT"
     },
     {
-     "title": "Context Labs AI Distillery\u2122 Lets Enterprises Run Sovereign AI on Data They Own",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/press_releases/context-labs-ai-distillery-lets-enterprises-run-sovereign-ai-on-data-they-own/image_78c72795-5322-575d-b016-c859d8847c5f.html",
-     "summary": "Context Labs AI Distillery\u2122 lets enterprises run sovereign AI on data they own",
-     "ts": 1793505600.0,
-     "time": "Oct 31, 11:00 PM CT"
-    },
-    {
-     "title": "2026 Yangtze River Culture Festival Opens in Yonglian Village, Zhangjiagang, Jiangsu",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/press_releases/2026-yangtze-river-culture-festival-opens-in-yonglian-village-zhangjiagang-jiangsu/image_a58c730d-d762-52e0-9851-3b473b433eff.html",
-     "summary": "Rural representatives from 13 provinces, autonomous regions and municipalities along the Yangtze River take the stage to present the Declaration on Shared Prosperity through Rur...",
-     "ts": 1793504220.0,
-     "time": "Oct 31, 10:37 PM CT"
-    },
-    {
-     "title": "China-Malaysia Youth Ocean Dialogue Held in Sanya: Jointly Exploring Pathways to Blue Development",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/press_releases/china-malaysia-youth-ocean-dialogue-held-in-sanya-jointly-exploring-pathways-to-blue-development/image_5bf4431d-473b-53bf-9224-4c9a45ca66c6.html",
-     "summary": "",
-     "ts": 1793503260.0,
-     "time": "Oct 31, 10:21 PM CT"
-    },
-    {
      "title": "Shirley Ruth Francis",
      "source": "Burlington Free Press",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVkE5enBoak5YS3RYUlVQNlNOZEQ2OHE0cWdYamdlZm9QMHBWZ1RzdDdDazFyQTJ6TEhZU21EUGNSdEd1ZXdVR09qejhEOHZTbUNPSUxJUVNIWmZmLXpCdDBNSmJtMTYyWFE?oc=5",
@@ -445,6 +421,30 @@
      "summary": "",
      "ts": 1793391325.0,
      "time": "Oct 30, 3:15 PM CT"
+    },
+    {
+     "title": "Pranks, parties and prognostication: The history of Halloween in Vermont",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWlydWZ5cTcyU0lMY3NuMzV1c01tTGlnRnpHdTMwQ3RQSHN0b2t3MUFCUzJEam1ROTc3X1RHTEswRGU2bjl0VGc1MzMtZ3hiR0dMSHdORXVFcnU1SkNFNjhjODZCaEZGMmJrTFNIV0JVbHpNaF9pbjRYMWRTcXc3RzFWVG9TdzZqYkZaM0ZSTGlXVkVsNVc1a1RoQzRwTFU2X1lGbjh3?oc=5",
+     "summary": "",
+     "ts": 1793391214.0,
+     "time": "Oct 30, 3:13 PM CT"
+    },
+    {
+     "title": "High schoolers start podcast to center young transgender Vermonters",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3c5a3B2VndSRDlrTHh4aUQ1Y28xenNvUGFBYWIzeURqU21UenVkN2Y0QktzMjZtcXlpdEhGREM0NXdwQ1NCVktfUElYQldxeVRvbml2U0FacUFpaUk0ZFJhTV9xYTMxTnVxTlVRcmFzNjUwU3ZsTlBNSUtNVXVZdzNvZTgtQTROeWJQM1ZPd3BGRlJCekIyQVVQMG9qcXpwY3c?oc=5",
+     "summary": "",
+     "ts": 1793390384.0,
+     "time": "Oct 30, 2:59 PM CT"
+    },
+    {
+     "title": "Voter voices from Milton\u2019s Bombardier Park",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFoSGZra1YyN3JJUlR3bkFmdk5RQlJNNzFNYkhoMnNwbVBFV0pnM3NQTHJRUjZhcGRCNE10aHhIUlQwelZHLVFjWVdBb2FwVWM5bGg1QWRUU0VHVmsyeFhUbUYzRXZ4ZUFEWFVWdDBzZ0o5OWF3N3JwalY2NFd6OQ?oc=5",
+     "summary": "",
+     "ts": 1793388725.0,
+     "time": "Oct 30, 2:32 PM CT"
     }
    ]
   },
@@ -452,20 +452,20 @@
    "name": "Crime",
    "items": [
     {
-     "title": "Rutland Barracks / Request for information",
-     "source": "VSP News Releases",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYnNJRThHV01sN3VhbXRPRE9yMHZZd2hwTzlpN0VUYV9qYXV4SmtoUVlNQ0tRYV9fTVZDSHZncEg1RFVieFZFUXpKUDZSYjFCUWlpblBsODhEbE4xZkoxVzM5dmZxOEo0WEdYUXZRZC0tVWs5aExldzM4VDdtSDZMT2p2SHhFdVJ0N1BYdVgzRWc?oc=5",
+     "title": "1 dead, 8 injured in shooting after college football game in Alabama",
+     "source": "CNN",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wRElfUFNtcGZIdUJ4cXBLWnF2ZnlCRmFIajVNVXJiTWNXOU9RaVZ3OUpnWGJZcC1WVFlOc3hOb0FVX0xQT0VGbDhpTVV6dFd2ekdLTnQ1VlZMamRZU0tGRko2MVI1bWJuS3NmUUNJSGZkc0c2MmpnVVFhTUs?oc=5",
      "summary": "",
-     "ts": 1793531520.0,
-     "time": "Nov 1, 5:12 AM CT"
+     "ts": 1793533575.0,
+     "time": "Nov 1, 5:46 AM CT"
     },
     {
-     "title": "Police: 7 people taken to hospitals after shooting near Indiana University Bloomington campus",
-     "source": "wthr.com",
-     "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUXdKX3FRWWU5bjg3RGJrM3FTUnFWMkl2aFMtNzJ6YzZzbWtXeGJJcUJxd1NOMG5nMjBOaWRSY1lrVE1TaVh3VWM3aUUwVXpxQXFrNC1RZC1pM2lrSEZkc0RyeVdEamo3S1BVcFpsM0xnUjNac1hwNUR5TzJSWGRqSWJlM0NIRFRSRjI0MzRQUWNDVThuUzVaZDZURHpWbzZ4UlpNcUhjN0FYQ0tIbHJ0ampPT0RmMF9WZWVFcS1pdkpndl9jQ3NzaVFfM1lYTkxQSDVOZElVTk40Mkxjc2pQN3dKU1JQdEtVRl9BTXdJOElfVzBQMW9XaEhBUGRPbENiNHFHeVVuWFVyTTV3aGdEUmZsZ3JTaVUtRHVB?oc=5",
+     "title": "Cops & Courts Roundup: October",
+     "source": "Valley News",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51UjJpVktVVUhkdTg2VC1rTjFMMGlYWDM5R1ptMFFOcjJFSTdlQUxIakR5S2VCS0l3TVFseThJa0NVcVZTaWhsS0xaUVd2SFRHMWJDbzhVYmdaSWtvV3JJNFBVY3N0QWNJ?oc=5",
      "summary": "",
-     "ts": 1793527740.0,
-     "time": "Nov 1, 4:09 AM CT"
+     "ts": 1793532600.0,
+     "time": "Nov 1, 5:30 AM CT"
     },
     {
      "title": "ELPD respond to shooting off-campus",
@@ -548,6 +548,14 @@
      "time": "Oct 31, 2:18 PM CT"
     },
     {
+     "title": "Williston law enforcement on police-involved shooting \u2013 ABC22 & FOX44",
+     "source": "MyChamplainValley.com",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTJjc0ZSY2Zma2NTajNVSzFON0Q3ME1FaXk0V293eDBWQ1ZaY2VjTEF2VElqck1uSGc5T2llbzl1ZGNpVWNGNEpiZi1CaEhfVnkwZk9JVXlkeWYyaGF6aFZXTl9Oa1lJRkFjcFhpa0Qtb0wtRjI4bVhTLXkxLUhabk1MYnFBZnVETlFDUjZwRFVnUWNPVkJXWWhMTkdlSWV5WHdUaURR?oc=5",
+     "summary": "",
+     "ts": 1793452726.0,
+     "time": "Oct 31, 8:18 AM CT"
+    },
+    {
      "title": "Man arrested after allegedly stealing truck, crashing into home",
      "source": "WCAX",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2w2dkxCUDVELW1sOHhfclRXV181ZUJzUlR5cTU2VnIwVkdId25vNXFtelFuRERGcVBXOWxpd0I4QXZIVzNUdzhBSU9HSDRLVE1laWNUaDZnd0toUjNlT0hKTWRsMEdHWElLdlRQblprcl82ZHJSZDVIb25aR19LdExESkFHLVFQdWJyZGFhRnI3bWc0VURzbXN3NNIBrwFBVV95cUxQZ0E3THpSR3ZlTXNOeEoxSUJSTDZLNk5PX19qMVozQTBSZW9MSE5CamlCMERkNTdCb1pLVU1RMFU3ckRYMlJlWnUtRVNVVmhIWEVJNGJtN2FBT1lSMGdmb3lPdE55QzlrdlJENmstV2N0QXlZUGVaSDN2djdDQVNtaU1aUXhscnZDdjczaC15d0xtSFZjdHB4NkpXbnNCYkMyX0JrR1huQ1ZqS2U3ak4w?oc=5",
@@ -570,14 +578,6 @@
      "summary": "",
      "ts": 1793396040.0,
      "time": "Oct 30, 4:34 PM CT"
-    },
-    {
-     "title": "Pranks, parties and prognostication: The history of Halloween in Vermont",
-     "source": "VTDigger",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWlydWZ5cTcyU0lMY3NuMzV1c01tTGlnRnpHdTMwQ3RQSHN0b2t3MUFCUzJEam1ROTc3X1RHTEswRGU2bjl0VGc1MzMtZ3hiR0dMSHdORXVFcnU1SkNFNjhjODZCaEZGMmJrTFNIV0JVbHpNaF9pbjRYMWRTcXc3RzFWVG9TdzZqYkZaM0ZSTGlXVkVsNVc1a1RoQzRwTFU2X1lGbjh3?oc=5",
-     "summary": "",
-     "ts": 1793391214.0,
-     "time": "Oct 30, 3:13 PM CT"
     },
     {
      "title": "Person shot after shoe sale goes wrong in Fort Worth, police say",
