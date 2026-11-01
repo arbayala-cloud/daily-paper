@@ -1,56 +1,88 @@
 {
- "updated": "Saturday, October 31, 2026 3:04 PM CT",
+ "updated": "Sunday, November 1, 2026 5:28 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
     {
-     "title": "France seethes again as youth-led protests sweep Europe",
+     "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
      "source": "NPR",
-     "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-     "summary": "French Interior Minister Laurent Nu\u00f1ez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
-     "ts": 1793475019.0,
-     "time": "Oct 31, 2:30 PM CT"
+     "link": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+     "summary": "On the eve of what may prove to be a tough election for the GOP, young conservatives vying to be part of the first class of Gen Z Republicans in Congress want a role shaping the...",
+     "ts": 1793530800.0,
+     "time": "Nov 1, 5:00 AM CT"
+    },
+    {
+     "title": "Here's how to watch election night as the polls close, hour-by-hour",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+     "summary": "As polls close on election night, here's a look at what to expect each hour and which midterm races are key to deciding control of Congress.",
+     "ts": 1793523600.0,
+     "time": "Nov 1, 3:00 AM CT"
+    },
+    {
+     "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
+     "summary": "The majority of congressional races this cycle are rated either solid Democrat or solid Republican. They're the opposite of tossups, where candidates from the minority party fac...",
+     "ts": 1793523600.0,
+     "time": "Nov 1, 3:00 AM CT"
+    },
+    {
+     "title": "Supreme Court hears religious freedom case centered on universal pre-K program",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
+     "summary": "The Archdiocese of Denver wants to be able to turn away LGBTQ families from Catholic preschools that receive state funding.",
+     "ts": 1793523600.0,
+     "time": "Nov 1, 3:00 AM CT"
+    },
+    {
+     "title": "How one family gave a critical boost to gene therapy research",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6014739/sanfilippo-gene-therapy-fayuvi",
+     "summary": "A family affected by Sanfilippo syndrome raised millions of dollars for research. The Food and Drug Administration just approved a gene therapy the support helped make possible.",
+     "ts": 1793523600.0,
+     "time": "Nov 1, 3:00 AM CT"
+    },
+    {
+     "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
+     "summary": "President Trump has maintained a near-daily rally schedule as Election Day draws closer, playing his greatest hits for loyal crowds in red states in what is a sort-of goodbye to...",
+     "ts": 1793523600.0,
+     "time": "Nov 1, 3:00 AM CT"
+    },
+    {
+     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+     "source": "NPR National",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+     "summary": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Mu...",
+     "ts": 1793521219.0,
+     "time": "Nov 1, 2:20 AM CT"
+    },
+    {
+     "title": "Devastating storms continue to hit Southwest 'Four Corners' region",
+     "source": "NPR National",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6023454/devastating-storms-continue-to-hit-southwest-four-corners-region",
+     "summary": "Communities in the Southwest are bracing for more flooding this weekend. This follows weeks of devastating storms that have pummeled parts of the region.",
+     "ts": 1793481277.0,
+     "time": "Oct 31, 4:14 PM CT"
+    },
+    {
+     "title": "Tusk defends suspension of Poland\u2019s Constitutional Tribunal president as protesters gather again",
+     "source": "AP News",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVVIM1owQ1djXzREamhGRFhZUHl5ZTBxN1FYUjBuZW5HVG90TGZfY2R5c1lkVmplYkhGbUNIZ3Q5Z3NXUEdzWndIS29xZzFINmVlcmZOV3hFcDZnS3JBRDZUdFBhTUh6VlVFY19vOUNjXzluSzNXRV82NWlrNXpteTNDemRDMnlSTzgxdmdydWJOWkkwUmw5b1J0cHZnZXYwcXFqdlFfVnZTQQ?oc=5",
+     "summary": "",
+     "ts": 1793479740.0,
+     "time": "Oct 31, 3:49 PM CT"
     },
     {
      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
      "source": "AP News",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNXzNPdDBVU2FTV3NVXzdETklrdGtSQXZBVWFZVm1pNGYxRDY4aHR5QlUzbjBHWVljNnFHU0lUbzVOSWxWNE5TYUdIVXJzX2d3Q2IwYndMZzJqQUhSMGM2amlNVjdCTTdWZGp6cnJEMnk5LVV4NklLd2FZLXdiTEZmNlNLTTh3WWhPcldua0I3bVI4Nk9jUVE?oc=5",
      "summary": "",
-     "ts": 1793474040.0,
-     "time": "Oct 31, 2:14 PM CT"
-    },
-    {
-     "title": "Key takeaways from this week's political meeting in Beijing",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-     "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth...",
-     "ts": 1793472153.0,
-     "time": "Oct 31, 1:42 PM CT"
-    },
-    {
-     "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
-     "summary": "",
-     "ts": 1793470440.0,
-     "time": "Oct 31, 1:14 PM CT"
-    },
-    {
-     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-     "summary": "Here are five things to know about the massive hack of the crypto exchange Binance \u2014 from how it happened to what it means for the sector.",
-     "ts": 1793470262.0,
-     "time": "Oct 31, 1:11 PM CT"
-    },
-    {
-     "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-     "summary": "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race.",
-     "ts": 1793454658.0,
-     "time": "Oct 31, 8:50 AM CT"
+     "ts": 1793477640.0,
+     "time": "Oct 31, 3:14 PM CT"
     },
     {
      "title": "US approves sale of 500 Patriot missiles to Ukraine",
@@ -59,22 +91,6 @@
      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
      "ts": 1793449285.0,
      "time": "Oct 31, 7:21 AM CT"
-    },
-    {
-     "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
-     "summary": "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House. But maybe state dinners should happen at The Cheeseca...",
-     "ts": 1793448000.0,
-     "time": "Oct 31, 7:00 AM CT"
-    },
-    {
-     "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-     "summary": "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground.",
-     "ts": 1793447770.0,
-     "time": "Oct 31, 6:56 AM CT"
     },
     {
      "title": "Meet Mia Moroz, the Culver City high school senior fighting for teen voting rights",
@@ -93,42 +109,10 @@
      "time": "Oct 31, 6:42 AM CT"
     },
     {
-     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5",
-     "summary": "",
-     "ts": 1793444400.0,
-     "time": "Oct 31, 6:00 AM CT"
-    },
-    {
-     "title": "After last year's storm, this remote Alaska town is still picking up the pieces",
-     "source": "NPR National",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6021471/ex-typhoon-halong-damages-western-alaska-native-villages-kipnuk",
-     "summary": "In October, 2025, the remnants of a typhoon seriously damaged Alaska Native villages in the far western part of the state. A year later, one of the hardest hit communities is st...",
-     "ts": 1793437200.0,
-     "time": "Oct 31, 4:00 AM CT"
-    },
-    {
      "title": "Can I trust the polls? And other questions from listeners about the 2026 midterms",
      "source": "NPR National",
      "link": "https://www.npr.org/2026/10/31/g-s1-149981/listener-questions-npr-midterms-2026-election",
      "summary": "Ahead of Election Day, listeners send in questions about whether debates are dead, if polls are reliable for election coverage and how Trump might work with Democrats if they wi...",
-     "ts": 1793437200.0,
-     "time": "Oct 31, 4:00 AM CT"
-    },
-    {
-     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
-     "source": "NPR National",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
-     "summary": "Residents are fighting back against plans for a project that would span thousands of acres near the Monongahela National Forest and popular outdoor recreation, ski areas and dar...",
-     "ts": 1793437200.0,
-     "time": "Oct 31, 4:00 AM CT"
-    },
-    {
-     "title": "100 years later, Harry Houdini's death still haunts Detroit",
-     "source": "NPR National",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6008110/100-years-harry-houdinis-death-haunts-detroit",
-     "summary": "The legacy of magician Harry Houdini still looms large in Detroit 100 years after his death there. Some mark the anniversary of Houdini's death by trying to make contact with hi...",
      "ts": 1793437200.0,
      "time": "Oct 31, 4:00 AM CT"
     },
@@ -147,6 +131,22 @@
      "summary": "A century-old paper mill in T\u00e9miscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
      "ts": 1793414365.0,
      "time": "Oct 30, 9:39 PM CT"
+    },
+    {
+     "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+     "ts": 1793405763.0,
+     "time": "Oct 30, 7:16 PM CT"
+    },
+    {
+     "title": "Manhunt under way after Toronto CEO and family violently attacked in home invasion",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/c6ewepng9ky5o?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "The real estate mogul and his two daughters were shot, while his wife was assaulted with a hammer, in an attack that has shocked the city.",
+     "ts": 1793398426.0,
+     "time": "Oct 30, 5:13 PM CT"
     }
    ]
   },
@@ -154,84 +154,116 @@
    "name": "Texas",
    "items": [
     {
-     "title": "Pregnant woman killed, 6 others hurt in shooting at Halloween store in California",
+     "title": "At least 3 killed, multiple others injured in Deep Ellum shootings, officials said",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/spirit-halloween-deadly-shooting-fairfield-california-investigation/507-c72e6933-e856-4ddb-b9bd-aa6da73980c9",
-     "summary": "One person died and six others were hurt in a shooting Friday night at a Spirit Halloween store in Northern California.",
-     "ts": 1793475963.0,
-     "time": "Oct 31, 2:46 PM CT"
+     "link": "https://www.wfaa.com/article/news/crime/at-least-3-killed-multiple-others-injured-in-deep-ellum-shootings-halloween-officials-said/287-c34cd56c-d7be-486a-89aa-d3f15910b419",
+     "summary": "Dallas police sources told WFAA they're working three different shooting scenes in Deep Ellum.",
+     "ts": 1793531528.0,
+     "time": "Nov 1, 5:12 AM CT"
     },
     {
-     "title": "Valkyries determined to avoid another slow start in WNBA Finals Game 7 against Dream",
+     "title": "1 person killed after being hit by car on Highway 183 ramp in Fort Worth, police say",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/golden-state-valkyries-atlanta-dream-game-seven-wnba-finals-championship/507-f7c3f53f-2625-428a-aadc-82fa8a90ec9f",
-     "summary": "There shouldn't be a problem with the Golden State Valkyries and Atlanta Dream approaching the first WNBA Finals Game 7 in league history with a sense of urgency.",
-     "ts": 1793474563.0,
-     "time": "Oct 31, 2:22 PM CT"
+     "link": "https://www.wfaa.com/article/news/local/tarrant-county/person-killed-after-being-hit-by-car-highway-183-ramp-fort-worth-police/287-98ae945d-0e88-4b87-9ad2-c12a44d8c557",
+     "summary": "According to Fort Worth police, the victim was standing outside of their disabled vehicle on the road when another car collided into them.",
+     "ts": 1793508791.0,
+     "time": "Oct 31, 11:53 PM CT"
     },
     {
-     "title": "The final pitch to voters in the race for Governor",
+     "title": "SMU community celebrates the lives of young couple killed in Dallas crash",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/final-pitch-voters-race-for-governor-abbott-hinojosa/287-9d9c727c-2939-4756-aa1b-82db66f3deb2",
-     "summary": "Governor Greg Abbott and State Rep. Gina Hinojosa join Inside Texas Politics",
-     "ts": 1793474541.0,
-     "time": "Oct 31, 2:22 PM CT"
+     "link": "https://www.wfaa.com/article/news/community/smu-community-celebrates-the-lives-of-young-couple-killed-in-dallas-crash/287-8de1101d-1498-47bb-8db3-49e8b1e389c6",
+     "summary": "From Saturday's memorial of Julian Harris and Madi Duren: \u201cLaughter is that thing that helps to break down the hard moments.\"",
+     "ts": 1793505622.0,
+     "time": "Oct 31, 11:00 PM CT"
     },
     {
-     "title": "How to watch live Texas midterm election results, reaction, analysis on WFAA",
+     "title": "POLICE: Investigation underway after reported incident at East Texas polling place; ballots remain secure",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/how-to-watch-live-texas-midterm-election-results-reaction-analysis-on-wfaa/287-c62bb070-1302-4930-8c2d-63285e09e000",
-     "summary": "WFAA reporters across Texas cover election results live starting at 6 p.m. Tuesday, Nov. 3. Stream reaction from Paxton, Talarico, Abbott, Hinojosa and others.",
-     "ts": 1793471087.0,
-     "time": "Oct 31, 1:24 PM CT"
+     "link": "https://www.wfaa.com/article/news/politics/elections/police-investigating-after-reported-incident-east-texas-polling-place/501-c78a1478-e4d5-4ece-9801-abce67baeca1",
+     "summary": "The Jefferson Police Department is investigating an incident where a woman allegedly entered a secured polling area, potentially violating election protocols.",
+     "ts": 1793504016.0,
+     "time": "Oct 31, 10:33 PM CT"
     },
     {
-     "title": "More than 7.4 million Texans voted early in midterm election, officials say",
+     "title": "6 people hospitalized after multi-vehicle crash near Denton haunted house, police say",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/more-than-74-million-texans-voted-early-in-midterm-election-officials-say/287-cc9ea40f-40df-4107-8f58-caec8a658281",
-     "summary": "Some 1.7 million people voted early in North Texas.",
-     "ts": 1793471060.0,
-     "time": "Oct 31, 1:24 PM CT"
+     "link": "https://www.wfaa.com/article/news/local/denton-county/6-people-hospitalized-multi-vehicle-crash-near-denton-haunted-house-police/287-d2b279f6-984d-4384-9179-007f88e4bfc8",
+     "summary": "All three lanes of westbound Highway 380 near the 8400 block of West University Drive are closed as police investigate.",
+     "ts": 1793503711.0,
+     "time": "Oct 31, 10:28 PM CT"
     },
     {
-     "title": "Any flyers to or through the U.S. must sign a new statement starting Nov. 3. Here's why.",
+     "title": "Memorial held for 2 recent SMU grads hit, killed by speeding driver",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/news/just-beautiful-people-friends-hold-vigil-2-recent-smu-grads-killed-crash-speeding-driver",
+     "summary": "Two recent SMU graduates who were killed in a crash near White Rock Lake are being remembered not just for the lives they lived, but the art they created.",
+     "ts": 1793503670.0,
+     "time": "Oct 31, 10:27 PM CT"
+    },
+    {
+     "title": "Did anyone win Powerball's $760M jackpot? Here are the winning numbers for Oct. 31",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/international-travel-united-states-flights-ebola-sign-statement-attest-drc-outbreak/507-07349882-1d72-4679-9ca2-e14a36355021",
-     "summary": "If you're flying to the U.S. or have a connecting flight in the U.S., you'll need to sign a statement starting at 11:59 p.m. Eastern on Nov. 3. Here's why.",
-     "ts": 1793469658.0,
-     "time": "Oct 31, 1:00 PM CT"
+     "link": "https://www.wfaa.com/article/news/nation-world/powerball-drawing-winning-numbers-saturday-october-31/507-e7038df6-4075-4c0a-b9d2-94f973a14590",
+     "summary": "A $760 million jackpot was up for grabs in Saturday's Powerball drawing. Here are the winning numbers.",
+     "ts": 1793502052.0,
+     "time": "Oct 31, 10:00 PM CT"
+    },
+    {
+     "title": "Ken Paxton appears to cancel final rally of his \u201cCome and Take It\u201d tour at the Alamo",
+     "source": "The Texas Tribune",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzM3c1dnRzBiY0dTd25hRFBSMXRvVW0zVkdQc2hKYS1oODhQQ3AxTjRvTmtOb25lNGpRVVFRenJXQ2VwZ1pvb1RYbzNEcmhFVEhWX2tkNGFYOXhqLU44QkZXOXlHNWNwcEhtb1IwY0xfOHZFekdaNTZqSjdkOF80bVdvLUNIZUh2NEpvZEwtaw?oc=5",
+     "summary": "",
+     "ts": 1793487076.0,
+     "time": "Oct 31, 5:51 PM CT"
+    },
+    {
+     "title": "28-year-old dies after being shot multiple times in Dallas: police",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/news/28-year-old-found-dead-after-being-shot-multiple-times-dallas-police-say",
+     "summary": "A 28-year-old was killed Friday night after being shot multiple times near South Tyler Street in Dallas, police said.",
+     "ts": 1793479230.0,
+     "time": "Oct 31, 3:40 PM CT"
+    },
+    {
+     "title": "More than 7.5 million Texans voted early in 2026 election, matching 2018 pace",
+     "source": "The Texas Tribune",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXVSQ05uN3ByRHpYTEhwSlFQaVBZTFFlVk1uTTUyZmdhSW5JV1VKZjRYR2VzakY3QmtkVFJwSC1Tang3LVJGcXh3WFU2MW5Sak02NkRrbW4tS24tdUhsNi0tVkJndzdSek9TY3FiRFN4Z2lVRi0xVmVyVzlCeHp3c1Vvc2p6SHdqSzF1dGY0QQ?oc=5",
+     "summary": "",
+     "ts": 1793476927.0,
+     "time": "Oct 31, 3:02 PM CT"
+    },
+    {
+     "title": "Tarrant GOP ballot board judge accused of violating Texas election law",
+     "source": "Fort Worth Star-Telegram",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUVuYXQzY1ZNYVlUNGlWQlFoNlRFRFI0WFFrS1pZRnB2VFJwU0dpWWRFRHF5cVdMR3lLcE02RTQwSTdteVN0YnE1bDRvZjRSTzFQN1Zvb1p1MUtuOXFnQ0h5RF9DNDQwai1kd1BDa1FOd2tJczhOVmcwaE50OG83TkRR0gGCAUFVX3lxTE11TlR1VjNIRGFaazVmNHMwdUlkRjlWYjNQeEpsaUltU3U5djJfTGlNSmNJcmk4NHFZZFpZZUhlcGF1aWxGTzhTRTNGbU5uaTVvUXExT2lpdlBnTEp5amNGZnhjcExUampGbDVRdWYtV0RCMXhOYmxwQ2k2MU1fLVc4YUE?oc=5",
+     "summary": "",
+     "ts": 1793473500.0,
+     "time": "Oct 31, 2:05 PM CT"
+    },
+    {
+     "title": "Texas early voting is done. Here\u2019s how many people turned out in Tarrant County",
+     "source": "Fort Worth Star-Telegram",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWThUb3Fpa0NvYkRkamF4dV9xNjVEVE1vYVoyOFlXcXpxbE8yV2tJZGFkM3NoMnVfLUpBZWZPaDR6RWRKNEtMNm9FMm9kSEFGcnFseURwVXo4NHJkdlU3ZnJXZUc0Tm05dTM1TG9GekV5T21zNEFEbXA2TlFIOG5sOVQzSGRkem91U29uLWNR?oc=5",
+     "summary": "",
+     "ts": 1793467080.0,
+     "time": "Oct 31, 12:18 PM CT"
     },
     {
      "title": "This young Latino mayor went all in for John Cornyn. But Ken Paxton is a sore subject.",
      "source": "The Texas Tribune",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdm1SN29aTzczMzJ5TlQxbWpzTk9vcVhhdVdGVUdFOHFsbzU5QVZvTmlIdXZWeEQ5VGxWU3hnZ0FvU094LWlBcDdoTEo2ZEIwalltS0x2Mi1udkY5bEFEdTJoX0VvZms5TFNIcEZLN0l3TUhaQmt0Ul93SGExTnNMeS02dmRfVWw2cXRuSnlveWVOQ0lwQnh2U1h3aHRnUmc?oc=5",
      "summary": "",
-     "ts": 1793440990.0,
-     "time": "Oct 31, 5:03 AM CT"
+     "ts": 1793464965.0,
+     "time": "Oct 31, 11:42 AM CT"
     },
     {
-     "title": "Texas Senate race nears Election Day with much at stake",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdl8wTFNCS1pYc3lYZEVEdWVjQjZHbW9vX1BaOThmSnBZOUZaV1I0T2J4YnBoVU9qOFdXV3l5ZDU5XzhEajVFSzJuLV9PYXJDSHREMmZFY3BLMjIwekNfWjFqWlFSUjgwSzJLM1FxRnplUkJiWGpaeUVpNTd5Q2prcUtqUFU4ZEpaaDRfdmViY2lEVUg1bXV2Vl92cVd3MmpjUl9wN2xzQ0M?oc=5",
-     "summary": "",
-     "ts": 1793440800.0,
-     "time": "Oct 31, 5:00 AM CT"
-    },
-    {
-     "title": "Texans fear SpaceX will control Boca Chica",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNE5PZlJVU2ZNWGdYc2RCRFFaUnhtZmdlYkJfaEhxcThOb0huVkJMamtTelVyWWIzLWlwMkRUMFRmM3E0emU0YjJVS3ZrRDl1V2RrNHhEM0x2dGtrR19vbWgwZ2ZPZ1BPVUtaanFpWVhCenJXRlZ2Y1FwOVBoUTk2ckxoYk8wS0poSzgtT2tBc0pHNlNZ?oc=5",
-     "summary": "",
-     "ts": 1793440800.0,
-     "time": "Oct 31, 5:00 AM CT"
-    },
-    {
-     "title": "Arlington Heights survives Wyatt to remain undefeated in thriller \u2014 PHOTOS",
+     "title": "Paxton\u2019s Fort Worth rally attended by busload of supporters from rural counties",
      "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EOU9EWEJOUWJJNENEaEF0dDRxM0g5Q1kwTUl1enZPQ29BNDhKZGw3VTRLZHRwU3lYNE1WdUJkbWJQdmJOZF81bmUwUG05a1JTd2w3X1JnbVBOWF80czdadlEyM2hwOHpieDk1eEtudjNjWUhpTGRWNNIBeEFVX3lxTE9IcVh1QTZpWG56QTh3UVF1eWNnbkV6dHZuRlNGdWt3YlhHdHdyblcyeWhqZXdhRGdkTU5ia2pxYkVCWERST3FWQ1lLcjhkajlPTjBjSlRHTjFTMTd1OTBpQmJYckVFRXVSdUJ0MjhsUzNHOEg1ZzFLcA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2dKQXc4UUt1VnNPdUZ0YUxsTFdXQkRKWjVwUTVyamJ4M3Zwb1B3bHNZeGk0SG40RUJsaHJMLVdZbUtJUjM3aFF3NUFISFlSX0J6cnlPcEY0N3h6aGhfTFE4bXhDWm9WZDlHcW9udmduNFNvWDhsamdnQ2FZbzFsNkViWHhlS1UwT0VqaUJn0gGOAUFVX3lxTE1URW5HTHFNQzdlUW9XbmpkMkZVNEFSajZHaThpc2p5eXFDN1VyUVJMWHJaS0x4Y2NUM2JsSVNkbktDSkRSVnRnSGtFQ3Y0X1FZdjRGSWFRS0lGZjRnLVRXdHRhV1M3UENrenRvdklTYnREVF93T3VSUGF0SXc3YlFNaG8yRGh6dlhlajdXQnc?oc=5",
      "summary": "",
-     "ts": 1793416740.0,
-     "time": "Oct 30, 10:19 PM CT"
+     "ts": 1793463840.0,
+     "time": "Oct 31, 11:24 AM CT"
     },
     {
      "title": "Lake Highlands attempted burglar breaks door window",
@@ -258,44 +290,12 @@
      "time": "Oct 30, 8:39 PM CT"
     },
     {
-     "title": "Riders seen walking down 245-foot roller coaster at Six Flags Over Texas after it stops on incline",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/video-shows-riders-having-climb-down-245-foot-rollercoaster-six-flags-over-texas",
-     "summary": "Guests on the Titan roller coaster at Six Flags Over Texas were forced to get out of their seats and walk down a steep staircase on Thursday night after the ride appeared to sto...",
-     "ts": 1793407667.0,
-     "time": "Oct 30, 7:47 PM CT"
-    },
-    {
-     "title": "Key witness in Yella Beezy trial ordered to return",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-tloxerlrgytlyz5r",
-     "summary": "The first week of the murder-for-hire trial against Dallas rapper Yella Beezy wrapped up on Friday. Markies Conway, better known as Yella Beezy, is accused of orchestrating a pl...",
-     "ts": 1793397798.0,
-     "time": "Oct 30, 5:03 PM CT"
-    },
-    {
-     "title": "Man sentenced for 2024 Fort Worth drunk driving crash that killed 3 children, 2 adults",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/man-sentenced-2024-fort-worth-drunk-driving-crash-killed-3-children-2-adults",
-     "summary": "A Tarrant County man will spend decades behind bars after a jury found him guilty on five counts of intoxication manslaughter in a 2024 crash that left three children and two ad...",
-     "ts": 1793395205.0,
-     "time": "Oct 30, 4:20 PM CT"
-    },
-    {
-     "title": "Texas Supreme Court blocks deposition intended to identify group behind transgender mailers",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUHBERHlhUTgxVldScGFqOFVFcWxYcDNLSUR2bFdjeWstYmRRQ01xRXNRMkFneGc3YnRzc19RbkRObmlxa1BqaDQ3WEptbGU0MVhVYWZVS0R5Qk81RXViQXhvLVlyMU9UUnRfcGhGYmNNS0dKdHdXZlBNRS1pREJ5WEJOMy1qd2VLNk03VWVUMWtiaC1qWUE?oc=5",
-     "summary": "",
-     "ts": 1793392738.0,
-     "time": "Oct 30, 3:38 PM CT"
-    },
-    {
-     "title": "30-year-old man dies after SUV crashes in restaurant parking lot in Arlington",
+     "title": "Arlington pastor accused of sexual assault in second lawsuit against church",
      "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TZVdEbjJQOXIwbDNuU2Q3NVh6U1Z4SWFZOHJmY1JXMUNzckJrUWRUR1VhZTdRWUgxcS0tQTV5a1M2b1pVVlJhVzBQcEpkRjJkcVJxYW03cS1OdTRKY2wwZEo3YU5aeXBIXzd6OUs0enl2XzRoY3ZTd0R4NFg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40R1VLRFBOUXVudkdzUExZN1gyRGhUUFcyQW40VXdNU1UwX3VlY0VEaGVQaTNuY0RwR2xGbVl4aXhqQmFjeWt6T1dXd2VKblVHUV9MaXd5WVl2eGItWS05eERhUXpERk9YbV9ES29wbGkta1Zwb3RCQmo0MWjSAXxBVV95cUxPSFh2M20zODIwemt3TXJFRDQ2TTZtQ1dVYnZJZGxqLUt0RUNlZGZxcmNXY3RqWXRfdjRWVzlnQXZNYnJQbXhiOVAtUkFUMzlvZFkxbGF3cmVrYmc2ZW9Id0xiOVkwdXBmeWtHendpSWRHVDJvYUk0ZW5xVDhY?oc=5",
      "summary": "",
-     "ts": 1793389680.0,
-     "time": "Oct 30, 2:48 PM CT"
+     "ts": 1793408340.0,
+     "time": "Oct 30, 7:59 PM CT"
     }
    ]
   },
@@ -303,68 +303,60 @@
    "name": "Vermont",
    "items": [
     {
-     "title": "Here are recent property transfers up to $1.2 million",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/news/real_estate/here-are-recent-property-transfers-up-to-1-2-million/article_ae5b0bff-27b3-4d9c-af81-c5261d16b96c.html",
+     "title": "A nice day today, and November will be starting off on a relatively warm note.",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/01/nice-day-today-november-will-be-starting-off-relatively-warm-note/",
+     "summary": "We're back to Standard Time, so hopefully you've remembered to turn your clocks back 1 hour. Today will be mostly sunny and pleasant with highs in the 50s. A few spots may hit 6...",
+     "ts": 1793531868.0,
+     "time": "Nov 1, 5:17 AM CT"
+    },
+    {
+     "title": "Here\u2019s the salary it takes to live comfortably in each US state in 2026",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/01/heres-salary-it-takes-live-comfortably-each-us-state-2026/",
+     "summary": "A single adult needs at least $80K to live comfortably in every U.S. state in 2026, while a family of four requires up to $329K. See the full state-by-state salary rankings.",
+     "ts": 1793529095.0,
+     "time": "Nov 1, 4:31 AM CT"
+    },
+    {
+     "title": "1 dead, at least 8 injured in shooting after largest HBCU football game, police say",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/01/1-dead-least-8-injured-shooting-after-largest-hbcu-football-game-police-say/",
+     "summary": "One person was killed and at least eight others were injured in a shooting near the Magic City Classic football game in Birmingham, Alabama, police said.",
+     "ts": 1793520906.0,
+     "time": "Nov 1, 2:15 AM CT"
+    },
+    {
+     "title": "Influencer Liam Fitzgerald dies from injuries after motorcycle crash, girlfriend says",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/01/influencer-liam-fitzgerald-dies-injuries-after-motorcycle-crash-girlfriend-says/",
+     "summary": "Fitness and finance influencer Liam Fitzgerald, followed by over 1 million fans, has died from injuries suffered in an Oct. 30 motorcycle crash, his girlfriend confirmed.",
+     "ts": 1793514440.0,
+     "time": "Nov 1, 1:27 AM CT"
+    },
+    {
+     "title": "President Trump arrives at Mar-a-Lago for Halloween, \u2018I came as Donald Trump\u2019",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/01/president-trump-arrives-mar-a-lago-halloween-i-came-donald-trump/",
+     "summary": "President Donald Trump arrived at Mar-a-Lago dressed as himself for a jungle-themed Halloween party, citing a busy schedule ahead of weekend campaign rallies.",
+     "ts": 1793508926.0,
+     "time": "Oct 31, 11:55 PM CT"
+    },
+    {
+     "title": "Halloween queen Heidi Klum deserves a hand for her costume in 2026",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/01/halloween-queen-heidi-klum-deserves-hand-her-costume-2026/",
+     "summary": "Supermodel Heidi Klum defended her Halloween queen crown in 2026 by transforming into a giant severed version of her own hand.",
+     "ts": 1793508530.0,
+     "time": "Oct 31, 11:48 PM CT"
+    },
+    {
+     "title": "Shirley Ruth Francis",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVkE5enBoak5YS3RYUlVQNlNOZEQ2OHE0cWdYamdlZm9QMHBWZ1RzdDdDazFyQTJ6TEhZU21EUGNSdEd1ZXdVR09qejhEOHZTbUNPSUxJUVNIWmZmLXpCdDBNSmJtMTYyWFE?oc=5",
      "summary": "",
-     "ts": 1793476800.0,
-     "time": "Oct 31, 3:00 PM CT"
-    },
-    {
-     "title": "\u2018I Voted\u2019 sticker creator talks about how it started",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/10/31/i-voted-sticker-creator-talks-about-how-it-started/",
-     "summary": "The \u201cI Voted\u201d sticker given to people who cast ballots began with one woman, Janet Boudreau, who designed it after seeing a local county hand out a different sticker on Election...",
-     "ts": 1793472969.0,
-     "time": "Oct 31, 1:56 PM CT"
-    },
-    {
-     "title": "Police corporal killed in \u2018freak\u2019 motorcycle crash remembered by wife, father",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/10/31/police-corporal-killed-freak-motorcycle-wreck-remembered-by-wife-father/",
-     "summary": "An Alabama woman says she just had two and a half weeks with her husband before he was taken away from her in a motorcycle crash.",
-     "ts": 1793469298.0,
-     "time": "Oct 31, 12:54 PM CT"
-    },
-    {
-     "title": "Man posing as Amazon delivery driver accused of stealing multiple packages from neighborhood",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/10/31/man-posing-amazon-delivery-driver-accused-stealing-multiple-packages-neighborhood/",
-     "summary": "A Portland man was arrested after allegedly stealing packages in Lake Oswego.",
-     "ts": 1793456478.0,
-     "time": "Oct 31, 9:21 AM CT"
-    },
-    {
-     "title": "Democratic congressional candidate served with felony warrant at campaign event",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/10/31/democratic-congressional-candidate-served-with-felony-warrant-campaign-event/",
-     "summary": "A Democratic candidate running for North Carolina\u2019s Congressional District 14 was served with a felony warrant.",
-     "ts": 1793453093.0,
-     "time": "Oct 31, 8:24 AM CT"
-    },
-    {
-     "title": "You\u2019ll get an extra hour of sleep (or partying) on Halloween night as daylight saving time ends",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/10/29/youll-get-an-extra-hour-sleep-or-partying-halloween-night-daylight-saving-time-ends/",
-     "summary": "Daylight saving time ends Nov. 1, giving people an extra hour of sleep. Here\u2019s when clocks fall back and when the time change returns in 2027.",
-     "ts": 1793452150.0,
-     "time": "Oct 31, 8:09 AM CT"
-    },
-    {
-     "title": "\u2018I choked that dog out\u2019: Rescue operator charged with felony animal torture",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/10/31/i-choked-that-dog-out-rescue-operator-charged-with-felony-animal-torture/",
-     "summary": "An Indiana woman who operated an animal rescue is facing criminal charges.",
-     "ts": 1793451167.0,
-     "time": "Oct 31, 7:52 AM CT"
-    },
-    {
-     "title": "Letter to the Editor: Bob Norris is the right choice for state senator",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/opinion/letters_to_editor/letter-to-the-editor-bob-norris-is-the-right-choice-for-state-senator/article_ad3d0463-323e-48c5-8242-21c807ccb0c3.html",
-     "summary": "This letter is from Dan Pipes, a resident of Fairfield.",
-     "ts": 1793448000.0,
-     "time": "Oct 31, 7:00 AM CT"
+     "ts": 1793450106.0,
+     "time": "Oct 31, 7:35 AM CT"
     },
     {
      "title": "Upper Valley\u2019s member-owned co-op battles rising food prices",
@@ -373,22 +365,6 @@
      "summary": "",
      "ts": 1793446560.0,
      "time": "Oct 31, 6:36 AM CT"
-    },
-    {
-     "title": "Family Yard Fall To-Dos",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/community_cares/family-yard-fall-to-dos/image_7400831a-71cb-535a-89b0-9dc7b1f107a9.html",
-     "summary": "",
-     "ts": 1793431800.0,
-     "time": "Oct 31, 2:30 AM CT"
-    },
-    {
-     "title": "Take Charge of Your Breast Health as You Age",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/take-charge-of-your-breast-health-as-you-age/image_6b5645eb-ebc7-5091-9449-3c0cba0a0bca.html",
-     "summary": "Staying up to date on preventive care and recommended screenings can help detect cancer earlier and support better health as you age.",
-     "ts": 1793431800.0,
-     "time": "Oct 31, 2:30 AM CT"
     },
     {
      "title": "How No. 1 Vergennes girls soccer captured back-to-back D-III titles",
@@ -427,8 +403,8 @@
      "source": "Burlington Free Press",
      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOWXhwNFJwQ2pmeF9SRHR3OEpjV2xwOHp2TF9YS0lIMGc0djNUR0RkLWJoN091TFJxUjU5R1R6dHRQS2hQQXlZeFQ1dVZndk5KYm4wOUlESlNsUko1MzlRcHNnQlRGYXlNTWF2VVJqLW5iYVRFd2JfWDluQzlzZkxRbi1DVFFGa1BwaFRNSGsyckUtNlpBdWViZ0Rnd2QtcjR6eE5XZFRIeW1FcUU2UEVHcXp2NDZzODFrVENRVWd6RlpPSHBMZlViN1JMb1JkZG1wUWp1UmVzNVB1dlRjRmNpUlNQdXAxZXpXdm1KQVJRUXlOTlFqUEhmVllRSks2c2VzZlZMazRha3c3b0JJOUJObV80YUFseWF2WEZTdFBaYmNUM3c?oc=5",
      "summary": "",
-     "ts": 1793409665.0,
-     "time": "Oct 30, 8:21 PM CT"
+     "ts": 1793394366.0,
+     "time": "Oct 30, 4:06 PM CT"
     },
     {
      "title": "The saga of a sweet turnip",
@@ -445,6 +421,30 @@
      "summary": "",
      "ts": 1793391325.0,
      "time": "Oct 30, 3:15 PM CT"
+    },
+    {
+     "title": "Pranks, parties and prognostication: The history of Halloween in Vermont",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWlydWZ5cTcyU0lMY3NuMzV1c01tTGlnRnpHdTMwQ3RQSHN0b2t3MUFCUzJEam1ROTc3X1RHTEswRGU2bjl0VGc1MzMtZ3hiR0dMSHdORXVFcnU1SkNFNjhjODZCaEZGMmJrTFNIV0JVbHpNaF9pbjRYMWRTcXc3RzFWVG9TdzZqYkZaM0ZSTGlXVkVsNVc1a1RoQzRwTFU2X1lGbjh3?oc=5",
+     "summary": "",
+     "ts": 1793391214.0,
+     "time": "Oct 30, 3:13 PM CT"
+    },
+    {
+     "title": "High schoolers start podcast to center young transgender Vermonters",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3c5a3B2VndSRDlrTHh4aUQ1Y28xenNvUGFBYWIzeURqU21UenVkN2Y0QktzMjZtcXlpdEhGREM0NXdwQ1NCVktfUElYQldxeVRvbml2U0FacUFpaUk0ZFJhTV9xYTMxTnVxTlVRcmFzNjUwU3ZsTlBNSUtNVXVZdzNvZTgtQTROeWJQM1ZPd3BGRlJCekIyQVVQMG9qcXpwY3c?oc=5",
+     "summary": "",
+     "ts": 1793390384.0,
+     "time": "Oct 30, 2:59 PM CT"
+    },
+    {
+     "title": "Voter voices from Milton\u2019s Bombardier Park",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTFoSGZra1YyN3JJUlR3bkFmdk5RQlJNNzFNYkhoMnNwbVBFV0pnM3NQTHJRUjZhcGRCNE10aHhIUlQwelZHLVFjWVdBb2FwVWM5bGg1QWRUU0VHVmsyeFhUbUYzRXZ4ZUFEWFVWdDBzZ0o5OWF3N3JwalY2NFd6OQ?oc=5",
+     "summary": "",
+     "ts": 1793388725.0,
+     "time": "Oct 30, 2:32 PM CT"
     }
    ]
   },
@@ -452,76 +452,100 @@
    "name": "Crime",
    "items": [
     {
-     "title": "Lincoln County Sheriff's deputy killed in Friday night shooting",
-     "source": "KPAX News",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVNMSllJdERBelRvNnZ3N3VZUTE1b2l2UnBxRVlMdFBhLWZzNWt5cl9xZFZ6TGE0RjBQYUo0cDBvcFlqcXFvNk9IMDVHNWZSOE5yUnJOY1lIQUlTY1dyS01heFczUGJtc285OUV5bWNMNjFpZGp5UGdOZW1kc2VJYm9HYkhCeHFZeGFsZExpOVZPZw?oc=5",
+     "title": "Police: 7 people taken to hospitals after shooting near Indiana University Bloomington campus",
+     "source": "wthr.com",
+     "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUXdKX3FRWWU5bjg3RGJrM3FTUnFWMkl2aFMtNzJ6YzZzbWtXeGJJcUJxd1NOMG5nMjBOaWRSY1lrVE1TaVh3VWM3aUUwVXpxQXFrNC1RZC1pM2lrSEZkc0RyeVdEamo3S1BVcFpsM0xnUjNac1hwNUR5TzJSWGRqSWJlM0NIRFRSRjI0MzRQUWNDVThuUzVaZDZURHpWbzZ4UlpNcUhjN0FYQ0tIbHJ0ampPT0RmMF9WZWVFcS1pdkpndl9jQ3NzaVFfM1lYTkxQSDVOZElVTk40Mkxjc2pQN3dKU1JQdEtVRl9BTXdJOElfVzBQMW9XaEhBUGRPbENiNHFHeVVuWFVyTTV3aGdEUmZsZ3JTaVUtRHVB?oc=5",
      "summary": "",
-     "ts": 1793473669.0,
-     "time": "Oct 31, 2:07 PM CT"
+     "ts": 1793527740.0,
+     "time": "Nov 1, 4:09 AM CT"
     },
     {
-     "title": "1 killed, 6 injured in shooting at North Bay Spirit Halloween store",
-     "source": "The Press Democrat",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUsxN2xTUHA4a1BuUi1vdDVuSEVxdDBpdzNmb181cWpjZm5WREhUM2hFVFJqS29YTzNXcm1lOXEzdXdCQ0Z5T3NQclVVQVdyWUZELXMxRTY4N2FwLTl0SXRPQ2VqWnRtNXMzb2ZhMmJvajNCcmRYdkdkNHlneWg5bGE0dmRQczF0SC11X3ZPcWlvM3NiYWQyZk9zbXpocl84VzBzS1JqSVd1Mk55QnRB?oc=5",
+     "title": "ELPD respond to shooting off-campus",
+     "source": "The State News",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZbW5iZHhrc0hFd1lWelRTYTFWUms3U01tRG9xVER1UWJ4OEZBcVpSTGRrVU13TXlRZzBnRTFYb2hkZlJhOWxCdXliUGZJaXQzUHd5cGotcmllVGFya25nbG1nS0N5ekNQX21fbHFxeHk4Y2tJNHVPZWxWQTRYZw?oc=5",
      "summary": "",
-     "ts": 1793470338.0,
-     "time": "Oct 31, 1:12 PM CT"
+     "ts": 1793525758.0,
+     "time": "Nov 1, 3:35 AM CT"
     },
     {
-     "title": "1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say",
+     "title": "Two teens injured in shooting in downtown Rochester",
+     "source": "13WHAM-TV",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSnRTeGtyWkdlQlhVMTkxbGpsUEN6S09sYzNvWnVGaGlPTk5lalpGREdrSEV1UThWd21CTGxyT3VjUUtBTVNhNzhJNG14WHRtMXgxX1htd3d3NGxtUVFOVFc0ZXVIZW1LTnZRU3RuTXJBc2F6MUZtLWlEdkxmeldrS3hEQzZLc21TYXBkSkdNMnFLX0xZY3EyU1VkbDR4NEdLdF9CdVVEb21lcDFja2d5Q3RTaVU1N0sxT0VnS3o5ZWVJcEp4NUJqRkRWOVlYRlVSTkt1WWtvTWVwbm5WdFkyUVk2U0VoZw?oc=5",
+     "summary": "",
+     "ts": 1793524950.0,
+     "time": "Nov 1, 3:22 AM CT"
+    },
+    {
+     "title": "One killed, eight wounded in mass shooting near Legion Field after Magic City Classic",
+     "source": "WBMA",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTFyVFVjYjlGX2ZhMVNMR08waFVvZExDWjdTMGsyQUxnMWhjcDVaajZNdnRuaHNISEM3N1YwOWNQMlNpellLblhMNUs0dHNZWFlRN1FlWUtMbHFuMHMwNUxzb3R0aXhQUTNZaG1ETkRjNXRoRXJiUHVjS1R0WVNhTmEyN1dncVVPSGx1a2pzNmc?oc=5",
+     "summary": "",
+     "ts": 1793519690.0,
+     "time": "Nov 1, 1:54 AM CT"
+    },
+    {
+     "title": "Fairfield police continue search for Halloween store shooting suspect as new details emerge",
+     "source": "ABC10",
+     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSHdOTG5fOW8wbGlSd05IS1FWZjg3V1lzZnMxTEx1Y2k0RkJOOW9rTG9hMWVvYXY2M25EM01rYjZmWDE0d3Z4WktUMGdrTUxjSTRadnk0a0t2QWNfUU1qMV9VcGNxTlZmYjJrMFBvV05Fc3BETDkxVm1HMHpfVU05Q184LTNYZWltNlgwdmxHcHJoYVp6WUlIc0JLN3RrWTRpMUF4QXJlUmczV1pCMVBEQ2ZhVHluR251WWFXZWp0Rm9JdS1MYTNHaW45OXh2c1Z3VmVUdVFJZlh4bXdTaGlZdkw4WjhkVFhHb21YUEUxNDZ5bzF4Y2RydEZjNVY4dldnaW5J?oc=5",
+     "summary": "",
+     "ts": 1793517780.0,
+     "time": "Nov 1, 1:23 AM CT"
+    },
+    {
+     "title": "1 person killed after being hit by car on Highway 183 ramp in Fort Worth, police say",
+     "source": "WFAA",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSWVId1NKdTg2NFp3T1RDRHJFVFMxTVVsWk5mVVg3bVE3QWRpdmE4bjlIVnJ3U3J1OFR4ZlhPM1hWWGhkdzJXanNHZ0w2WWQ3QTlCVy13eGpNX2VENW9nd0tLZ3NxRllIQV96WXYyN0lidF9qUG5HOWpiUlNhakczYmJRUDM0MUJzWVgwWDJwNE8td0dWRHR4SEpITkFBRWtGUlpfSWZuQUlUNnNiTE52cG1feHJEbDRLQ18wVGt1dFpoTC1IV3hmOFdBcmYyOTZCSy1sRGx3SHdSdHVfUVJ2RDRERG5wRmFKT0lvRGYyTkVpTTQzRGxZZ0tNNA?oc=5",
+     "summary": "",
+     "ts": 1793508780.0,
+     "time": "Oct 31, 11:53 PM CT"
+    },
+    {
+     "title": "31-year-old pregnant woman identified as killed in Fairfield shooting at Spirit Halloween",
      "source": "KCRA",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3djbHFvT0xOQ1ptZWdqdzlDZS1uSjVTY3RpTnhIOXlFdll5WFkzQUllQ1RfS29qc2NYdVZWYWNHdEtSRHdlenBCay0zczhfOEFKeEVrS29TRGdOR2NWbEFFNDFPS3V1YVJEVUNPaHZMdVV1ak5WTXF2dGhmR2NtZzl6U1RXTDhmVGowQzE4MW9XTGFvbWw3Vl9n?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2VEU1VYa3FhenA2OGF2UWsxcXR6S1dzME1PMERCQ1hQMU92cTY4Z0VzcmVhWTd0Rl90NWpVU2puWUVQd0tWZE04aThWenNhdXh1dlJIQ3BYVnd2SnJrQ1pHR2d0ekxVUWxOdlczX2lzUjlyYjlyTlBZcU9UcmpHV2JsOXdXMHNMZzJlZ3M3bkdjSUpUTE9Sd1lPeGQ2MXVPTTRFNV9aMFppS3M?oc=5",
      "summary": "",
-     "ts": 1793468040.0,
-     "time": "Oct 31, 12:34 PM CT"
+     "ts": 1793503860.0,
+     "time": "Oct 31, 10:31 PM CT"
     },
     {
-     "title": "Manhunt launched after California Spirit Halloween shooting leaves 1 dead, 6 injured",
-     "source": "NBC News",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHV0aVg4dlkwckVhUWZobDh4SFVYMHRJRHNSclR3MDl6eTJVU3I3NHBaVFNTSkFrVDhNSUk5NGhEb1c4Y2g1V2IzdUx2dThiMjlVbjZVd1E1Wlo3NGV4bEQ5OVJQVllpYlMwNkFKcWFBeVprUzNKbldoZjBwQzVMYTFJMTYtMVhUY1pfQ0JUdWNySnVPMFdUdmZJUG5HRGpfeEx0RkI1TjM5c3l2N3J6S3BR?oc=5",
+     "title": "Vermont State Police Arrest East Montpelier Man With Two Drunken Driving Convictions On A Third Allegation",
+     "source": "Caledonian Record",
+     "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPQkFHRWhobTRUVjhaWXdkMldqMVE3dUhGbzN2OXhocld3UExaYWdEbFNBVWI0R3Y3eVJJbFp5NlE3R25xNUZDTnBsYWIyUTIzLS1USXg5ekdWMUNYMS1FR1kwbERJcmhOSnBOLUZrRjNvZzIzaWxHQVU1WWNFV2NOV2VXRE0xTTBuMXR0TlVlaUMzZmRXU09zZlF4VEc1YVpYb1dXMFY2RUtQNHVLUWtuakxPN2FmNkdjd2hoeVprYmF1UVFEUUNLbEFHZ0MwRG1aS0pCSjJaamE4d0VwY1p3VkxnS2FXM2NZb3Z4bHhBVTg0ZjF2UnJwclkwMFN2NG5INFlDYjJQNGxOck5MbHJackFFUDdVSl9rTjR0OEZhY0M?oc=5",
      "summary": "",
-     "ts": 1793466962.0,
-     "time": "Oct 31, 12:16 PM CT"
+     "ts": 1793489481.0,
+     "time": "Oct 31, 6:31 PM CT"
     },
     {
-     "title": "Solano mall shooting in Fairfield, California: 1 killed, 6 injured in Spirit Halloween shooting last night",
-     "source": "ABC7 New York",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSmZQUXZjcVVfdzRLUUpvS010N3V2blQ3OFdRUWk1ZlhIa2cybEtkTGJtV1ZxdU10UVctd0lYM0tXd0xtR0FkZ2NtcnlYMy1nTlBxNmhOZHpWMDl5bUd5RVdwSWFMSXNqamRoUVhBUmVwcUZvTWZqZkw2Xzg3MF9FcnZTSUpxckY5aEhkMlVMQnZ0ZnhFMlA0N1NycFljakQwM3pWOWFtWnU2ZkVSN19WWnIwMUY3bmsy0gG-AUFVX3lxTE1tQ1c3OUUtTVRaU0taRU9xaVlfMlotQUY2bWJlTmtnTW1KMW8tS1lRUWlRR09qekhSVmJnTkZxWWNMZUx0ZVRGdWkxTjZIQ2NwREZHUDJ3Ty1wN09oZ19sblZWSkZuaEtsekdBU2ZrN080cXFMbGVqaGFLVEc3enhCOE8wSjdfMHpZc3BZSFNyMGNHOXVtVDN2bF9NZXEwOGR5SXVQR2xUWFBGVXlUYWx1SXBTOHE1MTg3NnJQcUE?oc=5",
+     "title": "Fort Worth's growth attracts major business investment",
+     "source": "NBC 5 Dallas-Fort Worth",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUM0YXFmMklYT21wX1VlOFQxMlJOSXE4YXhWU3oyNlRweVV3NXFCMFZBd2xCWElYV1JsRW5ubEZpbDdxODF6djBYLVRaLUZGZVdkbUtuMFRhTW9aSnhRd2gtZ1hmOS1SR09fdEpaZERiOW81dURaTFVMd0ZZajNBbHktVkpHOUFESFdJZF91TWNVLUtGcElBUmYzQ3FaUHN4ZG1nUdIBrAFBVV95cUxNa053RUpoUE9IcHRyc3pWaGdwekUydExOVldTeFRWMUN1RHlFNGVYODJVTGVoNzJnd0FxejhxelB0V2FsZEJpRFpkYzJubk1XakwwTXRqVk5xTHZ0VllDQzFRdHlQQVNRWVI0U3JoWDF2bi1yN0dWbkJVeU1DVWNuc3ZEbU9tZWdQRmZOXzVIdXhrcTBIdm9xSmtGTEZ0MWZKTDV6RjUtLWFteGRF?oc=5",
      "summary": "",
-     "ts": 1793465768.0,
-     "time": "Oct 31, 11:56 AM CT"
+     "ts": 1793488702.0,
+     "time": "Oct 31, 6:18 PM CT"
     },
     {
-     "title": "Royalton Barracks / DUI Drug",
-     "source": "VSP News Releases",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHVUXzFuS0lJRlFuXzZIOGhSTHFReENyWHFoM3BraHctRlZaY3ptSWxjcGFBLXp0SmZPZmVYSHcxbGJabXAxODFPbFpPeW1tYjhSbDFabDV2YW95R0h3S3VIMWVuWml3dmVpV2VOYmlnTG9yX0pNUnhpZXVWUDhsLW1VNVRyWFFUajY1Yw?oc=5",
+     "title": "28-year-old dies after being shot multiple times in Dallas: police",
+     "source": "FOX 4 News Dallas-Fort Worth",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmo4em92M0VWbUtESWQyQzlhR1drc0NoS3FDbVlMelY3QTYtODlQQ1lzc194OHpCWDFMeTEzbzl6a2hCTXNIRmoxUlE0Tmp6a0RnMnhaVG9tbFNsVVVtOWItUEdFRXloM0pQdjlnM3FiczVfWEZ0eFlaOGFjR2Eyam9SWFc2d0ZxNUN0dWxtazV2YUNBT1dlR2diczJ6bjJ3OWlUcQ?oc=5",
      "summary": "",
-     "ts": 1793465700.0,
-     "time": "Oct 31, 11:55 AM CT"
+     "ts": 1793479177.0,
+     "time": "Oct 31, 3:39 PM CT"
     },
     {
-     "title": "17-year-old arrested after allegedly shooting man in foot in south Fort Worth",
+     "title": "Pedestrian injured after being struck by train in Fort Worth, police say",
+     "source": "Yahoo",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmM5T3FWeGJCQVVudGdZWjZ2VEdGYm5kZk1yY2J1VjViN25YZzVGY1dDUjIwUE5iUWhLTDBtOWJsbTIzdjNRbjdXS19yQlpjMGdXTVZrek00V0xXc0pia1dZN0lLMXF3QndTYXBsLVlQSDBsSDJuSTVXUjJfaHVKZmZLYU9Jc2FZU3RtQURZY0lwQQ?oc=5",
+     "summary": "",
+     "ts": 1793474280.0,
+     "time": "Oct 31, 2:18 PM CT"
+    },
+    {
+     "title": "Man dies after being ejected from vehicle in crash on Texas 183 in Euless",
      "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGcmV3WkNscThXOWJfTzRxV3VJbE9uM0txVmRXMmU5WFhYSGNZZ1A2dXJyX2ZJSlhCTHgyTkI2bGZIQ0dMV1pFcnlQZFJMUVVEZ1VEU09BVFhlcGw2WEllZ1ozZE5WUVNHRmtkOGt0dHdKYmVOWjZF?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oZ19WSjFfN3llSmktRlZWVEFqSnI3SzlvaHZrWE9ZR01OWXpLYklsQ2ZNNVVVbkhNYjFHa2FmMGh2aEdUUEpOMjRfWFEzSmFEWGYteHRKdFJoVWxlNFhYU0ozRDJKbGZHZXNTZHR6cw?oc=5",
      "summary": "",
-     "ts": 1793464620.0,
-     "time": "Oct 31, 11:37 AM CT"
-    },
-    {
-     "title": "Shooting at Spirit Halloween Store in Fairfield Leaves 1 dead and 6 Wounded",
-     "source": "KQED",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3h4alEtUFYzM212RWJzOWRDcjBIblQ5QXRrZDhhb0JhOFpYTHJkZXB6TkNYNmpNbktSbW9QTGY3bWotbGh5Q0RISWZOVE1STm9uVGM2cFdKcTVfVFdsQUM0a2JaMUNDWUE3azNSckFXVVU2M05GRndWMGtaS1BvVEEzZDdudEs5OC1ZZzNKZkNNZkplOXRrblhnLV9hTC1hN2dKWDdDNk5xeUZOb2Nj?oc=5",
-     "summary": "",
-     "ts": 1793462804.0,
-     "time": "Oct 31, 11:06 AM CT"
-    },
-    {
-     "title": "One Dead in Vermont After Hit And Run Incident",
-     "source": "MyNewsLA.com",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3BobDVhQkx0TlZnUTNpTjRMUmpZRTFQTzRBOXBHMEJnNzVGM0FqdjdYZWhnU2hFWk16VnMycHM2ckpuWm4zQUU5cVVYOHhBVFBBd05TMGI3ajVJcXR3NUVqcE15Y2FvS1gzUU1nWWlsdUZBN25kaEpldVhwVkZ1NEhyYnh4eHdlRmU1LWZR?oc=5",
-     "summary": "",
-     "ts": 1793456765.0,
-     "time": "Oct 31, 9:26 AM CT"
+     "ts": 1793468460.0,
+     "time": "Oct 31, 12:41 PM CT"
     },
     {
      "title": "Man arrested after allegedly stealing truck, crashing into home",
@@ -540,28 +564,12 @@
      "time": "Oct 31, 5:23 AM CT"
     },
     {
-     "title": "Fort Hood survivors speak out on Pentagon's decision to livestream Hasan's execution - ABC News",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjl1WGlxNTRpUkdidFpYbllSRThSd0lmLVZwUkRzeTFHSXBlc1c5OU1ZQVBjZVNBYVBoVHc5NDg1NnFDdmpHdXVFMXJQX1Y4Vi1sRXNlS0dDRUZqVVZJM0YzeGl0aWhWdWZ4a3pDcFpXV1YyTU5rQ1FGQXRSMTNvM0hSdkhsSWstaEs1VTZOWG5tTDBoWTZrLWRJR0x2OG9NQl9lOU9ycl9hSVdjSnBr0gG0AUFVX3lxTE9Bb0liNkZuMkFuSWpXN2VwVGFyc0tfbGl0ZnhNM3QxRlZFcE5jdEloYkRuZlVKdVVPVDR6blpFRGUtWTlQWXBHUmZBZW5EenRMN2NjelMtRFVmaGJ0dUdZU0ZQdVZsXzNCSHJCTWtIb19zSDlLWHd6M09PNkEyYlNCRW51NExvMWFYblFjcFVJdFAwRGQ4cDhWT0dNUk04RnBQM2t0UjJaM1hJLVY2QVc1b2dkSA?oc=5",
+     "title": "Pranks, parties and prognostication: The history of Halloween in Vermont",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWlydWZ5cTcyU0lMY3NuMzV1c01tTGlnRnpHdTMwQ3RQSHN0b2t3MUFCUzJEam1ROTc3X1RHTEswRGU2bjl0VGc1MzMtZ3hiR0dMSHdORXVFcnU1SkNFNjhjODZCaEZGMmJrTFNIV0JVbHpNaF9pbjRYMWRTcXc3RzFWVG9TdzZqYkZaM0ZSTGlXVkVsNVc1a1RoQzRwTFU2X1lGbjh3?oc=5",
      "summary": "",
-     "ts": 1793438421.0,
-     "time": "Oct 31, 4:20 AM CT"
-    },
-    {
-     "title": "Man sentenced for 2024 Fort Worth drunk driving crash that killed 3 children, 2 adults",
-     "source": "FOX 4 News Dallas-Fort Worth",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXFPYl9IbnJpaV92M0tnOFpyRlZLcUZrTC1mY3NJbWpNNmNsNEVyOF9UVVkwMURhRjk5aTNmVzdsdlp4djc2Ql9JV3hUWkdadzNJTDFmY3UtT3FpYVQ5VDhYM19sZnBBU0xjR1JlMXNIcFpZN0dDY05zUTYwOVM3VUtrZGFLaGdUQ0RMRmoyMk9WeVlqNV9XTmE1UzBsd3JDZ1FtdUF4Tnc1QQ?oc=5",
-     "summary": "",
-     "ts": 1793395205.0,
-     "time": "Oct 30, 4:20 PM CT"
-    },
-    {
-     "title": "Vermont senator arrested",
-     "source": "NEWS10 ABC",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkS2E3Ym9UV0dWVXdHSklyQ0ZwNG9mZUxCVnpfdGhyOFVsY0g1WFpNaEFpQ05yRmpHZG9sTnBWZ2l1Wm9qdDNmRVJUR1B3dXdwelJHLUlEdVN1QVU0OXZoc1BDR0NzNkFzZldiWmZRQUg?oc=5",
-     "summary": "",
-     "ts": 1793392297.0,
-     "time": "Oct 30, 3:31 PM CT"
+     "ts": 1793391214.0,
+     "time": "Oct 30, 3:13 PM CT"
     },
     {
      "title": "Person shot after shoe sale goes wrong in Fort Worth, police say",
@@ -578,22 +586,6 @@
      "summary": "",
      "ts": 1793373014.0,
      "time": "Oct 30, 10:10 AM CT"
-    },
-    {
-     "title": "Fort Worth officer Brian Gentry remembered for courage, service and love for family",
-     "source": "NBC 5 Dallas-Fort Worth",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDZzSDBxckpCbjJrSzhwT0JFYlVDSXFGa1lvdU9Hc3lCWUtuakFFZ3d5TE85NXpjWUt4Mk1CSEVvcS1OQThHQl9jNkdORTdvOWhueXBCOF9Cb2Y3aktKLUhuX1ZqUlVHaUI0NVhFTHkxd0ZXS0NSSDdOM3lxdC0yZXppWG5IYkZwWUhhWmdfTG1hWjhvTE12QTFKSUZvX1RoeUlQdmRObzlhMXRYdjVmNkFvUFpHVlU3Qm1WZWlMWEUwTHfSAcsBQVVfeXFMUHppb0EwendENThEYWpReWQwMkJ6YzZhYTlDZkM0aUJWd1RMb3dmU3oybGxqVFBFNUtOb0JXUWVMdmpFRm5uNlFQbzNTSjlYZ3pVbWJNUkliRkpyQ1NyZ1NvNndWbFlYRmJUZ2VuMmpVZFoxS21fVkx3b0FEaFBqTE9JNVZnN2tsMi1TZHFVNXIwa1ZXeXhtdDRrd24tMWZ0ck5sRFp6dFpkeklJNEFRVHYzcjM3NjBPMHY4Rk16OW1McWdfekxOMHFacU0?oc=5",
-     "summary": "",
-     "ts": 1793316221.0,
-     "time": "Oct 29, 6:23 PM CT"
-    },
-    {
-     "title": "Fort Worth police officer remembered at memorial service",
-     "source": "CBS News",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWEI0NjZ1OEpoeWMyZmNmVDhZOE5memtaUGNfdzFRb2JVeFJRUkdSZ2tMdWdLcDZFTERJb0g2SUtmaldnQmp0NE5HMkltYUxtTDJleEktelRzYW9yUExDU1ZKbkxsWkwzWGlTTGM1d0RreEphRWxiUnMxcE5YVUxsb1NlWjlfazdzUDVQQ0k1bzRCeTR1QTJRSA?oc=5",
-     "summary": "",
-     "ts": 1793312640.0,
-     "time": "Oct 29, 5:24 PM CT"
     }
    ]
   }
