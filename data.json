@@ -1,9 +1,17 @@
 {
- "updated": "Monday, November 2, 2026 6:23 AM CT",
+ "updated": "Monday, November 2, 2026 6:47 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
+    {
+     "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+     "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack...",
+     "ts": 1793621994.0,
+     "time": "Nov 2, 6:19 AM CT"
+    },
     {
      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
      "source": "NPR",
@@ -11,6 +19,14 @@
      "summary": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers \u2014 or drain them?",
      "ts": 1793619000.0,
      "time": "Nov 2, 5:30 AM CT"
+    },
+    {
+     "title": "Democrat Stevens defends endorsement switch to Republican Rogers two days before election",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/c699z8v3282xo?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "But she refuses to be drawn on her rationale for switching candidates in the closely-fought US Senate race.",
+     "ts": 1793617689.0,
+     "time": "Nov 2, 5:08 AM CT"
     },
     {
      "title": "6 things to watch for on election night",
@@ -45,14 +61,6 @@
      "time": "Nov 2, 4:00 AM CT"
     },
     {
-     "title": "What Vance's midterm push reveals about his potential 2028 bid",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-     "summary": "Vance's delivery is different from the president's but his speeches contain plenty of MAGA DNA.",
-     "ts": 1793613600.0,
-     "time": "Nov 2, 4:00 AM CT"
-    },
-    {
      "title": "Global shares are mixed and US futures advance, while oil prices fall nearly 4%",
      "source": "AP News",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdndJTkZzZVB3bUs3SWZPMjZXZ3JzbnlHbWJoak5WWlJWTnQwZFpJNWZpd0tQb3RYanMyckQxMmVjWm5nQnk2Tzl6QjVCOVFmN21RNks4Q2tsM2tUODBSMldsdVQ3eDBoX3UyZDZMM3JybmZVRVhxT2lReGVMMEJuMTNvLTNUbmR0TmVqeXRXV1FZSVdUV1ZtcWVhQQ?oc=5",
@@ -83,14 +91,6 @@
      "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
      "ts": 1793592268.0,
      "time": "Nov 1, 10:04 PM CT"
-    },
-    {
-     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-     "source": "BBC US",
-     "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
-     "ts": 1793583942.0,
-     "time": "Nov 1, 7:45 PM CT"
     },
     {
      "title": "Democrats have high hopes for midterms - but are the polls right?",
@@ -154,6 +154,30 @@
    "name": "Texas",
    "items": [
     {
+     "title": "Dallas police continue search for suspect after shootings in Deep Ellum leave 4 dead, 15 injured",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/crime/at-least-3-killed-multiple-others-injured-in-deep-ellum-shootings-halloween-officials-said/287-c34cd56c-d7be-486a-89aa-d3f15910b419",
+     "summary": "One suspect is in custody so far, police told WFAA.",
+     "ts": 1793623192.0,
+     "time": "Nov 2, 6:39 AM CT"
+    },
+    {
+     "title": "Families remember victims killed in Deep Ellum Halloween shootings",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/local/dallas-county/families-remember-victims-killed-deep-ellum-halloween-shootings/287-a3966e64-38a3-45a7-a128-8ea5c21c5c0e",
+     "summary": "Families say Kanisea Scott, 21, and Quincy McCleary were among 4 killed in Deep Ellum\u2019s Halloween shootings. A cousin who was there describes the chaos.",
+     "ts": 1793623009.0,
+     "time": "Nov 2, 6:36 AM CT"
+    },
+    {
+     "title": "4 Americans, 1 Canadian among 69 dead in Spain's train collision",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/nation-world/deadly-train-collision-spain-americans-canadian-among-dead-crash/507-fbfb11db-6f59-4d16-8f7a-3db6daa3fb32",
+     "summary": "Four Americans and one Canadian were among the 69 people killed in last week's high-speed train collision in Spain.",
+     "ts": 1793622640.0,
+     "time": "Nov 2, 6:30 AM CT"
+    },
+    {
      "title": "He confessed to killing his girlfriend and disposing of her body in a Texas river. Nearly 29 years after she vanished, Lora Gabbert is still missing",
      "source": "WFAA",
      "link": "https://www.wfaa.com/article/news/local/texas-missing/lora-ann-gabbert-missing-pecos-texas/285-b8b55777-feb3-479f-a3b5-e85eb15134a4",
@@ -186,22 +210,6 @@
      "time": "Nov 2, 5:58 AM CT"
     },
     {
-     "title": "Election Day weather timeline: When storms could move through North Texas",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/election-day-weather-timeline-when-storms-could-move-through-north-texas/287-d281b45b-f12e-451a-a1f9-17f9ff9331c2",
-     "summary": "A cold front will bring a chance for thunderstorms overnight Monday into Election Day, but improving weather is expected Tuesday afternoon.",
-     "ts": 1793619428.0,
-     "time": "Nov 2, 5:37 AM CT"
-    },
-    {
-     "title": "FBI weighing criminal charges in case of Alaska Senate candidate with same name as Republican",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/fbi-alaska-senate-campaign-dan-sullivan/507-c512c8d9-3bac-4041-b896-51d4bf4c9dd2",
-     "summary": "The FBI is knocking on doors and weighing criminal charges in the case of an Alaskan candidate for Senate with the same name as the Republican incumbent.",
-     "ts": 1793619146.0,
-     "time": "Nov 2, 5:32 AM CT"
-    },
-    {
      "title": "Why Texans voted in the 2026 midterm election",
      "source": "The Texas Tribune",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmhPLXVqazhRSHJJSnJPdDI4ZzlnNkYzMTNEQy05QktPT3hMMTV2N3c2MlljZzZROUNYR1hPV1RHTE5hWU9DOVpmaE9DUlRpbWd0bm8zajZ0X1JVSWhVVEhnRHRtWlJiNG5qU09WOW1uS21KRncwa0Zlb0dobVgxX2tDUFpibzFLLTFHSlhn?oc=5",
@@ -216,14 +224,6 @@
      "summary": "",
      "ts": 1793617200.0,
      "time": "Nov 2, 5:00 AM CT"
-    },
-    {
-     "title": "A grand return | Historic Forest Theater marks reopening with live performances, Erykah Badu surprise",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/local/dallas-county/grand-return-historic-forest-theater-marks-reopening-live-performances-erykah-badu-surprise/287-f8eca0df-f295-4395-86fc-9e14d84d0499",
-     "summary": "The South Dallas-bred star returned to the theater where she last performed in 2008 to welcome it back to the community.",
-     "ts": 1793595072.0,
-     "time": "Nov 1, 10:51 PM CT"
     },
     {
      "title": "4 dead in Dallas' Deep Ellum Halloween shootings",
@@ -303,6 +303,22 @@
    "name": "Vermont",
    "items": [
     {
+     "title": "This state no longer allows candy, soda, energy drink purchases with SNAP benefits",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/02/this-state-no-longer-allows-candy-soda-energy-drink-purchases-with-snap-benefits/",
+     "summary": "A new South Carolina SNAP program restricts purchases of most candy, soda, energy drinks and sweetened beverages. Diet and zero-sugar soft drinks remain eligible.",
+     "ts": 1793622059.0,
+     "time": "Nov 2, 6:20 AM CT"
+    },
+    {
+     "title": "Vermonters can find support escaping domestic violence",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/02/vermonters-can-find-support-escaping-domestic-violence/",
+     "summary": "The signs of domestic violence can be harder to identify than you might think, and asking for help can feel scary. But advocates say knowing the signs and how to find support ca...",
+     "ts": 1793622014.0,
+     "time": "Nov 2, 6:20 AM CT"
+    },
+    {
      "title": "North Country residents balk at proposed housing project location",
      "source": "WCAX",
      "link": "https://www.wcax.com/2026/11/02/north-country-residents-balk-proposed-housing-project-location/",
@@ -327,60 +343,12 @@
      "time": "Nov 2, 5:03 AM CT"
     },
     {
-     "title": "17 events happening this week, Nov. 2-6, in Franklin County",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/things_to_do/17-events-happening-this-week-nov-2-6-in-franklin-county/article_dcb6790f-f23f-47d4-b7a7-8e954cc67b20.html",
-     "summary": "Monday, Nov. 2",
-     "ts": 1793617200.0,
-     "time": "Nov 2, 5:00 AM CT"
-    },
-    {
      "title": "\u2018I was terrified\u2019: Viral door-kicking challenge concerns. See what to be on the lookout for",
      "source": "WCAX",
      "link": "https://www.wcax.com/2026/11/02/i-was-terrified-viral-door-kicking-challenge-concerns-see-what-be-lookout/",
      "summary": "Hawaiian residents say a viral social media trend dubbed the \u201cdoor-kicking challenge\u201d has apparently made its way to their neighborhoods.",
      "ts": 1793615122.0,
      "time": "Nov 2, 4:25 AM CT"
-    },
-    {
-     "title": "Couple refuses to leave dog behind during helicopter rescue amid dangerous flooding",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/02/couple-refuses-leave-dog-behind-during-helicopter-rescue-amid-dangerous-flooding/",
-     "summary": "Rapidly rising floodwaters triggered water rescues and forced residents from their homes in several Arizona communities.",
-     "ts": 1793607974.0,
-     "time": "Nov 2, 2:26 AM CT"
-    },
-    {
-     "title": "\u2018They were just kids\u2019: 2 teens killed after late-night Halloween shooting outside restaurant",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/02/they-were-just-kids-2-teens-killed-after-late-night-halloween-shooting-outside-restaurant/",
-     "summary": "Authorities in South Carolina are investigating a shooting that killed two teenagers over the weekend.",
-     "ts": 1793601402.0,
-     "time": "Nov 2, 12:36 AM CT"
-    },
-    {
-     "title": "Bring History to Life with Experiences That Feel Real",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/education/bring-history-to-life-with-experiences-that-feel-real/image_2c32c86a-3953-5853-8448-29f0fcef70b7.html",
-     "summary": "",
-     "ts": 1793599200.0,
-     "time": "Nov 2, 12:00 AM CT"
-    },
-    {
-     "title": "Real-World Weight Journeys: Exploring Health Experiences to Improve Care",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/real-world-weight-journeys-exploring-health-experiences-to-improve-care/image_7b86b634-7fb6-5d6c-8ab2-512030d1835e.html",
-     "summary": "",
-     "ts": 1793599200.0,
-     "time": "Nov 2, 12:00 AM CT"
-    },
-    {
-     "title": "Caring for the Caregiver: 7 Ways to Support Those Who Care for Others",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/caring-for-the-caregiver-7-ways-to-support-those-who-care-for-others/image_377ce699-02b0-5fdf-9a89-18c20cd36213.html",
-     "summary": "",
-     "ts": 1793599200.0,
-     "time": "Nov 2, 12:00 AM CT"
     },
     {
      "title": "Live updates from the Vermont Division I high school soccer championship games",
@@ -405,6 +373,14 @@
      "summary": "",
      "ts": 1793543040.0,
      "time": "Nov 1, 8:24 AM CT"
+    },
+    {
+     "title": "- VTDigger",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNjRyQjN5cGJ0QmJ4SW5ERDUyNURZRXBBeUdCU0padHNHOGtTOFIyZGNmc1JvUEpQMXJmTUpQN1RuUmJPWXU1SXYyRk9POTJVLW9JaDNIb1AxTnpmSnFwaGpFY0s4Q1RmOGJLWlZOX0ZhZy1jeUs5bTc5ODlPejBHUDQyeU9ZcUl6OTRyWURzbzdpTWlCakZZUndIZEhkMUtQMjVRTVFfYlhJZnBOYnB2V1BjQm9WS0RHOGFEZG5fYldlOUI2ckpvbnlycE5SU29oRjBScTh1M2JSUEE?oc=5",
+     "summary": "",
+     "ts": 1793539175.0,
+     "time": "Nov 1, 7:19 AM CT"
     },
     {
      "title": "Public phone now available in downtown Middlebury",
@@ -445,6 +421,30 @@
      "summary": "",
      "ts": 1793491920.0,
      "time": "Oct 31, 7:12 PM CT"
+    },
+    {
+     "title": "Green Mountain Valley races to first girls soccer championship since 1992",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPRVgtNGVFOWVsVFA3YjUyVS1WakZpT2pfLUZ0NGtDYjhBVHJMTUUwUl93X3RNdnNWWElzVzg4YVEwSG1TQm40UEZTVlE5VG5GeF8zbmdpSl9rc3pQS1FESThXSkJ5WjRlbE5oYXlmN05UQmZ6VnJtbEdKaTIwQWJGcTdIbDNrVlRGRXVtNWJTM3F1THVQcGl6Ykxha002eHZGYmlRdDhLWXFQbEJLN3JSNGM0Zk9FOVFsQXdTYU1ZenFSOGNEMDg5cEN1STJNR2UxTkFfcmZ6bmNxMHhMTG9nbDA2U29pM01QQ1dnMUtMNkVFdDZYUHotcGU0SHpfNG9GSnFLTVBQa2Q3dWVaRkJuNHlXTXVMNVhFR0dBUg?oc=5",
+     "summary": "",
+     "ts": 1793485380.0,
+     "time": "Oct 31, 5:23 PM CT"
+    },
+    {
+     "title": "Coffee Pond Fire - Wildfire and Smoke Map",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2pGWVd6Mll2bm0tdFdqcWlDN3FrREZBcFRNRjRaVUkwNWk4ZXdRYkxycHRqZHFoaTVacG9hV1c3VEdXa0xPZG9aMFFNUTFHQ09aTnZ4UmI2S1B0clI3S2IxT0EwTjNsOWZaZWVuc1RjWVVRSERUcEpUWDlGUklZbV8wWklhZ3lna0psOWRoOWN6Q2poLVlYZFdWby05dw?oc=5",
+     "summary": "",
+     "ts": 1793485080.0,
+     "time": "Oct 31, 5:18 PM CT"
+    },
+    {
+     "title": "Things To Do in Burlington, VT",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YTFZYaFJHZ1ZlMDBzMEE3MFRKcFpwR2xza0MtekFDRF81U3lTejdFWTd3WXVRLU9hS0U4SGpIekhRcEp3ZEFOajVSdFpvY2RXY0szY0R1dlVCM3Zxb0U5czRpc29OTDg?oc=5",
+     "summary": "",
+     "ts": 1595634795.0,
+     "time": "Jul 24, 6:53 PM CT"
     }
    ]
   },
@@ -468,12 +468,12 @@
      "time": "Nov 2, 5:46 AM CT"
     },
     {
-     "title": "Road blocked after report of shooting on Porchtown Road in Franklin Township, Gloucester County",
+     "title": "Road blocked after report of shooting in Franklin Twp., Gloucester County",
      "source": "6abc Philadelphia",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmhZaW9sLWdPbkR5czVBNVRicEN6MXkyVnBXTi1lQjZsSlBZM1hZYzVLM2tzd0c5S2JsVFVsUFRJQkw3UWdjZGdNZjVRX0dPWE9YektPemk4eWR4STZzZUk2N052cF9mVV8tSjRPM1YxS1JNS2VtenVpVnFaMHdoWmNHR3h3TlJhYnI4dnpGRWFTSG50TUhzYlRMeU40a2RndkdZOVNpMUd3UdIBrwFBVV95cUxNRXZOUGdicEJHbWZJU0xuZWk5dE1mSmpfUkZ0bGhxR09QVExCby1TODJ5bFZlZVowRlM5cjhQM3dTQjFmbnp2d2FUWGNWSnpHbTNIdXc0MW1faFlGSTdjRlhESm5XR211YkhwTjJiZk1wWnN6S0libUZhSGVOblZXYmEtZUFUREV4ajdCLThlV01QX0dqY2ZOanBvOVRETVdNQkdCdHZHN1o0ZHZsd2VR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmhZaW9sLWdPbkR5czVBNVRicEN6MXkyVnBXTi1lQjZsSlBZM1hZYzVLM2tzd0c5S2JsVFVsUFRJQkw3UWdjZGdNZjVRX0dPWE9YektPemk4eWR4STZzZUk2N052cF9mVV8tSjRPM1YxS1JNS2VtenVpVnFaMHdoWmNHR3h3TlJhYnI4dnpGRWFTSG50TUhzYlRMeU40a2RndkdZOVNpMUd3UQ?oc=5",
      "summary": "",
-     "ts": 1793618592.0,
-     "time": "Nov 2, 5:23 AM CT"
+     "ts": 1793618246.0,
+     "time": "Nov 2, 5:17 AM CT"
     },
     {
      "title": "Shooting investigation closes Gloucester County roadway early Monday",
@@ -532,20 +532,20 @@
      "time": "Nov 1, 4:44 PM CT"
     },
     {
-     "title": "Burlington man held on bail after reports of shotgun at City Hall Park",
+     "title": "Burlington man detained after reports of shotgun at City Hall Park",
      "source": "WCAX",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQkJPMHV6R29kLVZnSko0UlJrUUlPMGpvdGNob0hNeXgtNXU2Y0FxUDREM3pKRzBick01bkU1ZkhsS0tpUG8xX1dtZTBCeEJMaF9iaUJBbnNpM0RRZXZpenBwWnljUHN3VENPM2t4VVlSVDZsN0NUOE9laGNtaDFIN2N5M3pCcHRySzR2YkEyUXhCVko1cVVGcXVB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQkJPMHV6R29kLVZnSko0UlJrUUlPMGpvdGNob0hNeXgtNXU2Y0FxUDREM3pKRzBick01bkU1ZkhsS0tpUG8xX1dtZTBCeEJMaF9iaUJBbnNpM0RRZXZpenBwWnljUHN3VENPM2t4VVlSVDZsN0NUOE9laGNtaDFIN2N5M3pCcHRySzR2YkEyUXhCVko1cVVGcXVB0gGuAUFVX3lxTFBialBlMVlpTW9ER3BtWVk0c3VyeXdER0ZJVkdBMC1DcnI2WVdqVW1oQ2d5azV3RDVOWTBpTVhUVTR6LVlSZ1U5YmZVSFlIMkt5ZW9DVWZlUGxxQjBvRzBqcUpLQ1hIWV9uZkFBU3ZfWDVnVTUwLV80RmdTcy1jamFjVDBVZWVGYWRDb1pXVjZjcUN5S1RFVEpxeG5oU29iSnNHMDVVUC15ZW80OUpRQQ?oc=5",
      "summary": "",
      "ts": 1793566380.0,
      "time": "Nov 1, 2:53 PM CT"
     },
     {
-     "title": "Dallas Police Chief Daniel Comeaux Says Three Deep Ellum Shootings Killed Four, Injured 15: 16 outlets compared",
-     "source": "NewsCord",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY0tudGdia3NaTnotUFdSdHp5TEZpQXdQQVNMNHB0R2ppdUE5cDFtZjFqX2hEalNibVM3ZFRYX1dmVjFJU1Rsc1BrOHM5aWdaaXJ2cnYxMjBmSjFwREtoMW1iWU9sWU1HUHFGSUZ5MGVVMEFyS1B6YUVfS08tSzloNUZhVHBjU2psb1ItLVAzajVOTVNOYUFtZTNsQi1ESWd6UzM0WXBlclppWFJRdzJYZkNSN3VTSEVqLThpWHJnSHRzbHk1QzhxSUI4dDR6UG9IM3JKMXRJVEdhYml6ZzNYVVFUWkJLbkR1Ync?oc=5",
+     "title": "Driver of disabled vehicle fatally stuck near DFW Airport, police say",
+     "source": "Fort Worth Star-Telegram",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PXzNWWnBLTkx4R05DMUJQcTQxc1lETERMTVQxSjdWdnpjVF9iOEt6cDRqQVFCd0ZLU0lIY2k3Wno4YXRKYzN6dDVIMk11QVFKcmxhcW5pQlRIcWRUcmpsVkdlVUhjSkMwQ2gtRTZKSklVMEFfdThJbTRMV043UQ?oc=5",
      "summary": "",
-     "ts": 1793553576.0,
-     "time": "Nov 1, 11:19 AM CT"
+     "ts": 1793562156.0,
+     "time": "Nov 1, 1:42 PM CT"
     },
     {
      "title": "4 people killed, 15 hospitalized in shootings across Deep Ellum: Dallas police",
