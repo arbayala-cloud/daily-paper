@@ -1,9 +1,17 @@
 {
- "updated": "Tuesday, November 3, 2026 6:17 AM CT",
+ "updated": "Tuesday, November 3, 2026 6:46 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
+    {
+     "title": "Rubio urges Venezuela to release remaining political prisoners",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.",
+     "ts": 1793707760.0,
+     "time": "Nov 3, 6:09 AM CT"
+    },
     {
      "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
      "source": "NPR",
@@ -85,26 +93,26 @@
      "time": "Nov 3, 4:01 AM CT"
     },
     {
-     "title": "A new cold war: hackers target fridges across the globe",
+     "title": "How NPR makes race calls in the 2026 election",
      "source": "NPR",
-     "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
-     "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disrupt...",
-     "ts": 1793700000.0,
-     "time": "Nov 3, 4:00 AM CT"
-    },
-    {
-     "title": "From 'model minority' to target, anti-Indian hate on the rise",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/03/nx-s1-6026418/from-model-minority-to-target-anti-indian-hate-on-the-rise",
-     "summary": "A massacre allegedly targeting Hindu Americans was recently thwarted, but researchers say it helps to illustrate a growing and increasingly mainstream hate directed at South Asi...",
+     "link": "https://www.npr.org/2026/11/03/g-s1-151311/how-npr-calls-races-2026",
+     "summary": "Race calls are a critical part of election night and NPR partners with the Associated Press to make those calls. Here's how we do it.",
      "ts": 1793700000.0,
      "time": "Nov 3, 4:00 AM CT"
     },
     {
      "title": "It's Election Day. Control of Congress is on the line, and what else you need to know",
-     "source": "NPR National",
+     "source": "NPR",
      "link": "https://www.npr.org/2026/11/03/nx-s1-5992757/election-day-live-updates-key-races",
      "summary": "There are a lot of variables for how things will go today. Results will start to come in at 6 p.m. ET in Kentucky and Indiana, and then it will be off to the races.",
+     "ts": 1793700000.0,
+     "time": "Nov 3, 4:00 AM CT"
+    },
+    {
+     "title": "A new cold war: hackers target fridges across the globe",
+     "source": "NPR National",
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6026676/cold-war-hackers-fridges",
+     "summary": "NPR investigated cyberattacks on the digital devices that control industrial refrigerators, revealing the extent to which operational technology is exposed to damage and disrupt...",
      "ts": 1793700000.0,
      "time": "Nov 3, 4:00 AM CT"
     },
@@ -125,14 +133,6 @@
      "time": "Nov 3, 3:29 AM CT"
     },
     {
-     "title": "Supreme Court rejects Trump administration push to set aside thousands of California ballots",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUTBndDdTam9fRTJHOThoRXMtenJuVDU4a05vbllPTlkxalRLWWI4VzlxTENCWGtNdDFQbC1xQ2g4MDFSZkM5RU5wNlFsM0FkaXBpM1VHR2NSRkJaRFpwWlNPVXRfUTc3WlR0WjhIa0pCNnE4SGI2WFFiMHdkbVZsVVZtdlhtNjdmQU15QW5tYXo5dlNOelVyblJwUnJnVmd5MWF3Z3hJRkZSU00?oc=5",
-     "summary": "",
-     "ts": 1793676360.0,
-     "time": "Nov 2, 9:26 PM CT"
-    },
-    {
      "title": "US has conducted defensive strikes on Iranian targets in the Strait of Hormuz, US official says",
      "source": "AP News",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
@@ -141,12 +141,12 @@
      "time": "Nov 2, 8:38 PM CT"
     },
     {
-     "title": "Musk pumps $446m into US midterms, as campaign spending set to 'shatter' records",
-     "source": "BBC US",
-     "link": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
-     "ts": 1793652884.0,
-     "time": "Nov 2, 2:54 PM CT"
+     "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26, officials say",
+     "source": "AP News",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxRVBYSHRNOF9zQ2l4RldLcXhabTFZWjVtWkhRaGZ3c25xemVZZmJjU1FiQUxMYlpzdmFvQkp1RGRFcWpaVGlOel9vLWx4ZDdfdDdlbm9DWTBXU1B2ZTNHQVFfU1EyQ1VaSHE2NFNqTXEwSEdxZmJEM3piSHhQc1YwUnM0SmxQVFFXYkQtM3BkdW5hclJpdEZwNXZ0M01mRXVUWQ?oc=5",
+     "summary": "",
+     "ts": 1793663520.0,
+     "time": "Nov 2, 5:52 PM CT"
     }
    ]
   },
@@ -154,44 +154,60 @@
    "name": "Texas",
    "items": [
     {
-     "title": "Election Day weather timeline: Cooler, drier air expected for North Texas",
+     "title": "Polls show tight Texas Senate race, but prediction markets tell a different story",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/election-day-weather-timeline-when-storms-could-move-through-north-texas/287-d281b45b-f12e-451a-a1f9-17f9ff9331c2",
-     "summary": "Weather conditions improve through this morning.",
-     "ts": 1793707526.0,
-     "time": "Nov 3, 6:05 AM CT"
+     "link": "https://www.wfaa.com/article/news/politics/elections/texas-senate-race-election-prediction-market/285-9103589e-48a8-480f-a26b-7e25e1f25490",
+     "summary": "Polls show a tight Texas U.S. Senate race between James Talarico and Ken Paxton, but prediction markets suggest a different outcome.",
+     "ts": 1793709229.0,
+     "time": "Nov 3, 6:33 AM CT"
     },
     {
-     "title": "Child dies of measles in New York's first such death in 30 years",
+     "title": "Midterm election: When do polls open, close on Election Day in Texas?",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/child-dies-measles-new-york/507-a46fc404-c038-48d0-83dc-092e9d005eba",
-     "summary": "A child in Lewis County, New York, has died from measles, marking the state's first death from the disease in three decades, officials said.",
-     "ts": 1793707520.0,
-     "time": "Nov 3, 6:05 AM CT"
+     "link": "https://www.wfaa.com/article/news/politics/elections/midterm-election-when-do-polls-open-close-in-texas/287-93a48119-fc80-48e4-bb44-1bf939cc0319",
+     "summary": "Polls throughout Texas will remain open from 7 a.m. to 7 p.m. on Nov. 3. As long as you're in line by 7 p.m., you must legally be allowed to vote.",
+     "ts": 1793709101.0,
+     "time": "Nov 3, 6:31 AM CT"
     },
     {
-     "title": "U.S. strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next",
+     "title": "Voter Guide: What to know about Nov. 3 midterm election in North Texas",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/attack-on-iran/united-states-strikes-iran-targets-strait-of-hormuz/507-c7ab4ffa-473b-4490-8683-40f9ef602c5f",
-     "summary": "A U.S. official says the U.S. has launched strikes on Iranian targets. It appeared to be a limited operation on the eve of Tuesday\u2019s crucial midterm elections.",
-     "ts": 1793707061.0,
-     "time": "Nov 3, 5:57 AM CT"
+     "link": "https://www.wfaa.com/article/news/local/vote/voter-guide-everything-you-need-to-know-about-nov-3-midterm-election-north-texas/287-b757295f-5868-4dd5-aa55-af360c49d5de",
+     "summary": "Ken Paxton, James Talarico headline ballot with several statewide posts, Texas Legislature,",
+     "ts": 1793709078.0,
+     "time": "Nov 3, 6:31 AM CT"
     },
     {
-     "title": "LIVE UPDATES: Election Day arrives as control of Congress hangs in the balance",
+     "title": "'It was really uncomfortable to see' | Video shows woman kicked in face during fight outside San Antonio bar; police seek suspect",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/live-updates-election-day-midterms-voting-polls/507-e1b93fcf-007a-4ec7-9942-75eb15997068",
-     "summary": "Election Day will determine the balance of power in Congress and a host of other issues across the U.S. Here's the latest from across the country.",
-     "ts": 1793706981.0,
-     "time": "Nov 3, 5:56 AM CT"
+     "link": "https://www.wfaa.com/article/news/local/san-antonio-bar-woman-kicked-face-texas-bar/273-0454313f-90cb-45ed-8d91-6a7cec7e5674",
+     "summary": "Crime Stoppers is offering up to a $5,000 reward for information leading to an arrest in the case.",
+     "ts": 1793708535.0,
+     "time": "Nov 3, 6:22 AM CT"
     },
     {
-     "title": "Rain clears but flood risk remains high after destructive storms swamp normally arid US Southwest",
+     "title": "Former Rice University basketball player and entrepreneur among 9 killed in Florida plane crash",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/flood-risk-remains-in-southwest-us/507-6aff68f1-1508-4cc7-8c2f-6a8cb2b8d779",
-     "summary": "The Southwest was inundated with rain over the weekend, causing massive mudflows and the risk of flooding across the usually dry landscape, even as the skies clear.",
-     "ts": 1793706181.0,
-     "time": "Nov 3, 5:43 AM CT"
+     "link": "https://www.wfaa.com/article/news/local/former-rice-university-basketball-player-adam-robinson-florida-plane-crash/285-0714d49d-f98d-400f-be96-edfc91d9b663",
+     "summary": "",
+     "ts": 1793708457.0,
+     "time": "Nov 3, 6:20 AM CT"
+    },
+    {
+     "title": "Austin tech executive killed in Florida plane crash remembered as a 'good soul'",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/nation-world/austin-tech-executive-florida-plane-crash/269-7a45b55c-acba-437a-8622-e874b2e4b207",
+     "summary": "A longtime friend of Adam Robinson remembers him as a driven entrepreneur with a \"heart of gold.\" Investigators continue to look into the crash.",
+     "ts": 1793708437.0,
+     "time": "Nov 3, 6:20 AM CT"
+    },
+    {
+     "title": "2026 Midterm Election Day: Key races & sample ballots for North Texas voters",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/election/2026-midterm-election-day-key-races-sample-ballots",
+     "summary": "It's election day in Texas! Here are some key races for the North Texas region.",
+     "ts": 1793707231.0,
+     "time": "Nov 3, 6:00 AM CT"
     },
     {
      "title": "Live Texas election results: 2026 midterm races",
@@ -200,14 +216,6 @@
      "summary": "",
      "ts": 1793703600.0,
      "time": "Nov 3, 5:00 AM CT"
-    },
-    {
-     "title": "After 3 months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/months-lost-sea-small-boat-5-people-rescued-island-nation-kiribati/507-e993c4ac-210b-4ad4-b22e-365cd5b9adba",
-     "summary": "Five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff.",
-     "ts": 1793697121.0,
-     "time": "Nov 3, 3:12 AM CT"
     },
     {
      "title": "Ken Paxton and James Talarico close their Senate campaigns on home turf",
@@ -258,14 +266,6 @@
      "time": "Nov 2, 5:50 PM CT"
     },
     {
-     "title": "Key witness in Yella Beezy trial claims he lied to grand jury",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-vkraj8cwheneaqz2",
-     "summary": "A key witness in the murder-for-hire trial against Dallas rapper Yella Beezy now claims he lied to a grand jury after pleading the fifth multiple times during last week's testim...",
-     "ts": 1793663259.0,
-     "time": "Nov 2, 5:47 PM CT"
-    },
-    {
      "title": "ICE agent accused of hitting immigrant in Houston with an SUV turns himself in",
      "source": "The Texas Tribune",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkFhRVgzcWx1MXVPd2xWQlUySmFUWEdhRmxaejlNb2Z1WjJkc3NEaDdkY3JGRHJBUGJYeEp3cVRJVUNDNVlESzlDRThkc1ZCYmo2NlhJZ1VCTHNFSEJDY1dyaDEzbFBWaUQxdjlGd1RZVmdnaXF4ZGk2RktFTTBrSHY2VHdWR2dzTnhoZDk5SHZOMWt2NkJqaXhn?oc=5",
@@ -290,9 +290,9 @@
      "time": "Nov 2, 12:57 PM CT"
     },
     {
-     "title": "Paxton vs. Talarico: Five things to watch in Texas\u2019 tight U.S. Senate race",
+     "title": "Why Texans voted in the 2026 midterm election",
      "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlJRX19USHdNeUVYbExkeUNSSU1yZmZWYjlPRVZpc3JvamlvMUNDb21yMDNYNFJVSF9FQWFuV2Z0bmNvdnVQbTk1UTlOMVY5SllzSTk4SWdPRmRGbDRiaElmYkZJSWxQSXFlX2FjSlh6UEtQQUd0b3hORDM4eWV3TndNczhlbnNmYkp1TUNxNkQ4dVpQU0JhSHFEY29GSmQ2Rl9j?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmhPLXVqazhRSHJJSnJPdDI4ZzlnNkYzMTNEQy05QktPT3hMMTV2N3c2MlljZzZROUNYR1hPV1RHTE5hWU9DOVpmaE9DUlRpbWd0bm8zajZ0X1JVSWhVVEhnRHRtWlJiNG5qU09WOW1uS21KRncwa0Zlb0dobVgxX2tDUFpibzFLLTFHSlhn?oc=5",
      "summary": "",
      "ts": 1793617200.0,
      "time": "Nov 2, 5:00 AM CT"
@@ -303,12 +303,12 @@
    "name": "Vermont",
    "items": [
     {
-     "title": "Franklin County Election Day blog 2026: Polls open, St. Albans Town ranks in top towns for mail-in ballots",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/news/government/franklin-county-election-day-blog-2026-polls-open-st-albans-town-ranks-in-top-towns/article_08affbe4-8780-48b5-ad65-a08c9f74dcfb.html",
-     "summary": "7 a.m. \u2014 Polls are open across Franklin County for the 2026 General Election.",
-     "ts": 1793707200.0,
-     "time": "Nov 3, 6:00 AM CT"
+     "title": "Trespasser arrested on St. Michael\u2019s College campus",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/03/trespasser-arrested-st-michaels-college-campus/",
+     "summary": "Colchester police responded to reports of a man causing a disturbance on the St. Michael\u2019s College campus Monday.",
+     "ts": 1793709227.0,
+     "time": "Nov 3, 6:33 AM CT"
     },
     {
      "title": "Police see driver crash into Rutland furniture store",
@@ -327,44 +327,12 @@
      "time": "Nov 3, 5:23 AM CT"
     },
     {
-     "title": "Saturday gets Spooky in St. Albans; Downtown event fills candy bags",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/news/saturday-gets-spooky-in-st-albans-downtown-event-fills-candy-bags/article_0c512d44-c799-49f6-a421-2d26a412291e.html",
-     "summary": "",
-     "ts": 1793703600.0,
-     "time": "Nov 3, 5:00 AM CT"
-    },
-    {
      "title": "A few shower chances this week, and record midweek warmth",
      "source": "WCAX",
      "link": "https://www.wcax.com/2026/11/03/few-shower-chances-this-week-record-midweek-warmth/",
      "summary": "Record warmth for Wednesday! Here is how warm it gets!",
      "ts": 1793697476.0,
      "time": "Nov 3, 3:17 AM CT"
-    },
-    {
-     "title": "Family Yard Fall To-Dos",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/community_cares/family-yard-fall-to-dos/image_7400831a-71cb-535a-89b0-9dc7b1f107a9.html",
-     "summary": "",
-     "ts": 1793694600.0,
-     "time": "Nov 3, 2:30 AM CT"
-    },
-    {
-     "title": "Eight Autumn Outdoor Power Equipment Tips to Avoid Headaches Later",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/green_living/eight-autumn-outdoor-power-equipment-tips-to-avoid-headaches-later/image_39b00773-b74e-5a63-a4f3-2d1770048e0f.html",
-     "summary": "When the weather turns harsh, it\u2019s best to be prepared. Here\u2019s how.",
-     "ts": 1793694600.0,
-     "time": "Nov 3, 2:30 AM CT"
-    },
-    {
-     "title": "Seeing the Benefits of an Eye Exam",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/seeing-the-benefits-of-an-eye-exam/image_05fcc07b-536c-5a3d-9a7f-bbcbdb262d9b.html",
-     "summary": "Be wise, look out for your eyes and get regular vision exams.",
-     "ts": 1793694600.0,
-     "time": "Nov 3, 2:30 AM CT"
     },
     {
      "title": "Powerball jackpot rises to estimated $835 million",
@@ -381,14 +349,6 @@
      "summary": "Cats roll Keene State 96-37",
      "ts": 1793681654.0,
      "time": "Nov 2, 10:54 PM CT"
-    },
-    {
-     "title": "17 theme park workers among 281 arrested during undercover operation",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/10/31/17-theme-park-workers-among-281-arrested-during-undercover-operation/",
-     "summary": "Florida law enforcement officials said a seven-day undercover operation resulted in 281 arrests and 488 new charges.",
-     "ts": 1793678713.0,
-     "time": "Nov 2, 10:05 PM CT"
     },
     {
      "title": "Juliette Dutton",
@@ -445,12 +405,60 @@
      "summary": "",
      "ts": 1793650265.0,
      "time": "Nov 2, 2:11 PM CT"
+    },
+    {
+     "title": "Wine bar in Essex set to close following New Year's Eve 'crescendo'",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzZPYnlTdUxxYTVfQUpzU21ZZmFzMWJSWFRIN0F4V3IyRzJUZkhMTWY5UUE4akdNRVJTcXpfMW5nTzI0VUtERzVLTmpGdXYwa2VoQ1lNZ0dPS3E0NHljbDdpdGVjbUhtcmtFWWVTNXlWbnUxRmFkVEtMQ1R3RFNUYWFTRlpka0RMTmMzSjNTakRrbEFZb3dLUC1aQzg1RHlSQlZWQVFyb3hLMXBSOThraktmSGlvS2k5cWZ2dUg5eTViZURjbWs5cTZjTQ?oc=5",
+     "summary": "",
+     "ts": 1793644380.0,
+     "time": "Nov 2, 12:33 PM CT"
+    },
+    {
+     "title": "Vermont has assigned its $195 million in federal rural health dollars. Here\u2019s where it\u2019s going.",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZnYwbXgwOWhmN1l4bjEwUURIb3ZKcDdtLWJORUFWMGlsUlB2NmtneGIxazQ4WW1UeUNrR2tnQW1xQXZXQ3pIWHYwMXl5RXJyN0NGRV80T2xQWWRJNFlDQXBqUVJlSm1ycjFDdTY2ekg0T0hiX3prVENzeW83dG5qTnl3aEtaZGZIT0NoNF9xbzltbUI3d2d3SXdaVWlsSnhiQlY2X2M5ZWJGZ25JVFFfblBnY3VfQ05DUmtVM08tR3c?oc=5",
+     "summary": "",
+     "ts": 1793638551.0,
+     "time": "Nov 2, 10:55 AM CT"
+    },
+    {
+     "title": "Walkoff winner! Ethan Leo, Essex boys soccer outlast CVU for D-I crown",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNVEJUMnYyM1FFY0l2Z1dnMC1LNzFqUWxLTkppSXVnX0NtNWVvX1E3aTNUaDdHdUVyT2VUT0lFQnB4MnN3TjI3bVNlMkExNlhKc1FHZXJHNlRoN2p4TWZEdEJkTVpDNUN3UUQ1bzY0OTNrR3YzeEhpS1pEeDFHWk1IUHBJdF9FR0pqZk5tRlV0MmU4eDJZdlduX0J5TUprQzZobnV3VWw1aXNrbkFaNVFNVjIycC04Q1pFWl9ZQW83Ym5jSHVvbEk2aVotdW1wcXc5emRLLXp3R2ZoQjhGSHZpRTliMEVvUm5pX1UyOEFtZlowTnJSQlJlWlo1Tl9SM2tDUmpONXI1VUo5cV9IcjR6SkVXSVFQdkRMWW9VTUlxeVNPUUdZ?oc=5",
+     "summary": "",
+     "ts": 1793622120.0,
+     "time": "Nov 2, 6:22 AM CT"
+    },
+    {
+     "title": "Live updates from the Vermont Division I high school soccer championship games",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQaHUtQkxMaWNQSXFYUWV1QmFDZFh2ek9YUUVfOHkzVXQwdjdVdWdHU2Z5UTA0RTg2eTVXeDI2YkFBdk9OVmdOOE5LQjFBaHF5TGVhYkx2b2dEV2wyX0I5MDhnTXE5d0FtUHNJX0VqVFNDbU5iVFBVdThjYngyTENlcUxwSzM4YVJUYUdsUENxRENvcC0zY2JieVdiWndxUnZHRndLLXJhT3dyR0gxQklpVkdQM1BFNGVDSWk1eVFFdFFoX1o4ZllDeTl1VlB2elVmQlhIdnVWX2VDakF3ZFRnMzhub3JFRzFfcDVaWUJaSzFHc1FrdkQ5X0FRX29yN0p2dVU4SWF0aW1UaldnN2YyTGhqU3hKMlFER3V6a3JXWQ?oc=5",
+     "summary": "",
+     "ts": 1793592118.0,
+     "time": "Nov 1, 10:01 PM CT"
+    },
+    {
+     "title": "Data centers need guardrails now",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tdU9KQU5RQ3ZvTmhfNFlQZHVNV0pROTNyckI0UzlRdVlnLXBHNTBuak13emgzcUdqQjZraGZERWhFU0h5Sk45VDJIMGh4WFNBOUdQazNqcTFLNUhoV2FTTUNhcG9qMjlBVUp3NWNDUnZRTDRTTnl2QVhiLVRDdw?oc=5",
+     "summary": "",
+     "ts": 1793543040.0,
+     "time": "Nov 1, 8:24 AM CT"
     }
    ]
   },
   {
    "name": "Crime",
    "items": [
+    {
+     "title": "Teen killed in Washington County crash",
+     "source": "Times Union",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0tkWF9ubmlXLUExbVlNRnI4cnNxalJiT1BzbHdEVEE2b0J0QWdZamtrMTBVQmhxVXVnOE04YnlWYjhHeUVPdkdpMnZxdF9uMVAwYS0xNVZMUHVDLThSWFBLSV80akdzOVZxNXdEeVRkWURMTE0wSzhXMkkyVHRmR3VKbTNTV1I3V2ZEYzh1YWlEM0JPYS0teFAxSUxsUQ?oc=5",
+     "summary": "",
+     "ts": 1793708950.0,
+     "time": "Nov 3, 6:29 AM CT"
+    },
     {
      "title": "Police see driver crash into Rutland furniture store",
      "source": "WCAX",
@@ -476,6 +484,14 @@
      "time": "Nov 3, 4:44 AM CT"
     },
     {
+     "title": "Scene still active 9 hours after man shot, killed in Raleigh neighborhood",
+     "source": "WRAL",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzB2czFNMUFRSl9Uc3p2Qk5WRHkxbExRdEdicVdLRnB3RmdndW9RUjU5bElYTVpOYzY4NXVtZ3ptUmd3aHJadnpVek9fX0dEeWRnTnE3bzZKVURIR01LTVNsQjZhTEM5NmppSDlzWFEtYnA3ZXRYYlJWLVNnQ3g1MldQTGZKalpkaVRzWExHb3hBTlgycGVocTZNcVZyTVZHNkE?oc=5",
+     "summary": "",
+     "ts": 1793701877.0,
+     "time": "Nov 3, 4:31 AM CT"
+    },
+    {
      "title": "Arrest made in deadly Halloween shooting on University Hill",
      "source": "Axios",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnE2aGJPM095ZnZ5YUdHbFI4NU5qdXVJbTJWYmlkYXQ0MzVBTVdVaHgxSHZ4OUozNmhWLVN3VDlWT1F1R0Zib2FKLXlnWTBMMGRwWnUtRlZfQk1sR2laRVZEaWp4VThuTjJpOXN1YVAtR0IxbVdQWFhKakpFcjhwQVhwZFVYTDdtNDR5b0h4Zw?oc=5",
@@ -484,12 +500,12 @@
      "time": "Nov 3, 1:26 AM CT"
     },
     {
-     "title": "Fairfield police arrest 17-year-old suspect in deadly Spirit Halloween shooting",
-     "source": "KCRA",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc0N0Y0xMMEdfQkt3NVZkb3A3blByUnpHNjlZUmxMN1hmOE8tYzRUWDVTb2tBRWpXSjRNal90cnV2d3pnZDdMRjFKeEtjRzhadmI1RngyTmlTWDBOTHdGaW9nWTZqX2VjRFFCZnZwTlRxODNtVzhpOVIxTDExRE1lRXdueWpHX3RMZlBydWNvM0lvZGo1?oc=5",
+     "title": "Police arrest 17-year-old in deadly mass shooting at California mall",
+     "source": "KTLA",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTdkVHRwWFJ4Z19jNHl6Y2pNSjktMlVyQ25jRXEzcjFFZTM5SE9iUHRVZVdWVi1SblVzUnRLVjlQZkZqMnpIQjhha2x6bHBicnV1VU95T29XM2RYUnRSMjloSTI3V3VsZktrWTgtTzRhTW5ydUVaTElmTERDaUpKcWstOEUxVzk4bkhV0gGQAUFVX3lxTE9rWHB3Q3ltVjBoeGpySkh0Ni01MUZ2c2ZZcUhQMjJBbVp4Zkd2YUZLVHhQcktWOWF5c0xXQU9vSXhhMDZTRWh5N2lJN0V1OS1vWk5LODFXMlU0bFpySGRFWk5GclJib3BvTF96TVoyYjRoemh5bXJEemlmV2pOZFlPekVjZmZ2Wm0xMlY2Y3dWYQ?oc=5",
      "summary": "",
-     "ts": 1793690520.0,
-     "time": "Nov 3, 1:22 AM CT"
+     "ts": 1793685704.0,
+     "time": "Nov 3, 12:01 AM CT"
     },
     {
      "title": "University statement on Oct. 31 shooting",
@@ -506,14 +522,6 @@
      "summary": "",
      "ts": 1793679472.0,
      "time": "Nov 2, 10:17 PM CT"
-    },
-    {
-     "title": "Annapolis shooting leaves 18-year-old critically injured",
-     "source": "WBAL-TV",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMzFRM2FEdFQtWmk0ZTh2ak0tLVM0TmNhMHRQZkR0YzI3bU9GMzJib2VHNFp0MDhoeU1rSlhyZFBUSmVFRmJmdXV2V2pfcUtMM0ZURHd1MjU2ZDY0QlU4Q2hZSWtsOEpsTVg2WXRSUHh6NllNdWhUdGV1UjZac0pxNnFWRzZWeVdaWElxeW1YdXdqNnJmQXo3eDVlblBpZEg0UXliX0NtRGJFZXRLTTR0elVpVXp4a29fckVpLUY0MFQ?oc=5",
-     "summary": "",
-     "ts": 1793678820.0,
-     "time": "Nov 2, 10:07 PM CT"
     },
     {
      "title": "Fairfield shooting: 17-year-old boy arrested in Spirit Halloween store shooting that killed pregnant woman, injured 6, police say",
@@ -570,14 +578,6 @@
      "summary": "",
      "ts": 1793629536.0,
      "time": "Nov 2, 8:25 AM CT"
-    },
-    {
-     "title": "New Vt. state police commander sworn in \u2013 ABC22 & FOX44",
-     "source": "MyChamplainValley.com",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnhfU3hTZHBOcGZhVTBpRkd1UGI1dE5tUDA5RHZweUxwSlFoX0tuN2FjRWhGX1lxdzZtY0dIeGktLWJKeTNaLTVKcDh1NFVmYl9oWEc0SGt3QUVseHhNT0FzSFc5Z0RhV25uZmFPX2NQRXBFUFREcmtRUEx3ZnQycU1VYkwxUzBlTzEzbS1DNEhFZw?oc=5",
-     "summary": "",
-     "ts": 1793626573.0,
-     "time": "Nov 2, 7:36 AM CT"
     },
     {
      "title": "Dallas Halloween shootings leave 4 dead, 15 injured, police say - ABC News",
