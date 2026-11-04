@@ -1,9 +1,25 @@
 {
- "updated": "Wednesday, November 4, 2026 6:17 AM CT",
+ "updated": "Wednesday, November 4, 2026 6:45 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
+    {
+     "title": "World reacts to Democrats' midterm elections victory",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+     "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win on Wednesday, as foreign powers weigh up how a flipped Congress will impact international rel...",
+     "ts": 1793795675.0,
+     "time": "Nov 4, 6:34 AM CT"
+    },
+    {
+     "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+     "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
+     "ts": 1793794719.0,
+     "time": "Nov 4, 6:18 AM CT"
+    },
     {
      "title": "6 takeaways from Democrats' big wave on election night",
      "source": "NPR",
@@ -62,7 +78,7 @@
     },
     {
      "title": "Nevada Attorney General Aaron Ford beats GOP incumbent for governor",
-     "source": "NPR",
+     "source": "NPR National",
      "link": "https://www.npr.org/2026/11/04/g-s1-151138/midterms-ford-nevada-governor-lombardo",
      "summary": "Democrat Aaron Ford defeated Republican Gov. Joe Lombardo. He's set to become Nevada's first Black governor.",
      "ts": 1793785720.0,
@@ -85,8 +101,16 @@
      "time": "Nov 4, 1:57 AM CT"
     },
     {
+     "title": "Takeaways: Voters punish Trump, and the GOP suffers historic losses",
+     "source": "AP News",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjkyWmJqMU9FSGNlZDU1XzEzZ2IzTUNlZ25OV1BuYmxTREU5NE41R0tldnU4Z3lCclBGYzltRFJySF9jMldXMDZxTTBaaGtYTU4tbHVJcXNCemdqblJfUXY3QTk0alF6VmJtWjBBS3kwaWVZOV9GTzdrM05aVXFRSlpjZTBPcWY2RHlDbnF6b21kRUVQZDNsUk5ZOUpwNnN0VkNENlhzWnBwQzdzTDkycVpyM1hJa3VYRC1SUWdWbGlGdw?oc=5",
+     "summary": "",
+     "ts": 1793778120.0,
+     "time": "Nov 4, 1:42 AM CT"
+    },
+    {
      "title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
-     "source": "NPR",
+     "source": "NPR National",
      "link": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
      "summary": "El-Sayed's campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground. With the win, he'll become the first Muslim American to...",
      "ts": 1793777282.0,
@@ -123,30 +147,6 @@
      "summary": "The victories in the House and Senate return Democrats to full control of Congress for the first time since 2023 and deepens the level of expected friction between them and Pres...",
      "ts": 1793767495.0,
      "time": "Nov 3, 10:44 PM CT"
-    },
-    {
-     "title": "Flights across Europe searched and diverted after hoax bomb threats",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
-     "summary": "",
-     "ts": 1793758320.0,
-     "time": "Nov 3, 8:12 PM CT"
-    },
-    {
-     "title": "Iran\u2019s chief negotiator says the US must act to prevent renewed war, and other Mideast news",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM2pBMjlPX0dlMUxUN1BQVExSMVRwRTBnQkx6TkFaRW4zT1NsTE9jNzhHbnZSMVFXd1lHQ3gwWFJEbW85aGdhbTJVY0VWN1FyTVZLTUdSblVHYzAtTHVoN2ZvZkNyWWtPR3pVVWRBSUxaTWZldUR0QktaZWlMSm42cEdiWFNhcUIwNFdpUUN4a0JjQQ?oc=5",
-     "summary": "",
-     "ts": 1793745840.0,
-     "time": "Nov 3, 4:44 PM CT"
-    },
-    {
-     "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWEg1YUtlWm5XOFZadlZwVVhuTXNDLWlQYnpQa01Kbm4tLV80UGFKVzF3SENvNF9SRFZSaDNEejYyNVU0MVdJeVNDYjhGc19EdENMZWZXZ0dvMERTQXg1LUxiWlkxaTBsLTdhWFYycFdyWGRyUDRWNjVOdDBzczZLVndJWGFud3hFRnJNUGtncjg0STBL?oc=5",
-     "summary": "",
-     "ts": 1793691120.0,
-     "time": "Nov 3, 1:32 AM CT"
     }
    ]
   },
@@ -154,11 +154,27 @@
    "name": "Texas",
    "items": [
     {
+     "title": "Man shot near 35W/I-30 ramp in Fort Worth late Tuesday",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/crime/man-shot-near-35wi-30-ramp-in-fort-worth-late-tuesday/287-64602530-0fb9-4f4c-bb63-78d6b71e6603",
+     "summary": "Fort Worth police said the victim may be in critical condition. No arrests made.",
+     "ts": 1793795015.0,
+     "time": "Nov 4, 6:23 AM CT"
+    },
+    {
      "title": "How many House seats did Democrats win in the 2026 election?",
      "source": "WFAA",
      "link": "https://www.wfaa.com/article/news/politics/elections/house-seats-flipped-2026-midterm-elections/507-146e2f46-bc46-4874-938a-8cf10e296e79",
      "summary": "The House flipped out of Republican control in the 2026 election with an overwhelming sweep by Democrats.",
      "ts": 1793794286.0,
+     "time": "Nov 4, 6:11 AM CT"
+    },
+    {
+     "title": "Man critically injured in shooting under I-35W in Fort Worth",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/news/man-critically-injured-shooting-under-i-35w-fort-worth",
+     "summary": "A man is in critical condition after a shooting under an interstate overpass in Fort Worth.",
+     "ts": 1793794282.0,
      "time": "Nov 4, 6:11 AM CT"
     },
     {
@@ -192,22 +208,6 @@
      "summary": "Texas Democrats scored historic victories in 2026. A KHOU 11 analyst explains how shifting Latino, suburban and rural voting patterns changed the election.",
      "ts": 1793789708.0,
      "time": "Nov 4, 4:55 AM CT"
-    },
-    {
-     "title": "Texas election results: Tracking all races in the November midterm election",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/election-results-tracking-every-race-north-texas-november-midterm/287-46d0d40d-c19e-4a71-a87b-0aa4db944b47",
-     "summary": "Get the latest election results for all of the races across North Texas in the November midterm election.",
-     "ts": 1793789020.0,
-     "time": "Nov 4, 4:43 AM CT"
-    },
-    {
-     "title": "Democrats seize power in Texas, ending decades of GOP dominance",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVEwNERzbGJQNzItWUZ0blc2VWtUNlhNc056S21oYlltVWlPVXRDMXAtakxnSXhPZm1HVjdoMVlBOElZbFNUd0FCM0J4amhTa0NEaXVqMDk0aDlvc256eWVIUEhqVjNxSEZhZDdZQUJHWVhBT3BsOE9zNkJBLVJWZ19Pc1ZUUEFxbXc?oc=5",
-     "summary": "",
-     "ts": 1793779182.0,
-     "time": "Nov 4, 1:59 AM CT"
     },
     {
      "title": "LIVE Texas Election Results 2026: Dallas-area races to watch, voting updates & speeches",
@@ -266,14 +266,6 @@
      "time": "Nov 3, 9:06 PM CT"
     },
     {
-     "title": "Prosper fire sparked by lightning destroys family's house",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/prosper-fire-sparked-lightning-destroys-familys-house",
-     "summary": "A family of four escaped safely after a suspected lightning strike during Monday night storms sparked an attic fire that completely destroyed their Prosper home.",
-     "ts": 1793755719.0,
-     "time": "Nov 3, 7:28 PM CT"
-    },
-    {
      "title": "Democrat Simmons declares victory over Republican O\u2019Hare in Tarrant judge race",
      "source": "Fort Worth Star-Telegram",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNGE5ZHlyQVl5WkMwRmVSbVgwcXNJNG1RS1M4THd5dm1PbENpeE9nTVNDRnpQV2k4RVlScmhLWFdfc3UtZ1JZdDFjNHUtYlEwWWlKb2RRSHFnQTIzOHNtQnh6UUxWTS02MUR1OWtXb3VnNEVXaWJfc25xYjhfa3J6Tk8yR3lhNmtWU0dxRXZn0gGOAUFVX3lxTE1oX1V0WlNDc2ExcGtUQkZHM0dVQWZKR1lFMEh0bmNNUzNhaFhPblZTUHgxNDRhUWF2OTZ2VFB1MnhFXzdvOXhMVV9JUExEZXBxRmNQOFNtTUtSclZXYm9RWlU3amR1VGNiWjBxZkxfZWYwLVl2Y1pzT0NUeU5veEtuRFlTV3BzNDRhdWJvU1E?oc=5",
@@ -296,12 +288,28 @@
      "summary": "",
      "ts": 1793754780.0,
      "time": "Nov 3, 7:13 PM CT"
+    },
+    {
+     "title": "Seven things to watch on Election Day 2026 in Texas",
+     "source": "The Texas Tribune",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONlBJMjZ2V0h3ejJkUFNQRXFoRXlOZWVLYlZQYWNVMU02WU5Ub2pnYWFmMmFqUWxMVTVNTUV4cmR2c2VaYjVaMXJBNk9FTUpleXA0TTVUa01tNGVxY3RqVkFzSDRmUVNZeGNCLWM0LXVKZlFEdTQ0U2RpQmR1cjRMTnhqRTVZdENUbGhrbm9kOXI?oc=5",
+     "summary": "",
+     "ts": 1793703600.0,
+     "time": "Nov 3, 5:00 AM CT"
     }
    ]
   },
   {
    "name": "Vermont",
    "items": [
+    {
+     "title": "Burlington fall clean sweep underway",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/04/burlington-fall-clean-sweep-underway/",
+     "summary": "Most street cleaning runs from 10 p.m. to 7 a.m. each night until Thursday, Nov. 12.",
+     "ts": 1793794579.0,
+     "time": "Nov 4, 6:16 AM CT"
+    },
     {
      "title": "Rutland Regional Medical Center proposes pediatric redesign",
      "source": "WCAX",
@@ -349,38 +357,6 @@
      "summary": "Both said they expected to be a Mississippi senator in the next few days.",
      "ts": 1793781748.0,
      "time": "Nov 4, 2:42 AM CT"
-    },
-    {
-     "title": "Eight Autumn Outdoor Power Equipment Tips to Avoid Headaches Later",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/green_living/eight-autumn-outdoor-power-equipment-tips-to-avoid-headaches-later/image_39b00773-b74e-5a63-a4f3-2d1770048e0f.html",
-     "summary": "When the weather turns harsh, it\u2019s best to be prepared. Here\u2019s how.",
-     "ts": 1793781000.0,
-     "time": "Nov 4, 2:30 AM CT"
-    },
-    {
-     "title": "Seeing the Benefits of an Eye Exam",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/seeing-the-benefits-of-an-eye-exam/image_05fcc07b-536c-5a3d-9a7f-bbcbdb262d9b.html",
-     "summary": "Be wise, look out for your eyes and get regular vision exams.",
-     "ts": 1793781000.0,
-     "time": "Nov 4, 2:30 AM CT"
-    },
-    {
-     "title": "Flu Season Is Here: 3 Steps to Take Now",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/flu-season-is-here-3-steps-to-take-now/image_5f466333-0428-5dfe-9d07-ce708e2a5f90.html",
-     "summary": "It\u2019s a healthy idea to get your annual flu vaccine early in the fall flu season.",
-     "ts": 1793781000.0,
-     "time": "Nov 4, 2:30 AM CT"
-    },
-    {
-     "title": "In obscenity-laced speech, Constantino orders 7 News crew to leave election-night party",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/04/obscenity-laced-speech-constantino-orders-7-news-crew-leave-election-night-party/",
-     "summary": "Republican congressional candidate Anthony Constantino ordered a 7 News reporter and cameraman to leave his election-night party while he was thanking supporters and criticizing...",
-     "ts": 1793776212.0,
-     "time": "Nov 4, 1:10 AM CT"
     },
     {
      "title": "Vermonters vote to approve 2 constitutional amendments",
@@ -445,12 +421,68 @@
      "summary": "",
      "ts": 1793658420.0,
      "time": "Nov 2, 4:27 PM CT"
+    },
+    {
+     "title": "Harold \u201cHal\u201d Jenkins",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MFYxdU8zZEhmTDBWRHN5SmhzS3RRa0ZUVTNZOTFvZExOd2h1TFRpY0dXRnhsZ2dvYWNHaWpHUS1ZYVZtbXZ6dU5NUkJoMzlLS3F1T0d0OWs0ZnN3dmxkRHZ6bmNtNUcwb0E?oc=5",
+     "summary": "",
+     "ts": 1793653883.0,
+     "time": "Nov 2, 3:11 PM CT"
+    },
+    {
+     "title": "Wine bar in Essex set to close following New Year's Eve 'crescendo'",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzZPYnlTdUxxYTVfQUpzU21ZZmFzMWJSWFRIN0F4V3IyRzJUZkhMTWY5UUE4akdNRVJTcXpfMW5nTzI0VUtERzVLTmpGdXYwa2VoQ1lNZ0dPS3E0NHljbDdpdGVjbUhtcmtFWWVTNXlWbnUxRmFkVEtMQ1R3RFNUYWFTRlpka0RMTmMzSjNTakRrbEFZb3dLUC1aQzg1RHlSQlZWQVFyb3hLMXBSOThraktmSGlvS2k5cWZ2dUg5eTViZURjbWs5cTZjTQ?oc=5",
+     "summary": "",
+     "ts": 1793644380.0,
+     "time": "Nov 2, 12:33 PM CT"
+    },
+    {
+     "title": "Long-time Burlington BBQ joint closes its doors",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb25XTV8teHluZzlHUTcwRDJtUE5Qdlh2OVlacV9ZZUdyZXNiUlh4ZmJOY19HTzhTdGtmRUtzcXBITkJJbUFSRm1Oa0R6Yi1fUzVRal9GZm5pS0tWUnVsdllQa1VHTXBlc2dOcDlrZ0hZcnNWOUdJT2RKWFFMeXNMeFlJWEJyZmxBc0wycDlkSkhTT1Y3ZGlNTFRUcEpZNVFiUXB2WU9OZDBGaUxSNjJCa1V0MmZ5eFE3UWJQdGEzcWx0NDNWeDE4?oc=5",
+     "summary": "",
+     "ts": 1793634420.0,
+     "time": "Nov 2, 9:47 AM CT"
     }
    ]
   },
   {
    "name": "Crime",
    "items": [
+    {
+     "title": "Man shot near 35W/I-30 ramp in Fort Worth late Tuesday",
+     "source": "WFAA",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMGRnNkttQUg0cVdZbUJmTU1LaW56UWdYS3JRMVZneWtWckxyZE5CMjV6dHI0TXZTTGdsNjZuV1ktX3BHYTJwdWVlU3R2NGxaWGdlT2hKcHF6YXFTb3FLXzQ0MHJRVWpneHRpWXI3X01Pc0U5M2hjSFhhMGxzTmFfeTQ4dDhEVXBKU09HNnZjRDRXenlGMV9rb1l6a0hYNTVxaGlrbm1IT3RuRkkzTnc2bUlFdHR5ckEtcHhwNWJtOGFBVTdaNHJLV29WekdCVm8?oc=5",
+     "summary": "",
+     "ts": 1793795158.0,
+     "time": "Nov 4, 6:25 AM CT"
+    },
+    {
+     "title": "Man critically injured in shooting under I-35W in Fort Worth",
+     "source": "FOX 4 News Dallas-Fort Worth",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeG10aDZGSDlNajhfLVpJR0lVOUQwTlZtUnFObE5LM0pvTVAtYnRzVWlXMmlXczNBR1ozUHVxckM1SnVaSmVKM2RFbmF4T0VMSV9hUm9hdnlGNUVPcEFSTmh2cXR4c3IzeC1hUUhXeXVubjRKTTNta3dTdFJ3U01DbHY0N0tpR3RsS2pGcA?oc=5",
+     "summary": "",
+     "ts": 1793794282.0,
+     "time": "Nov 4, 6:11 AM CT"
+    },
+    {
+     "title": "Thornton man, 18, charged with first-degree murder in shooting death of CU Boulder student",
+     "source": "Denver7",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMlVzZDU4cDhfQ21KRXRQc0RqN2Ffd3VWTlloaGY3YnpTeDh3c3pNUzRPZ216NjN1MUlJcGh0MzIxZGUxOGlFZGZZT1F0R3hwSzZiOXVTM05KTFRqZHB3LVNIWWRtOUI1NTFIX2pScFdUR0hKVUpNV1FyeWM3VjFScUl0WVZsZzZBa1NqeWdQQzRSRV9rVXFLRVR6Yzk0Sm54OGNmQVlwZnV4TkdndmJRY0dVMXBPXzk5XzdFdzlPWWpQZm1iZFowS1RvN1dZTFJZOHFyWGZR?oc=5",
+     "summary": "",
+     "ts": 1793793866.0,
+     "time": "Nov 4, 6:04 AM CT"
+    },
+    {
+     "title": "Henry County officer involved in shooting in Stockbridge; GBI asked to investigate",
+     "source": "CBS News",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdks1MWZORllqa1YxZXdCZHVmdVVHcmtvbmtmZmYwSmwwQ00wcV9LQ0pjY1Frc3V0bXhjZnBjMWtXRk1mcVY0dUdNNWJMUjF0TWtnSVdqcm1USWhpWUtlLTZJUk9Pd0c2NWY2Y1IwX042czBobDNxalJOTlpIUUtSYkxOVkdNbm1wZXlqM2czRThDRnhZM1RJRGoyZWJIalVNOGp5aDJ0YjJwSkwyX1EzYmVvNVdFZTRMRGpj?oc=5",
+     "summary": "",
+     "ts": 1793792431.0,
+     "time": "Nov 4, 5:40 AM CT"
+    },
     {
      "title": "Chicago shooting: Man killed in Logan Square drive-by on Diversey Avenue, police say",
      "source": "ABC7 Chicago",
@@ -460,28 +492,20 @@
      "time": "Nov 4, 5:00 AM CT"
     },
     {
-     "title": "Oregon school shooting: Father of 2 students identified as bystander who took down suspected gunman - ABC News",
-     "source": "ABC News - Breaking News, Latest News and Videos",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmVieG93eXRGY2UyclpqcndJLXRpWlg0WWxnb3BSbnRlVzdOUng5S0RRYzh4TmJPQUlrNDRXR3lnbGJ1RmZXbjJ5YXhzc3JmZVQxQTFrY3RqNEZ5Sk1hZzJpV0gwUmFCZVNTZnB4R1JjSXplelJKREtBVzVickFiSk14NnZvZkM2RkhNaFp2akFyanBEeVdrWnRDZ1RmcjcyRDVnOHZB0gGrAUFVX3lxTE1mdFMwMklTU083UHVzOUdMZnN2bVk0cGZjUFl3SUxpLXZ4N1Z3aUhrX01iRTByVVJuTVg3dzIza0JRcXRYUF9kVy11eEtjTjYxZlVGRzk0UkF4U0NFNFViZTdpUVRGeW0zMlQ5eGNXWTZPNkhTMmdfaV9ObGRGMTdnVmczUkl3SFZnclJ5SDU1S3lPNmhQWXFCVm54bWlEWFIzV3p6OUYycDNLbw?oc=5",
-     "summary": "",
-     "ts": 1793784575.0,
-     "time": "Nov 4, 3:29 AM CT"
-    },
-    {
-     "title": "3 dead, 2 Spokane County deputies critically injured in shooting",
-     "source": "KING5.com",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTlpHWWl5UkdiUWJLa3VXY04xV01zcUtTMUJyWXVyQ3hLd3RqaDd5Xy1ZZ0xyWUdHV1lvbWNrV2pWeERwLWpwci1FbjY3M2xUUmlSQ3huNTFyRE9wZVZ6eFg4a2tLWWc3S3REZUxiMDlBMU1laVpXZmpSNWRtcHdzTTdyQ0h4YzA3TmFkMTE3dTdxV3RZZWVSVVN2Q3RTZW5qNFNxLU54djNvbUlyT20zVk4zX3cxcHNCTEJ2SEVabWlrQzZiSE5vSHQ2R0tVczd4R2xSdnNmdXdRQQ?oc=5",
-     "summary": "",
-     "ts": 1793771700.0,
-     "time": "Nov 3, 11:55 PM CT"
-    },
-    {
      "title": "C\u00e1rdenas leads Ramirez in early voting for Tarrant Precinct 4 commissioners court seat",
      "source": "Fort Worth Report",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0FuYzJVWXQ4bkUwUDRVQUl5NEgwYko0ZlFMdlV6VmpMX25oYlBlLTAxV2NuemJ2eUNIZjBValFUeTVxbHNIVjhLVzFDNjBxeTVNRzRxTFBQcmtNekxOanBGbm51dHpGSVBDR3VkWjJMZ1lHNjA2T1UxY1dIdFY0ZnltVjRKTGtoYlA3elZockdJUDlQQjVLVDVQdVJSUzBBem5fZGdFeHduM1M4MkJZSXVYbHRKUQ?oc=5",
      "summary": "",
      "ts": 1793758833.0,
      "time": "Nov 3, 8:20 PM CT"
+    },
+    {
+     "title": "Authorities release 911 call from the man who killed a shooter inside an Oregon elementary school",
+     "source": "PBS",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMXRGdnR6VVQwMUxTdVZ4YmF0LTlabDlia0xUUzRMLVhicF9aZFpvdGpwTExGTm1VX3ZnRElqSThwdDVJOTVXeVM1RkdjcUdyUVFsOUd2cl9hc0loclRUTzRSOEhESWlHZmVGZ2JpSDR3NnZMYkxUUHNEUEd0UE5DelJDcHBBZm4yOTRCeXkwX1lZNmZQeXdrdUk1N3BURjRueDF3bGJybU11MUhSU1kydnBjR0p1QzBwSzNCbzhLb1ViZDVLaEJoOFRLR3dxQQ?oc=5",
+     "summary": "",
+     "ts": 1793752344.0,
+     "time": "Nov 3, 6:32 PM CT"
     },
     {
      "title": "Two killed in Upper Valley car fire, police say",
@@ -506,30 +530,6 @@
      "summary": "",
      "ts": 1793745436.0,
      "time": "Nov 3, 4:37 PM CT"
-    },
-    {
-     "title": "Teen suspect detained in South Dakota for murder of man found dead at Fort Worth QuikTrip",
-     "source": "FOX 4 News Dallas-Fort Worth",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM1RpNTVKd090U19fNkpZTjAtbndiUDZub2FsVnlqYndHdVFWcllJZ1BwaW16cmUtNVFfY01zTFBrdmdTaUxfaVpjQ1ZHY2dMZjlrOFVNQ1pQcXU4blkzSHNrQWk4V3F0YUlZZklsMGdVVGVid0VWV2ZqR2dadGlHN0xkN0t0NFlTUk4xNThHel9jcktYWmJUQ1NsaEZoYkU1YWc?oc=5",
-     "summary": "",
-     "ts": 1793741836.0,
-     "time": "Nov 3, 3:37 PM CT"
-    },
-    {
-     "title": "Escaped Tennessee inmate convicted of co-worker's murder is recaptured in Missouri, officials say",
-     "source": "PBS",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlVjRVBRdG1CU3dBVGdDYkQ2VUtJMnpQUEdqaU9MTk5nMTV1ckpKeUFaUzZBWDFXY1RPU2V0TWtzX1hoMWc0Zm1TLUduV2o4cld4cUVTaXBLY1d6VHNvQnJwVWpCRlFqUTg2dlRiUm13NWZMbnZMT08tWF9aUUIwLW5nLWFrNXRpR3lGMmxnd0wyRlE0cThLaHg4ZDRfLV9LMXFWdHQxTWNrU1ptNlNROVpIMjEtdGRnTWZrdWdQQ1VBRnV4SUY4S1NBaw?oc=5",
-     "summary": "",
-     "ts": 1793739280.0,
-     "time": "Nov 3, 2:54 PM CT"
-    },
-    {
-     "title": "Arlington police charge teen with murder in deadly apartment party shooting",
-     "source": "WFAA",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYXF2ZFdFOTdmQlpRTjdSX1V6NnBJMkp1eEpDU0NvRTg2ZGVnelRYNjJsYlFQcnhpTnVfaFY3Z29FUUlVeTlUams1YjFTdTJKdWlDeG5iNVBkQklVaFQ1UXRLZVBXR2VKSWN6NEE4NVpiZnFwdE9CZkNCTnQwWkZYQVdOTF9Zem9udjhJYm5aNUpMTFBWdkRFMEltVW9waFF1TjE3SHBQdUlfUThDc1ZlRGx2NEJlQndFdFNJMUptcGxYTjcxY0R4R1dkZFRtMm9MMWNJbjQySjBtZkxQZUhneGQwM016am1MbmYyQjhveHBjM1Q1SE5NRTdOcw?oc=5",
-     "summary": "",
-     "ts": 1793738658.0,
-     "time": "Nov 3, 2:44 PM CT"
     },
     {
      "title": "Moss Landing shooting: 2 killed in Monterey County beach shooting were 13- and 15-year-old students from Salinas",
