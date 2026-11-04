@@ -1,16 +1,24 @@
 {
- "updated": "Wednesday, November 4, 2026 5:53 AM CT",
+ "updated": "Wednesday, November 4, 2026 6:17 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
     {
-     "title": "Key moments from a night of midterm election firsts",
+     "title": "6 takeaways from Democrats' big wave on election night",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
+     "summary": "The magnitude of the Democrats' outcome was always a possibility, but the depth and breadth of their victories were jaw-dropping.",
+     "ts": 1793793758.0,
+     "time": "Nov 4, 6:02 AM CT"
+    },
+    {
+     "title": "Everything you need to know from the US midterm elections",
      "source": "BBC US",
      "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
-     "ts": 1793790296.0,
-     "time": "Nov 4, 5:04 AM CT"
+     "summary": "Democrats secured some big wins - and a few historic firsts - earning congratulations from President Trump.",
+     "ts": 1793793667.0,
+     "time": "Nov 4, 6:01 AM CT"
     },
     {
      "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
@@ -85,14 +93,6 @@
      "time": "Nov 4, 1:28 AM CT"
     },
     {
-     "title": "Republicans tried to gerrymander their way out of big congressional losses. It didn't work",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/04/nx-s1-6028588/redistricting-efforts-failed-republicans",
-     "summary": "Among the sweeping victories by Democrats on Tuesday were wins in several congressional districts that Republicans had redrawn explicitly to boost their party ahead of the midte...",
-     "ts": 1793777008.0,
-     "time": "Nov 4, 1:23 AM CT"
-    },
-    {
      "title": "Watch: Winners address supporters after midterms victories",
      "source": "BBC US",
      "link": "https://www.bbc.co.uk/news/videos/cq3dj7xn2xvko?at_medium=RSS&amp;at_campaign=rss",
@@ -109,7 +109,7 @@
      "time": "Nov 4, 12:53 AM CT"
     },
     {
-     "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+     "title": "Troy Jackson wins Maine Senate race over Susan Collins, in big victory for Democrats",
      "source": "NPR National",
      "link": "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
      "summary": "The result is a crucial victory for Democrats in their push to retake the Senate majority, flipping a seat that Collins has held for nearly 30 years.",
@@ -154,6 +154,30 @@
    "name": "Texas",
    "items": [
     {
+     "title": "How many House seats did Democrats win in the 2026 election?",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/politics/elections/house-seats-flipped-2026-midterm-elections/507-146e2f46-bc46-4874-938a-8cf10e296e79",
+     "summary": "The House flipped out of Republican control in the 2026 election with an overwhelming sweep by Democrats.",
+     "ts": 1793794286.0,
+     "time": "Nov 4, 6:11 AM CT"
+    },
+    {
+     "title": "Election 2026: These races are still too close to call",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/politics/elections/midterm-election-2026-results-too-close-senate-house-governor/507-891f2574-d904-4ab3-9187-164d69210d62",
+     "summary": "Only two U.S. Senate races had yet to be called by 7 a.m. Eastern on Wednesday, as well as results for several other U.S. House and state governor races.",
+     "ts": 1793793696.0,
+     "time": "Nov 4, 6:01 AM CT"
+    },
+    {
+     "title": "Google will cut off search access for students at schools that reject AI",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/nation-world/google-cut-off-search-access-for-students-schools-reject-ai-artificial-intelligence-education/507-3630d393-98b5-4b80-bef2-72e8cf4db753",
+     "summary": "Students using Google software in schools won't be allowed to access the company's search engine unless their school system also opts in to using AI.",
+     "ts": 1793793316.0,
+     "time": "Nov 4, 5:55 AM CT"
+    },
+    {
      "title": "Midterm election brings wave of historic firsts for some states and the US",
      "source": "WFAA",
      "link": "https://www.wfaa.com/article/news/politics/elections/2026-election-results-historic-wins-firsts/507-1e43f51d-668e-41ab-9653-a119539f9e77",
@@ -176,30 +200,6 @@
      "summary": "Get the latest election results for all of the races across North Texas in the November midterm election.",
      "ts": 1793789020.0,
      "time": "Nov 4, 4:43 AM CT"
-    },
-    {
-     "title": "Sarah Eckhardt unseats GOP Comptroller Don Huffines in historic victory for Democrats",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/sarah-eckhardt-texas-comptroller-race-don-huffines-victory-election-day/287-9ceea9da-5738-4f72-9f69-fc58ae6ee5ca",
-     "summary": "Sarah Eckhardt won the Texas comptroller race on Election Day, becoming the first Democrat in decades to oversee state spending.",
-     "ts": 1793788524.0,
-     "time": "Nov 4, 4:35 AM CT"
-    },
-    {
-     "title": "2026 Elections | Democrats topple GOP control with stunning upsets across the country",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/2026-elections-democrats-topple-gop-control/507-bf088181-276a-4399-940c-4b471d8f0382",
-     "summary": "Democrats will control both chambers of Congress after sweeping the midterm elections, in a stunning referendum on President Donald Trump's Republican party.",
-     "ts": 1793788227.0,
-     "time": "Nov 4, 4:30 AM CT"
-    },
-    {
-     "title": "Clayton Tucker poised to become first Democratic agriculture commissioner in nearly 40 years",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/clayton-tucker-poised-to-become-first-democratic-agriculture-commissioner-in-nearly-40-years/287-b40a1384-1316-4849-b2ac-366d8007166e",
-     "summary": "If elected, Tucker will usher in a new era for the agriculture department as the agency\u2019s first Democratic commissioner since Jim Hightower in 1990.",
-     "ts": 1793788176.0,
-     "time": "Nov 4, 4:29 AM CT"
     },
     {
      "title": "Democrats seize power in Texas, ending decades of GOP dominance",
@@ -303,6 +303,14 @@
    "name": "Vermont",
    "items": [
     {
+     "title": "Rutland Regional Medical Center proposes pediatric redesign",
+     "source": "WCAX",
+     "link": "https://www.wcax.com/2026/11/04/rutland-regional-medical-center-proposes-pediatric-redesign/",
+     "summary": "The hospital proposes moving the pediatric inpatient care into a dedicated three-bed pediatric area inside the emergency department.",
+     "ts": 1793793845.0,
+     "time": "Nov 4, 6:04 AM CT"
+    },
+    {
      "title": "South Hero man dies in I-189 crash",
      "source": "WCAX",
      "link": "https://www.wcax.com/2026/11/04/south-hero-man-dies-i-189-crash/",
@@ -373,14 +381,6 @@
      "summary": "Republican congressional candidate Anthony Constantino ordered a 7 News reporter and cameraman to leave his election-night party while he was thanking supporters and criticizing...",
      "ts": 1793776212.0,
      "time": "Nov 4, 1:10 AM CT"
-    },
-    {
-     "title": "Gray wins back Vermont lieutenant governor job",
-     "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/04/gray-wins-back-vermont-lieutenant-governor-job/",
-     "summary": "Molly Gray is back. The Democrat has won the Vermont lieutenant governor\u2019s job she held from 2021 to 2023, beating incumbent Republican John Rodgers.",
-     "ts": 1793770322.0,
-     "time": "Nov 3, 11:32 PM CT"
     },
     {
      "title": "Vermonters vote to approve 2 constitutional amendments",
@@ -460,12 +460,20 @@
      "time": "Nov 4, 5:00 AM CT"
     },
     {
-     "title": "Suspect arrested in Virginia State shooting that wounded 5: Police - ABC News",
+     "title": "Oregon school shooting: Father of 2 students identified as bystander who took down suspected gunman - ABC News",
      "source": "ABC News - Breaking News, Latest News and Videos",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWVka0N4Tno4alB1NDJDTS03eWg4OFJtVjJNTUZtYnJacm9IalRMalJlWi1hRzh2QjZ1QU51Zlc2SExzdkVURW1WVDV5MThmTkhaVU1fQnJqbVhqdldKUXUtYjY2MEU2ZVpmNXRySHFYSEJ0bmR0c1dIWkI4S3hvak9DX3paQXlpYV9PTHlSX3VtOUIyRDJpdlhmZnhKV1dm0gGmAUFVX3lxTFBQU0Y2eG9EUWxDMjQyZl9fR2lwclNLT01INlRSMkJWMF9Ra2dvTmRXVmU4YndSY2pwdFNJNExMejg2WmIzVHZRUFBtOVdwTzZZMjVRQ2xSOEgxNXYtQ2hORTZQZkZ4R1ZTeHZIQVJqdFZLUzZJYjhwVnhibUlaSjduT1pvN3BrbGdnOE91bWdOcy1BTjBNT1o0d3cyQlJVRFhBdFRER1E?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmVieG93eXRGY2UyclpqcndJLXRpWlg0WWxnb3BSbnRlVzdOUng5S0RRYzh4TmJPQUlrNDRXR3lnbGJ1RmZXbjJ5YXhzc3JmZVQxQTFrY3RqNEZ5Sk1hZzJpV0gwUmFCZVNTZnB4R1JjSXplelJKREtBVzVickFiSk14NnZvZkM2RkhNaFp2akFyanBEeVdrWnRDZ1RmcjcyRDVnOHZB0gGrAUFVX3lxTE1mdFMwMklTU083UHVzOUdMZnN2bVk0cGZjUFl3SUxpLXZ4N1Z3aUhrX01iRTByVVJuTVg3dzIza0JRcXRYUF9kVy11eEtjTjYxZlVGRzk0UkF4U0NFNFViZTdpUVRGeW0zMlQ5eGNXWTZPNkhTMmdfaV9ObGRGMTdnVmczUkl3SFZnclJ5SDU1S3lPNmhQWXFCVm54bWlEWFIzV3p6OUYycDNLbw?oc=5",
      "summary": "",
-     "ts": 1793775796.0,
-     "time": "Nov 4, 1:03 AM CT"
+     "ts": 1793784575.0,
+     "time": "Nov 4, 3:29 AM CT"
+    },
+    {
+     "title": "3 dead, 2 Spokane County deputies critically injured in shooting",
+     "source": "KING5.com",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTlpHWWl5UkdiUWJLa3VXY04xV01zcUtTMUJyWXVyQ3hLd3RqaDd5Xy1ZZ0xyWUdHV1lvbWNrV2pWeERwLWpwci1FbjY3M2xUUmlSQ3huNTFyRE9wZVZ6eFg4a2tLWWc3S3REZUxiMDlBMU1laVpXZmpSNWRtcHdzTTdyQ0h4YzA3TmFkMTE3dTdxV3RZZWVSVVN2Q3RTZW5qNFNxLU54djNvbUlyT20zVk4zX3cxcHNCTEJ2SEVabWlrQzZiSE5vSHQ2R0tVczd4R2xSdnNmdXdRQQ?oc=5",
+     "summary": "",
+     "ts": 1793771700.0,
+     "time": "Nov 3, 11:55 PM CT"
     },
     {
      "title": "C\u00e1rdenas leads Ramirez in early voting for Tarrant Precinct 4 commissioners court seat",
@@ -474,22 +482,6 @@
      "summary": "",
      "ts": 1793758833.0,
      "time": "Nov 3, 8:20 PM CT"
-    },
-    {
-     "title": "Man shot at Bryan business in an industrial business park",
-     "source": "KBTX News 3",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0prU2ljYlc5TEVqMVdQTy1BZG9ocW5seGMtcXdqTm0yaHZtb1pDUVJfVEpkRWtHNlYxVHQ0RHBUaHNXaFJPTkxJM2k3dS1lU092TWczR0pFdEVGVkFQdDlnRUxmQXUyZUtDTkU2VWp0VkpDa21qXzlfTFNzUm1BQ2g4dUU?oc=5",
-     "summary": "",
-     "ts": 1793758140.0,
-     "time": "Nov 3, 8:09 PM CT"
-    },
-    {
-     "title": "Authorities release 911 call from the man who killed a shooter inside an Oregon elementary school",
-     "source": "PBS",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMXRGdnR6VVQwMUxTdVZ4YmF0LTlabDlia0xUUzRMLVhicF9aZFpvdGpwTExGTm1VX3ZnRElqSThwdDVJOTVXeVM1RkdjcUdyUVFsOUd2cl9hc0loclRUTzRSOEhESWlHZmVGZ2JpSDR3NnZMYkxUUHNEUEd0UE5DelJDcHBBZm4yOTRCeXkwX1lZNmZQeXdrdUk1N3BURjRueDF3bGJybU11MUhSU1kydnBjR0p1QzBwSzNCbzhLb1ViZDVLaEJoOFRLR3dxQQ?oc=5",
-     "summary": "",
-     "ts": 1793752344.0,
-     "time": "Nov 3, 6:32 PM CT"
     },
     {
      "title": "Two killed in Upper Valley car fire, police say",
@@ -522,6 +514,14 @@
      "summary": "",
      "ts": 1793741836.0,
      "time": "Nov 3, 3:37 PM CT"
+    },
+    {
+     "title": "Escaped Tennessee inmate convicted of co-worker's murder is recaptured in Missouri, officials say",
+     "source": "PBS",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlVjRVBRdG1CU3dBVGdDYkQ2VUtJMnpQUEdqaU9MTk5nMTV1ckpKeUFaUzZBWDFXY1RPU2V0TWtzX1hoMWc0Zm1TLUduV2o4cld4cUVTaXBLY1d6VHNvQnJwVWpCRlFqUTg2dlRiUm13NWZMbnZMT08tWF9aUUIwLW5nLWFrNXRpR3lGMmxnd0wyRlE0cThLaHg4ZDRfLV9LMXFWdHQxTWNrU1ptNlNROVpIMjEtdGRnTWZrdWdQQ1VBRnV4SUY4S1NBaw?oc=5",
+     "summary": "",
+     "ts": 1793739280.0,
+     "time": "Nov 3, 2:54 PM CT"
     },
     {
      "title": "Arlington police charge teen with murder in deadly apartment party shooting",
