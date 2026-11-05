@@ -32,7 +32,7 @@ footer{text-align:center;font:12px Arial,sans-serif;color:var(--mu);margin-top:2
 <div class="seg" id="th"><button data-t="light">Light</button><button data-t="dark">Dark</button><button data-t="system">System</button></div></nav></div>
 <main id="main"></main><footer id="ft"></footer>
 <script>
-const VER='v1793794663',$=id=>document.getElementById(id);
+const VER='v1793881498',$=id=>document.getElementById(id);
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let S={},cur=localStorage.getItem('dp-sec')||'Front Page',shown=8;
 function theme(t){localStorage.setItem('dp-theme',t);const d=t==='dark'||(t==='system'&&matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light';[...$('th').children].forEach(b=>b.classList.toggle('cur',b.dataset.t===t))}
