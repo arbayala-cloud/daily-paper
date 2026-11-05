@@ -1,9 +1,17 @@
 {
- "updated": "Thursday, November 5, 2026 6:24 AM CT",
+ "updated": "Thursday, November 5, 2026 6:49 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
+    {
+     "title": "Teens worldwide aren't getting enough exercise -- especially girls",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+     "summary": "A new study looks at the recommended amount of daily exercise for adolescents \u2014 and how few are getting it.",
+     "ts": 1793881454.0,
+     "time": "Nov 5, 6:24 AM CT"
+    },
     {
      "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
      "source": "NPR",
@@ -51,14 +59,6 @@
      "summary": "New York City police surveillance systems were paid for and adopted without the kind of public oversight cities usually require.",
      "ts": 1793871990.0,
      "time": "Nov 5, 3:46 AM CT"
-    },
-    {
-     "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
-     "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
-     "ts": 1793862132.0,
-     "time": "Nov 5, 1:02 AM CT"
     },
     {
      "title": "Food, fuel and taxes \u2013 can the Democrats do anything to ease cost of living pressures?",
@@ -154,12 +154,52 @@
    "name": "Texas",
    "items": [
     {
+     "title": "Will Texans get $1,500? What must happen for Gina Hinojosa\u2019s payment plan to become reality",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/politics/elections/gina-hinojosa-1500-payment-texas-households-plan/285-a744e92a-b53a-4670-96a6-f8363dc8d423",
+     "summary": "The governor-elect proposed using $17 billion from the state\u2019s rainy-day fund. No payment or distribution date has been approved.",
+     "ts": 1793882604.0,
+     "time": "Nov 5, 6:43 AM CT"
+    },
+    {
+     "title": "Trial to be rescheduled for North Texas Sheriff reindicted on retaliation, tampering with evidence charges",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/local/johnson-county-sheriff-adam-king-arrested-new-charges-mistrial-new-date/287-39bee93f-a8d3-4afd-af85-13be6072429e",
+     "summary": "The charges are retaliation and tampering with evidence, attorneys say.",
+     "ts": 1793882347.0,
+     "time": "Nov 5, 6:39 AM CT"
+    },
+    {
+     "title": "Man in critical condition following shooting at Dallas apartment complex",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/news/man-critical-condition-following-shooting-dallas-apartment-complex",
+     "summary": "A man is in critical condition after a shooting at a Dallas apartment complex just after midnight Thursday.",
+     "ts": 1793880735.0,
+     "time": "Nov 5, 6:12 AM CT"
+    },
+    {
+     "title": "One person in critical condition in overnight shooting",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/video/fmc-8kp8ln3kt72nxk99",
+     "summary": "One person is in critical condition after a shooting at a Dallas apartment.",
+     "ts": 1793880462.0,
+     "time": "Nov 5, 6:07 AM CT"
+    },
+    {
      "title": "He was found wearing a belt with the initials 'RB' in Humble in 1987. Who was he?",
      "source": "WFAA",
      "link": "https://www.wfaa.com/article/news/local/texas-missing/humble-texas-john-doe-1987/285-a6192784-4a44-4034-a5f4-fbf8ad113489",
      "summary": "The unidentified man was found near Rankin Road in Humble wearing cowboy boots and a belt with the initials \u201cRB.\u201d",
      "ts": 1793880423.0,
      "time": "Nov 5, 6:07 AM CT"
+    },
+    {
+     "title": "Dallas Weather: Fall weather continues into the weekend",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/weather/dallas-weather-fall-weather-continues-weekend",
+     "summary": "A weak cold front will bring cooler temperatures and slight rain chances to North Texas this weekend.",
+     "ts": 1793879892.0,
+     "time": "Nov 5, 5:58 AM CT"
     },
     {
      "title": "When will Alaska's US Senate race be called? Here are the latest numbers",
@@ -194,20 +234,52 @@
      "time": "Nov 5, 5:25 AM CT"
     },
     {
-     "title": "Trial to be rescheduled for North Texas Sheriff reindicted on retaliation, tampering with evidence charges",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/local/johnson-county-sheriff-adam-king-arrested-new-charges-mistrial-new-date/287-39bee93f-a8d3-4afd-af85-13be6072429e",
-     "summary": "The charges are retaliation and tampering with evidence, attorneys say.",
-     "ts": 1793877776.0,
-     "time": "Nov 5, 5:22 AM CT"
+     "title": "Brach's is turning its controversial seasonal candy into a fragrance",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/local/brachs-is-turning-its-controversial-seasonal-candy-into-a-fragrance/4075411/",
+     "summary": "Utah Jazz (1-7, 15th in the Western Conference) vs. Dallas Mavericks (4-4, 11th in the Western Conference); Friday, 7 p.m. CST BOTTOM LINE: The Utah Jazz travel to play the Dall...",
+     "ts": 1793859720.0,
+     "time": "Nov 5, 12:22 AM CT"
     },
     {
-     "title": "International soccer star Cristiano Ronaldo announces retirement from Portugal team",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/cristiano-ronaldo-announces-retirement-international-soccer-portual/507-3de3d1ce-7479-447e-8807-9d8365aa94da",
-     "summary": "",
-     "ts": 1793876760.0,
-     "time": "Nov 5, 5:06 AM CT"
+     "title": "A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/a-magnitude-7-1-earthquake-shakes-part-of-southern-japan-but-no-tsunami-detected/4054918/",
+     "summary": "Utah Jazz (1-7, 15th in the Western Conference) vs. Dallas Mavericks (4-4, 11th in the Western Conference); Friday, 7 p.m. CST BOTTOM LINE: The Utah Jazz travel to play the Dall...",
+     "ts": 1793859720.0,
+     "time": "Nov 5, 12:22 AM CT"
+    },
+    {
+     "title": "Plane carrying pickleball players crashes in Texas Hill Country, killing all 5 on board",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/local/small-plane-crashed-texas-hill-country-killing-all-5-board-county-official-says/4018659/",
+     "summary": "Utah Jazz (1-7, 15th in the Western Conference) vs. Dallas Mavericks (4-4, 11th in the Western Conference); Friday, 7 p.m. CST BOTTOM LINE: The Utah Jazz travel to play the Dall...",
+     "ts": 1793859720.0,
+     "time": "Nov 5, 12:22 AM CT"
+    },
+    {
+     "title": "Wisconsin authorities arrest 25 from clashes at beagle breeding facility",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/wisconsin-authorities-put-total-arrests-from-clashes-at-beagle-breeding-facility-at-about-25/4012378/",
+     "summary": "Utah Jazz (1-7, 15th in the Western Conference) vs. Dallas Mavericks (4-4, 11th in the Western Conference); Friday, 7 p.m. CST BOTTOM LINE: The Utah Jazz travel to play the Dall...",
+     "ts": 1793859720.0,
+     "time": "Nov 5, 12:22 AM CT"
+    },
+    {
+     "title": "Massive gas tanker explosion in Mexico City kills 3 people and injures 70 others",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/massive-gas-tanker-explosion-in-mexico-city-kills-3-people-and-injures-70-others/3917202/",
+     "summary": "Utah Jazz (1-7, 15th in the Western Conference) vs. Dallas Mavericks (4-4, 11th in the Western Conference); Friday, 7 p.m. CST BOTTOM LINE: The Utah Jazz travel to play the Dall...",
+     "ts": 1793859720.0,
+     "time": "Nov 5, 12:22 AM CT"
+    },
+    {
+     "title": "The most popular baby names for 2024 revealed, and two names top the list again",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/the-most-popular-baby-names-for-2024-revealed-and-two-names-top-the-list-again/3837516/",
+     "summary": "Utah Jazz (1-7, 15th in the Western Conference) vs. Dallas Mavericks (4-4, 11th in the Western Conference); Friday, 7 p.m. CST BOTTOM LINE: The Utah Jazz travel to play the Dall...",
+     "ts": 1793859720.0,
+     "time": "Nov 5, 12:22 AM CT"
     },
     {
      "title": "Deep Ellum Halloween shooting victim remembered",
@@ -224,78 +296,6 @@
      "summary": "Fort Worth ISD is discussing how Gina Hinojosa's election as Texas governor will affect the district. Hinojosa has said she plans on ending state takeovers of school districts, ...",
      "ts": 1793851058.0,
      "time": "Nov 4, 9:57 PM CT"
-    },
-    {
-     "title": "'She was my world': Friend remembers Deep Ellum Halloween shooting victim as hunt for suspects continues",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/she-was-my-world-friend-remembers-deep-ellum-halloween-shooting-victim-hunt-suspects-continues",
-     "summary": "As police continue to search for suspects in connection to the three Halloween shootings in Deep Ellum, one victim's friend remembers approaching the scene the night of the dead...",
-     "ts": 1793849150.0,
-     "time": "Nov 4, 9:25 PM CT"
-    },
-    {
-     "title": "Canadian man wore rubber mask while stalking woman in Dallas after prior Florida incidents, feds say",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/canadian-man-indicted-stalking-woman-from-florida-dallas-officials-say",
-     "summary": "Federal authorities say a Canadian man tracked a former co-worker from Florida to Dallas before being arrested on two counts of aggravated stalking.",
-     "ts": 1793846670.0,
-     "time": "Nov 4, 8:44 PM CT"
-    },
-    {
-     "title": "Republicans lost ground in rural Texas, adding to historic wipeout",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XVmY5MEFlellNR1dBZXk2dWM1SzR3enhXT0hjNVpIYnhhU1RvQWhLUWdKUTBNa2ExNGh1WnpwZjZHMUhYT1RCQUgyT3VvVmZJYWJJTlhLcTU5b2J6aXpqX28tUkZvOFAwRXI0X0JGNA?oc=5",
-     "summary": "",
-     "ts": 1793841682.0,
-     "time": "Nov 4, 7:21 PM CT"
-    },
-    {
-     "title": "Police seek Deep Ellum Halloween shooting suspect",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-w7at0dldiua2cho4",
-     "summary": "Dallas Police are asking the public for help in identifying a man seen shooting multiple people on Halloween night in Deep Ellum. FOX 4's Shaun Rabb has more.",
-     "ts": 1793838074.0,
-     "time": "Nov 4, 6:21 PM CT"
-    },
-    {
-     "title": "Surge in voter turnout in urban, border counties carried Texas blue wave",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45MGZkV0dPZWhsVDMyd05fMmN2VXQ2aGNycGZFTFZRUzRjdTRSVTg2NndSQ1l3bVdxRm82M3BWSDI2cllOWnpQelI5M1p4N0ZSdmhibnhXRkstMU5sWEdoT1EzelVadE5BdlJDekNLN2R1MXVRRVZ1bUNR?oc=5",
-     "summary": "",
-     "ts": 1793835553.0,
-     "time": "Nov 4, 5:39 PM CT"
-    },
-    {
-     "title": "Meet the down-ballot Democrats who\u2019ll be running Texas",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVVDRnZ3VUpWZHNrNlh3RTlRcmZVamxjUVBrMDNSa0NYZGg3QkxSV18tU29yXzhiX0hncDZjQjRkMjJCM2F0dEFtYUhTYVM0ZFgzSE4zMFNoQUNIOVNWbXFUUzJBcTA3Y3ZQUWRuRWFIQkdOZmNlUlF4Q3ZOcXJadGpVbVNlV05FM3dGOVRJb3BXWlRUYzRaa1BPSFM?oc=5",
-     "summary": "",
-     "ts": 1793834362.0,
-     "time": "Nov 4, 5:19 PM CT"
-    },
-    {
-     "title": "Under Hinojosa, Texas data center approvals could stay paused",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlZNQjY5Q3VyY0N4eVlCNVpyQ3FoRHdNdlFGZmlhQkFlbVpXdHlvVkZoNWdoaWtER0cwNjRIMm1DeHpSdlR5bWppRFJ1TjdFMm5CcU5VbEpyeHpBXzVNM2NCY3VhZ3RscmZWQ1M1NXZzZ1lWQVFlTVY5U0NEYTJpcjhYYUh5YWJXMTlIeWl2OXlORGotdjk1cVZwY2I?oc=5",
-     "summary": "",
-     "ts": 1793824894.0,
-     "time": "Nov 4, 2:41 PM CT"
-    },
-    {
-     "title": "Brach's is turning its controversial seasonal candy into a fragrance",
-     "source": "NBC DFW",
-     "link": "https://www.nbcdfw.com/news/local/brachs-is-turning-its-controversial-seasonal-candy-into-a-fragrance/4075411/",
-     "summary": "You don\u2019t have to accept the rollercoaster of blood sugar fluctuations. If you\u2019re strategic about what you eat, you can keep your energy levels stable throughout the day . With ...",
-     "ts": 1793812549.0,
-     "time": "Nov 4, 11:15 AM CT"
-    },
-    {
-     "title": "A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected",
-     "source": "NBC DFW",
-     "link": "https://www.nbcdfw.com/news/a-magnitude-7-1-earthquake-shakes-part-of-southern-japan-but-no-tsunami-detected/4054918/",
-     "summary": "You don\u2019t have to accept the rollercoaster of blood sugar fluctuations. If you\u2019re strategic about what you eat, you can keep your energy levels stable throughout the day . With ...",
-     "ts": 1793812549.0,
-     "time": "Nov 4, 11:15 AM CT"
     }
    ]
   },
@@ -311,36 +311,12 @@
      "time": "Nov 5, 5:40 AM CT"
     },
     {
-     "title": "Athlete of the Week: Colleen Robtoy's effort and determination--highlights of the D2 title game",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/sports/athlete-of-the-week-colleen-robtoys-effort-and-determination--highlights-of-the-d2-title/article_0fdfc695-fa3b-417b-a6c4-00c17aad0e7a.html",
-     "summary": "Enosburg sophomore libero, Colleen Robtoy\u2019s performance on the court in the D2 girl\u2019s volleyball title game on Nov. 1 was foundational to the team\u2019s rally from a two set loss to...",
-     "ts": 1793877300.0,
-     "time": "Nov 5, 5:15 AM CT"
-    },
-    {
      "title": "North Country cyclist sent to hospital after collision",
      "source": "WCAX",
      "link": "https://www.wcax.com/2026/11/05/north-country-cyclist-sent-hospital-after-collision/",
      "summary": "The Clinton County sheriff\u2019s department said a car collided with a bicycle Wednesday evening, sending a cyclist to the hospital.",
      "ts": 1793876771.0,
      "time": "Nov 5, 5:06 AM CT"
-    },
-    {
-     "title": "Athlete of the Week: Mia St. Pierre's timely contributions helped fuel Rockets playoff run!",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/sports/athlete-of-the-week-mia-st-pierres-timely-contributions-helped-fuel-rockets-playoff-run/article_f9233115-abd2-4501-bafa-e35193340524.html",
-     "summary": "Richford sophomore Mia St. Pierre played an integral role in the girls\u2019 soccer team\u2019s success in the playoffs, scoring a goal in the semifinal and picking up assists in the semi...",
-     "ts": 1793876400.0,
-     "time": "Nov 5, 5:00 AM CT"
-    },
-    {
-     "title": "Fight off your Election Day hangover with some concerts, shows in VT",
-     "source": "Burlington Free Press",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZnZ6ZXhjeVcxN2o1NVhBZUVzTUtHS2pvZENGMmpOQW5HczNXOFVhOXpxVmRGLWJNb3lNMGY1bS1kZ1RQaU9lWVlWV3U2ZEFtTFVxb096Z056Q2pQdklhbTRUTTJ0b29aVV9pMmNRZnp6djJraDlwUEUtZk5fSEQ3SC1KNWZwTktTNnRlOUIzaTBnN3FBUjJpOVVybFFnc010dkFWaDZvWG1JNzE4Ulo0TUZxUDhNOG1Vak5DTm9DZktLcFQ0ZTZ5ZGlEOXhBY2xQOGlwQ2R4M1hJNkJXYmZObS1RamlMVnozOFlVZmJ1eTE0VG4xWWdDODMwbWo?oc=5",
-     "summary": "",
-     "ts": 1793872500.0,
-     "time": "Nov 5, 3:55 AM CT"
     },
     {
      "title": "Vermont fellowship opens paths to conservation careers",
@@ -367,22 +343,6 @@
      "time": "Nov 5, 2:30 AM CT"
     },
     {
-     "title": "Eight Autumn Outdoor Power Equipment Tips to Avoid Headaches Later",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/green_living/eight-autumn-outdoor-power-equipment-tips-to-avoid-headaches-later/image_39b00773-b74e-5a63-a4f3-2d1770048e0f.html",
-     "summary": "When the weather turns harsh, it\u2019s best to be prepared. Here\u2019s how.",
-     "ts": 1793867400.0,
-     "time": "Nov 5, 2:30 AM CT"
-    },
-    {
-     "title": "Seeing the Benefits of an Eye Exam",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/seeing-the-benefits-of-an-eye-exam/image_05fcc07b-536c-5a3d-9a7f-bbcbdb262d9b.html",
-     "summary": "Be wise, look out for your eyes and get regular vision exams.",
-     "ts": 1793867400.0,
-     "time": "Nov 5, 2:30 AM CT"
-    },
-    {
      "title": "Single Powerball ticket matches all numbers for $847 million jackpot",
      "source": "WCAX",
      "link": "https://www.wcax.com/2026/11/05/single-powerball-ticket-matches-all-numbers-847-million-jackpot/",
@@ -397,6 +357,14 @@
      "summary": "A woman was arrested Wednesday on four felony charges alleging she fraudulently obtained more than $12,000 in SNAP benefits, authorities said.",
      "ts": 1793851171.0,
      "time": "Nov 4, 9:59 PM CT"
+    },
+    {
+     "title": "Stephen Barron",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seU1mU1FtR2NTTTljeGRUZjhSeXNNQ2k3VFJFblZCbUdTUThRNDlSY2FmejFEdzZ6ajAxSVZYT3hfLVBxNU9yQXhzZkhhU0ZsR2xfLVJxN3dOWXh0dFpZQUFfVWc1RWdLSkE?oc=5",
+     "summary": "",
+     "ts": 1793827470.0,
+     "time": "Nov 4, 3:24 PM CT"
     },
     {
      "title": "Lynn Herman Lang",
@@ -445,6 +413,38 @@
      "summary": "",
      "ts": 1793764589.0,
      "time": "Nov 3, 9:56 PM CT"
+    },
+    {
+     "title": "Molly Gray elected as Vermont\u2019s next lieutenant governor, ousting John Rodgers",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUlVcHRZQ1JtM2ZpNW9GSWVLOFpwdWNySENjclVIRWUtdHJHalNSMUM1TllGWTlzNmRBNk9vekN4REJsWlVsLTFiU0FQaUxfZ3p1eVI5V2FabWxLR2piMDhha0VsQUxtcmVOd3FBZzN4MUNwU1h4R1dqaVJjYXl2Wkh4OTZ0SVpiUlpTNnlUanNWUQ?oc=5",
+     "summary": "",
+     "ts": 1793760187.0,
+     "time": "Nov 3, 8:43 PM CT"
+    },
+    {
+     "title": "FD070082 - Wildfire and Smoke Map",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVJlczJOQklPbFBXUWJQLW9ZRjg2dTltM1Y2cHZSX2I0ekYwUzJxaVJYdGR4cmZFOHdFeTVSS2NZMUwwSUhDaURaRTYyMVBhNzZkVlhvZWtJc3Y5TmdQNzN4c0RSVWxzdkJmUk4tdXBoNUdQMllkMzRzYTZQQmF3QmFfSDhGbzU1dEoyNkpZeFZTbEU?oc=5",
+     "summary": "",
+     "ts": 1793751444.0,
+     "time": "Nov 3, 6:17 PM CT"
+    },
+    {
+     "title": "The results from Vermont\u2019s 2026 general election",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUpnTnNLRkF6Wl9GVmE5aFZqT3UwVVZ3eUl2Zl84T2F0b0FGRjR4QUpNNFlnX0ptMjRTa1lmNENXV0t5a1RnUUR5WkRfRDdyUVZDWXc4elNmNFJ0OW0xQkpnM2RHeTFOVW5ZYVUzdmNoSV93UU03aEoxZTJzOHNKQmIteVdVYXlvN0s5OEpyY1Y?oc=5",
+     "summary": "",
+     "ts": 1793738446.0,
+     "time": "Nov 3, 2:40 PM CT"
+    },
+    {
+     "title": "John Killacky, who led the Flynn and served in Legislature, dies at 74",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYWgyR2RBRDRsMF9hY2F6eXJvUmRYLWl1M1Vvdm5LUmFYeXlyb2hZcWpQU29qR0lodTVJYlNUcHo1aWk5NFYyNzZjMlVNQ0ZxWV9WUElBRWE0YWRNODdHRXJwOXFYMzFpSHg0NVc1RkRCYjdqbHExQXBLWGFDWVlESU00a010MXB3clhNSWVvdGYxWHBCVFZJaFRaRzhaREhsWjk0N1ZmOGgzVmdJa2kxNnB4SWc5dzNxTGtaVUxTYnVQZjFDcVpIOGRxdjQ1MWs?oc=5",
+     "summary": "",
+     "ts": 1793728320.0,
+     "time": "Nov 3, 11:52 AM CT"
     }
    ]
   },
@@ -458,6 +458,14 @@
      "summary": "",
      "ts": 1793880462.0,
      "time": "Nov 5, 6:07 AM CT"
+    },
+    {
+     "title": "Man killed in northeast Raleigh was part of attempted robbery, brother facing charges, police say",
+     "source": "WRAL",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmxjb3JMb1JQblRiN2t2eGlyclpIRmptR2VWYjNTaU5aZlp3TnRWRVNVbS1KWG5pUEVxaVBrWmpfeFpZSkJ3Wk8zZURTRXJZXzJKSm4yTXpTMkVlOU5jLS1zYUZnMWtqajQ3bUZTMkczUW91M2RhX2R3YkhFcWs4c1lDa2ZkQi1ZOUh3cFhKaDBER1BVU0xHMnlMNnlteGtUcFdkLVhWWDhlQW1xWUNpY08wcGk4dw?oc=5",
+     "summary": "",
+     "ts": 1793872658.0,
+     "time": "Nov 5, 3:57 AM CT"
     },
     {
      "title": "Bodycam footage released from deadly shooting at Citibank complex",
@@ -474,14 +482,6 @@
      "summary": "",
      "ts": 1793864622.0,
      "time": "Nov 5, 1:43 AM CT"
-    },
-    {
-     "title": "Italy Greenlights New Investigation of Filmmaker\u2019s Murder 51 Years Ago",
-     "source": "The New York Times",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVJyb1g0dHB4UUVmekR2RjNqS3hjX3ozOU5oN0dkU0d0Q1NQU21nTzhDblBjS1VyX0xVNXBYMF9QREJFRlktSmVORnVnRmtFcmoxY0VwZTZQY0R2TGJDaWFNcHNwaDFWeG9WWGVfSU9XSU9KbDRVQkxXR0VFSTNvN1gxUUhkak5M?oc=5",
-     "summary": "",
-     "ts": 1793862738.0,
-     "time": "Nov 5, 1:12 AM CT"
     },
     {
      "title": "Stolen vehicle pursuit from Riverside County ends in shooting near U.S.-Mexico border",
@@ -508,20 +508,20 @@
      "time": "Nov 4, 9:07 PM CT"
     },
     {
+     "title": "HCSO CONDUCTS HOMICIDE INVESTIGATION IN SABAL CENTER",
+     "source": "Hillsborough County Sheriff's Office",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFg2TEF2SWY4eEhyS05nMjd1VVJONWUxYjkwcGtrLUZPQy1KdmdicHhPeXNLLWYzalY4c0VZWV9KakdQYWVYRGtuVXlzNVNmcmVhU0I1bEI5LWoyRVJHemhNWGlCRm5wcnl4YTZ1UnlSY3doX2VBbTQ2ci1iaC1SU2xnOWNrdDlL?oc=5",
+     "summary": "",
+     "ts": 1793847430.0,
+     "time": "Nov 4, 8:57 PM CT"
+    },
+    {
      "title": "1 killed, suspect dead in shooting at Florida business complex: Authorities",
      "source": "6abc Philadelphia",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmpGQllKY1lEQ3pxdnd6dkVBVGFINEs5S2c5VFREYXNVLTZTa3lhMERiNUZ2Z0xqQVg5SU55SGZHQmcxa1FzY2lRc3Y0LTJoOFBrbGdpWkVWNEJYOGQ5ejViZHpaU090MTdQSHg1alk0WEE4aUVQRXNEQloyYTBfc3BfbERyRWp4ZGpGYktITkE0b1c1TjBnd0tQNmhNWTNPRWc?oc=5",
      "summary": "",
      "ts": 1793840570.0,
      "time": "Nov 4, 7:02 PM CT"
-    },
-    {
-     "title": "Florida sheriff says 2 dead, including suspect, as witnesses report shooting at Tampa office complex",
-     "source": "PBS",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRnc1V01aRU1ia3ExVTVJTjcyVDdBSWNrWFY2T2dIMGw1RV9EVnlrZnF0dUNPQ19GQVRydmF5d2dWUUVUS1hDOXhESmg2LUZxdVo4UGxWRDRrd3JsOFhOWXNETnZnZS1pbnpBWXE0dWxwX1NVTmVJZnd5QWtjR0R3MmxLZkxKeHhxMmNxTG1UR2FzdFVvTXZObVN2MDdLSzV4TEt4d3JRU21DcjlsMlh4MjM2QTgzOG1XVnpsMVJZWERJa2VZT242dTN5cU5OMVE?oc=5",
-     "summary": "",
-     "ts": 1793830487.0,
-     "time": "Nov 4, 4:14 PM CT"
     },
     {
      "title": "Republican incumbent state senator from Rutland County arrested last week loses reelection bid",
@@ -564,14 +564,6 @@
      "time": "Nov 4, 11:05 AM CT"
     },
     {
-     "title": "Driver crashes into bridge pillar on Vermont interstate, dies at the scene",
-     "source": "WPTZ",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX05lTG5PRVd3RVFZbEEyMHhKeFhqSzc4QmJKYm5aMXlZZkRSZ3RSM25idVhZUV9JQW44V01OTTdPNHBfRnE2R2I5cTUxNnRrS0xRelNnS3AxU0FtcXY1cS16RFZXblZjN3R3eFA1VVBabE5Celp5MXZSa2p4bkNucA?oc=5",
-     "summary": "",
-     "ts": 1793810040.0,
-     "time": "Nov 4, 10:34 AM CT"
-    },
-    {
      "title": "Vermont State Senator charged with domestic assault loses reelection bid",
      "source": "WRGB",
      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcU51azl2T2VhakV3cldyZFZIU2c1NnJNT1k1TlhWVDQxeVlnR24xeHR6b3JRZHVVd3NJSTVqN2F0Qy1Ibjh1VTVSTTVUS0FEQ1RoLUI5M1NhbnBCSGZXVUZmSHZUYl9ENEY4cko0VWd6OWhiblFOXzhVOEpOSUx3Qy15OXdVMGFleTRYYUF3cDZOUEJubmZEekRoc2dZMC1faDhaRTFrY1BpeUV4TFNQVF9sejhVM3ZGVTBtdG95SVNrUGVhSFRlUmhCN3NBZHJ6aExqWUVDMEJiQ3ZxY0dBNTBDaGVFNDcyU2ZqcXRuLUFXamk2eXdfcDhFMS1NVGxCVVFoSzFDcWYwRzAyYVo5SVFsclJKV09qS0VjeXBDZVhZeHBudE1rMnVJdWRfWV9zcmFBRmxQUW9wSF96OUpiMUlSTm83ckcxYU0xM3JWT2xBa1VIeEd2ZUF1cTQ4Q2Q1Si00Qm13TTQ?oc=5",
@@ -594,6 +586,14 @@
      "summary": "",
      "ts": 1793745436.0,
      "time": "Nov 3, 4:37 PM CT"
+    },
+    {
+     "title": "Two killed in Upper Valley car fire, police say",
+     "source": "WPTZ",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50bFhScmtIcG9YSFcwMGtjTDdKWm8yaXowTmZTekFRSXR2LW9YMUl2d0xyZVFwTXF3Z3hFVG9VR0dZXzZQRHVpX2FFc2ZhNVhZRHZYc202MmhxbGFidXFrb29oR0oydkd1eXpHcTZqWFVOcWFidzVr?oc=5",
+     "summary": "",
+     "ts": 1793733120.0,
+     "time": "Nov 3, 1:12 PM CT"
     }
    ]
   }
