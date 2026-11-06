@@ -1,9 +1,25 @@
 {
- "updated": "Friday, November 6, 2026 5:46 AM CT",
+ "updated": "Friday, November 6, 2026 6:18 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
+    {
+     "title": "Why gold prices are surprisingly low",
+     "source": "NPR",
+     "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
+     "summary": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. Wh...",
+     "ts": 1793966400.0,
+     "time": "Nov 6, 6:00 AM CT"
+    },
+    {
+     "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
+     "summary": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis \u2014 health, workplace, family conflicts \u2014 and \"turn fear into action.\"",
+     "ts": 1793966252.0,
+     "time": "Nov 6, 5:57 AM CT"
+    },
     {
      "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
      "source": "BBC US",
@@ -45,14 +61,6 @@
      "time": "Nov 6, 3:46 AM CT"
     },
     {
-     "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-     "summary": "Pope Leo XIV is kicking off a three-nation tour of Latin America with a visit to Uruguay, three weeks after undergoing lung cancer surgery that had put the entire trip into ques...",
-     "ts": 1793956797.0,
-     "time": "Nov 6, 3:19 AM CT"
-    },
-    {
      "title": "Trump signs order to preserve Oval Office as national monument",
      "source": "BBC US",
      "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
@@ -70,7 +78,7 @@
     },
     {
      "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
-     "source": "NPR",
+     "source": "NPR National",
      "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
      "summary": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocki...",
      "ts": 1793941543.0,
@@ -139,14 +147,6 @@
      "summary": "The BBC's Carl Nasman goes inside a county election commission building as votes are counted in the race between Democrat Scott Colom and Republican Cindy Hyde-Smith.",
      "ts": 1793910698.0,
      "time": "Nov 5, 2:31 PM CT"
-    },
-    {
-     "title": "Boebert, billionaires' tax and other midterms races still to watch",
-     "source": "BBC US",
-     "link": "https://www.bbc.co.uk/news/articles/c6vg0y2nr445o?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "Democrats have taken control of the House and Senate, and are eyeing some more with several key races still too close to call.",
-     "ts": 1793905337.0,
-     "time": "Nov 5, 1:02 PM CT"
     }
    ]
   },
@@ -154,12 +154,60 @@
    "name": "Texas",
    "items": [
     {
+     "title": "Yella Beezy trial: Lead detective continues to lay out evidence in Mo3 murder | Live updates",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/crime/yella-beezy-trial/yella-beezy-trial-live-update-mo3-murder/287-6cab0e67-1cf2-4383-879d-55db117a7a23",
+     "summary": "Day nine of testimony begins as prosecutors seek to prove the Dallas rapper, whose real name is Markies Conway, ordered a hit on a rival in Dallas back in 2020.",
+     "ts": 1793966531.0,
+     "time": "Nov 6, 6:02 AM CT"
+    },
+    {
+     "title": "How Texas law safeguards your vote: testing, security measures and post-election audits explained",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/politics/texas-law-safeguards-vote-testing-security-measures-post-election-audits-explained/287-d3881a61-6e34-4ee7-9cd8-75f9550834bb",
+     "summary": "As Texans head to the polls, state law requires multiple safeguards designed to protect ballots, secure voting equipment and verify election results. How it works.",
+     "ts": 1793966119.0,
+     "time": "Nov 6, 5:55 AM CT"
+    },
+    {
+     "title": "Dallas Weather: Cooler temperatures, slight rain chances this weekend",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/weather/dallas-weather-cooler-temperatures-slight-rain-chances-weekend",
+     "summary": "North Texans will feel a noticeable breeze as cooler temperatures and clouds bring a fall-like feel to the Metroplex.",
+     "ts": 1793965673.0,
+     "time": "Nov 6, 5:47 AM CT"
+    },
+    {
+     "title": "Driver crashes into fire blocker truck on I-30 in Mesquite",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/news/driver-crashes-fire-blocker-truck-i-30-mesquite",
+     "summary": "A driver collided with a Mesquite Fire Department blocker truck early Friday morning.",
+     "ts": 1793965175.0,
+     "time": "Nov 6, 5:39 AM CT"
+    },
+    {
      "title": "North Texas hospitals see surge in respiratory illnesses: Cook Children\u2019s urges caution",
      "source": "WFAA",
      "link": "https://www.wfaa.com/article/news/health/cook-childrens-respiratory-surge-north-texas/287-ca669baf-615a-458a-bc6f-956b3e5c9714",
      "summary": "Cook Children's reports high positivity rates across North Texas facilities\u2014here is how to keep your family safe.",
      "ts": 1793964876.0,
      "time": "Nov 6, 5:34 AM CT"
+    },
+    {
+     "title": "Dallas weather: Nov. 6 morning forecast",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/video/fmc-gmg08syrezlico67",
+     "summary": "FOX 4's Ali Turiano has the morning forecast for Nov. 6",
+     "ts": 1793964504.0,
+     "time": "Nov 6, 5:28 AM CT"
+    },
+    {
+     "title": "Mesquite fire blocker truck hit by vehicle",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/video/fmc-86boruc8gk9foj28",
+     "summary": "I-30 WB at Northwest Dr in Mesquite is shut down after a driver struck a fire blocker truck.",
+     "ts": 1793964122.0,
+     "time": "Nov 6, 5:22 AM CT"
     },
     {
      "title": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million",
@@ -186,22 +234,6 @@
      "time": "Nov 6, 4:21 AM CT"
     },
     {
-     "title": "Federal judge orders 14-day delay on any work beginning on Trump's monumental arch",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/nation-world/federal-judge-14-day-delay-trumps-monumental-arch/507-bf26d6fa-7e99-475d-bc3a-4c7bed29b666",
-     "summary": "A federal judge has blocked the Trump administration from breaking ground on a towering memorial arch for 14 days.",
-     "ts": 1793949101.0,
-     "time": "Nov 6, 1:11 AM CT"
-    },
-    {
-     "title": "Twin brothers among those who joined a grassroots movement to boost young voter turnout in Tarrant County",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/elections/twin-brothers-among-those-who-joined-a-grassroots-movement-to-boost-young-voter-turnout-in-tarrant-county/287-f8cf4768-91e3-428b-adc4-8a18174d8d63",
-     "summary": "\u201cYeah, we are getting out here knocking on doors, got people knocking on doors. We are putting literature on doors,\u201d Sherequan Evans said.",
-     "ts": 1793946387.0,
-     "time": "Nov 6, 12:26 AM CT"
-    },
-    {
      "title": "NFL star Rashee Rice files for bankruptcy",
      "source": "Fox 4",
      "link": "https://www.fox4news.com/video/fmc-j8jo3ujnartit7y0",
@@ -216,46 +248,6 @@
      "summary": "Keller and Westlake have settled a debate over a proposed data center on the border of the two cities.",
      "ts": 1793935144.0,
      "time": "Nov 5, 9:19 PM CT"
-    },
-    {
-     "title": "New Tarrant County Judge promises 'transparency'",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-il1ljl4xackjc8r0",
-     "summary": "Alisa Simmons is the first Democrat to be elected Tarrant County Judge in more than 40 years. She sat down with FOX 4's Peyton Yager to talk about what she wants to accomplish w...",
-     "ts": 1793934890.0,
-     "time": "Nov 5, 9:14 PM CT"
-    },
-    {
-     "title": "Deep Ellum shooting victim drover herself to hospital",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-rjf6qd1u59vocau9",
-     "summary": "One of the victims from the Halloween shootings in Deep Ellum says she drove herself to the hospital instead of waiting for paramedics. FOX 4's David Sentendrey has more on her ...",
-     "ts": 1793934667.0,
-     "time": "Nov 5, 9:11 PM CT"
-    },
-    {
-     "title": "Kansas City Chiefs WR Rashee Rice files for bankruptcy facing $3M in debt",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/sports/kansas-city-chiefs-wr-rashee-rice-files-bankruptcy-facing-3m-debt",
-     "summary": "Kansas City Chiefs wide receiver Rashee Rice has filed for bankruptcy as he deals with the financial fallout from a 2024 crash in Dallas.",
-     "ts": 1793931936.0,
-     "time": "Nov 5, 8:25 PM CT"
-    },
-    {
-     "title": "New Tarrant County Judge promises 'transparency' after defeating Republican incumbent",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/new-tarrant-county-judge-promises-transparency-after-defeating-republican-incumbent",
-     "summary": "The new Tarrant County Judge wants to lower the temperature of the Tarrant County Commissioners Court after recent meetings have involved clashes with citizens over a number of ...",
-     "ts": 1793931545.0,
-     "time": "Nov 5, 8:19 PM CT"
-    },
-    {
-     "title": "Suspect arrested, accused of wounding 7 in Deep Ellum shooting, Dallas officials say",
-     "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HakRqNmlZdGt3M3EwRlNPVmI0clhDN2Jtd2x2MDU5OGlOLWtlRENRUWZIMkJTSXlwRFNKa0xGcFUwcG1RSURJcFBfS2M3dzdpMk91ODJLa0c1NXBGNW5oUEprU3dnOEFfa2w0dzV4UHJUQ01UMFFV0gF3QVVfeXFMTnVzQ3dnZ1lWc3BnZUlJTnVFWFNXM1ZQQm5YVUVYZTNVTWk4dUc3aDFLR1Q0TlNYT3JBSG45Um9hYUx1bzBmOVZHN2R2RGJvcnQxRlZzVHN3aEdvOGVpZGJiUVVOTHhSaE5pS3BtNkRCNkZWWmFEekU?oc=5",
-     "summary": "",
-     "ts": 1793913496.0,
-     "time": "Nov 5, 3:18 PM CT"
     },
     {
      "title": "Gov.-elect Gina Hinojosa pledges bipartisan administration in first public appearance since win",
@@ -274,34 +266,50 @@
      "time": "Nov 5, 10:19 AM CT"
     },
     {
-     "title": "Fort Worth is poised to lose its premier PGA Tour event at Colonial Country Club",
-     "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHFTMkFTOWE4NkVDeGgxbGFBX3Q4eThFai1BRHBZZ1JuYmVJMWJzMTRvS0QtajR4UUtnMVBFSzFXMV9MUnpHNzFIdUlyaENEc3lqMGZ3S1FjaWU2LXlZTmVXNGptMjhBLVA1b0dCRE02U3MxUDctel9XeGJ1eFVpT0NxdndmTlVRSE9OdldwTQ?oc=5",
-     "summary": "",
-     "ts": 1793894100.0,
-     "time": "Nov 5, 9:55 AM CT"
-    },
-    {
-     "title": "Woman stabbed in head in family violence incident, Fort Worth police say",
-     "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Rbzdra2NwN2xpNjJLNDgwU0dvWW5ISVkzTG5hRjdUcUMwSXRWVFZsajE5R1VldjhQejZ4d3ZrQzIydUJzem44YUt6RUJ4MWxhME5WQnpVcHFld0txcERSUUw1XzVIdkJ1TWs2b2hrTE9VeU13RG9n0gF3QVVfeXFMT1J0VVhxV3p0V3hXZmFsY0FqVDF5c29hNEhNOUlzenhNak1QNmNtRGVZMkdJY3cyb1ZHT09jbjR1a21ZU284c2VxRkJhWkZYUjNoQmpKa1duZlg0TGJ5aWFpMGFmZ0FuUlBVNUpGeG91WXRfQktKc2M?oc=5",
-     "summary": "",
-     "ts": 1793887156.0,
-     "time": "Nov 5, 7:59 AM CT"
-    },
-    {
      "title": "Brach's is turning its controversial seasonal candy into a fragrance",
      "source": "NBC DFW",
      "link": "https://www.nbcdfw.com/news/local/brachs-is-turning-its-controversial-seasonal-candy-into-a-fragrance/4075411/",
      "summary": "New York appeals judges grilled President Donald Trump\u2019s lawyers and prosecutors Thursday about his bid to erase his historic hush money conviction, but the court didn\u2019t signal ...",
-     "ts": 1793872778.0,
-     "time": "Nov 5, 3:59 AM CT"
+     "ts": 1793894378.0,
+     "time": "Nov 5, 9:59 AM CT"
+    },
+    {
+     "title": "A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/a-magnitude-7-1-earthquake-shakes-part-of-southern-japan-but-no-tsunami-detected/4054918/",
+     "summary": "New York appeals judges grilled President Donald Trump\u2019s lawyers and prosecutors Thursday about his bid to erase his historic hush money conviction, but the court didn\u2019t signal ...",
+     "ts": 1793894378.0,
+     "time": "Nov 5, 9:59 AM CT"
+    },
+    {
+     "title": "Plane carrying pickleball players crashes in Texas Hill Country, killing all 5 on board",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/local/small-plane-crashed-texas-hill-country-killing-all-5-board-county-official-says/4018659/",
+     "summary": "New York appeals judges grilled President Donald Trump\u2019s lawyers and prosecutors Thursday about his bid to erase his historic hush money conviction, but the court didn\u2019t signal ...",
+     "ts": 1793894378.0,
+     "time": "Nov 5, 9:59 AM CT"
+    },
+    {
+     "title": "Wisconsin authorities arrest 25 from clashes at beagle breeding facility",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/wisconsin-authorities-put-total-arrests-from-clashes-at-beagle-breeding-facility-at-about-25/4012378/",
+     "summary": "New York appeals judges grilled President Donald Trump\u2019s lawyers and prosecutors Thursday about his bid to erase his historic hush money conviction, but the court didn\u2019t signal ...",
+     "ts": 1793894378.0,
+     "time": "Nov 5, 9:59 AM CT"
     }
    ]
   },
   {
    "name": "Vermont",
    "items": [
+    {
+     "title": "13 events to check out this weekend, Nov. 6-8, in Franklin County",
+     "source": "St. Albans Messenger",
+     "link": "https://www.samessenger.com/things_to_do/13-events-to-check-out-this-weekend-nov-6-8-in-franklin-county/article_6713d636-2de1-4d79-ac7e-3fded8c687bd.html",
+     "summary": "SUBMIT YOUR EVENTSAdd your events to this calendar by sharing the details with news@samessenger.com.",
+     "ts": 1793962800.0,
+     "time": "Nov 6, 5:00 AM CT"
+    },
     {
      "title": "Middle school principal arrested for suspected child sex crimes",
      "source": "WCAX",
@@ -317,6 +325,30 @@
      "summary": "One more mild day before much cooler weather arrives!",
      "ts": 1793957093.0,
      "time": "Nov 6, 3:24 AM CT"
+    },
+    {
+     "title": "Millions Of Americans Have Prediabetes; What Older Adults Need To Know",
+     "source": "St. Albans Messenger",
+     "link": "https://www.samessenger.com/online_features/health_and_wellness/millions-of-americans-have-prediabetes-what-older-adults-need-to-know/image_f3320858-454f-54c7-978a-63be8ed6dc8e.html",
+     "summary": "Early screening for diabetes and learning to prevent and manage the condition can help you have a healthier life.",
+     "ts": 1793953800.0,
+     "time": "Nov 6, 2:30 AM CT"
+    },
+    {
+     "title": "Family Yard Fall To-Dos",
+     "source": "St. Albans Messenger",
+     "link": "https://www.samessenger.com/online_features/community_cares/family-yard-fall-to-dos/article_4472802a-5830-55a7-8a12-ebad96c13ace.html",
+     "summary": "(NAPSI)\u2014Fall\u2019s a paw-some time to enjoy your family yard\u00ad\u2014and prep it for a lush spring, say the experts at The TurfMutt Foundation, which advocates for outdoor living and the c...",
+     "ts": 1793953800.0,
+     "time": "Nov 6, 2:30 AM CT"
+    },
+    {
+     "title": "Seeing the Benefits of an Eye Exam",
+     "source": "St. Albans Messenger",
+     "link": "https://www.samessenger.com/online_features/health_and_wellness/seeing-the-benefits-of-an-eye-exam/image_05fcc07b-536c-5a3d-9a7f-bbcbdb262d9b.html",
+     "summary": "Be wise, look out for your eyes and get regular vision exams.",
+     "ts": 1793953800.0,
+     "time": "Nov 6, 2:30 AM CT"
     },
     {
      "title": "Death row inmate asks for a stay of execution until after holidays",
@@ -413,38 +445,6 @@
      "summary": "",
      "ts": 1793830197.0,
      "time": "Nov 4, 4:09 PM CT"
-    },
-    {
-     "title": "Stephen Barron",
-     "source": "Burlington Free Press",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9seU1mU1FtR2NTTTljeGRUZjhSeXNNQ2k3VFJFblZCbUdTUThRNDlSY2FmejFEdzZ6ajAxSVZYT3hfLVBxNU9yQXhzZkhhU0ZsR2xfLVJxN3dOWXh0dFpZQUFfVWc1RWdLSkE?oc=5",
-     "summary": "",
-     "ts": 1793827470.0,
-     "time": "Nov 4, 3:24 PM CT"
-    },
-    {
-     "title": "William M Roberts",
-     "source": "Burlington Free Press",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvamNvaXBXa0FJMjhQaVRxRGMwUno2OHdJWHM0czg5VW02ZmNfN252ejVUMDFXZDNRQVhVMEdrTnVydjdmZnJqTDNrX2FMZDFfajZxczhZdXZvT2FjQzlVZ3Z6ckJaTnk1Vnc?oc=5",
-     "summary": "",
-     "ts": 1793822290.0,
-     "time": "Nov 4, 1:58 PM CT"
-    },
-    {
-     "title": "Vermont Conversation: \u2018An incredible repudiation of Trump.\u2019 Sen. Peter Welch on the 2026 Democratic tsunami.",
-     "source": "VTDigger",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVG8waUhWUEh4bXF3eWxzNTVrZFlRV21LYmRYM0pKRW4wMlVueFpXYXg1a1c0TDRrdVN2R3lmQnRraThYbWhZSXp5Rmd4clI2dkF3WWtKeGEyc0FxUFkybjBnbHZsbVNPUHdicHV4UUVwYUJUUXpnREVWQjJWeXFuZlVCa3RhVVI1Zzdjdl93X3A4ZFZsSUFYaDhCc0R4U2w5Y19MWVE0Y29UeVdiZ1Q3T2k1R3Z1QXJ3MmxCVTVlYlZhTTdXeXVGUFc1NnQtUGIz?oc=5",
-     "summary": "",
-     "ts": 1793816769.0,
-     "time": "Nov 4, 12:26 PM CT"
-    },
-    {
-     "title": "Vermont Democrats regain supermajorities in Statehouse amid nationwide \u2018blue wave\u2019",
-     "source": "VTDigger",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSjBPLXRnMGlnQnQwbkF0U0FaZU05SVlWMElxVGl5WVhRMmxyUVNFMnlIZlJocFU5aHBUajREdUZLcmJsOVhCYjFSdEZ6d0xJclRWR0RURGtBUXRZQmttRkpjbEpIWHVSSXQ1U2o5eGVYMEJyYTU1YXQzTXlOV3VNWWQtTWF2UlVWUEhSXzVmS24xdzgzUGFONjlvMkFIbGlBaWg3Nm5rbw?oc=5",
-     "summary": "",
-     "ts": 1793814910.0,
-     "time": "Nov 4, 11:55 AM CT"
     }
    ]
   },
@@ -458,6 +458,14 @@
      "summary": "",
      "ts": 1793963699.0,
      "time": "Nov 6, 5:14 AM CT"
+    },
+    {
+     "title": "Lakewood agent killed, 3 others injured & suspect dead in shooting on RTD bus",
+     "source": "Denver7",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTRkV1BFY2VLNXY1T2FqbnB0QU9RYS1ybkFyOGt0MHpZVnd6QUdyRFlIOS1VQ1RYTTljVm1xLXVSMEE0aUlGZmdwWWstcFlhZEZmM0hUTGRrWTJMOGEtYXBCZm1ZUmFQb1QwNGF0NUdCUTMtaTluM3lzVVlXdDdOUm5iMnBpRUZNejhjRTJHdjZjSkV6a3BEY2I0dDd3TnN0TGRscFo2NG1sQVk?oc=5",
+     "summary": "",
+     "ts": 1793962294.0,
+     "time": "Nov 6, 4:51 AM CT"
     },
     {
      "title": "2 arrested after Meijer theft leads to police chase, crash in Monroe County",
@@ -484,22 +492,6 @@
      "time": "Nov 6, 2:20 AM CT"
     },
     {
-     "title": "Officer killed, three others injured and suspect dead in shooting Thursday",
-     "source": "Denver7",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTRkV1BFY2VLNXY1T2FqbnB0QU9RYS1ybkFyOGt0MHpZVnd6QUdyRFlIOS1VQ1RYTTljVm1xLXVSMEE0aUlGZmdwWWstcFlhZEZmM0hUTGRrWTJMOGEtYXBCZm1ZUmFQb1QwNGF0NUdCUTMtaTluM3lzVVlXdDdOUm5iMnBpRUZNejhjRTJHdjZjSkV6a3BEY2I0dDd3TnN0TGRscFo2NG1sQVk?oc=5",
-     "summary": "",
-     "ts": 1793941283.0,
-     "time": "Nov 5, 11:01 PM CT"
-    },
-    {
-     "title": "West Des Moines woman charged after Des Moines post office shooting",
-     "source": "KCCI",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZG4yZHZtZTUtaHY2WExqNkFjUlFtclVlZXIxcXFTUmp4Qzh2ZVkxUnUxVndTTC1vRkh6V09ad3cwWV9VSWpucTlFZVZMZGJ3SWJHV3dmb0I4RzJfZ3BzN1BKWjZiMEJmOUZaeUg4WGRLY3F3VWNka29TRUJXUE9qZ2VlUzJfWFp0V3NseWRtUm1uUmNiUzRWTUZCTlZvXzMxaTB0UHVEOUxzZWJMY204Zi1Iem0?oc=5",
-     "summary": "",
-     "ts": 1793938860.0,
-     "time": "Nov 5, 10:21 PM CT"
-    },
-    {
      "title": "Fort Worth ISD to move elementary students over building safety concerns",
      "source": "CBS News",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXRLeU1rWlFETnJ1c1RLYzRxVTFueUZseU1JZGJrdklRRG5FT1g5dHVyczU1eWpqb2dIYUkxT2RvdGgtN3BFZlpROTJnTl9id2NfWGxuS2ttMlhRVGhIOTBucGJHUURJOVloN1lpWlVGZkJ4b3EtR1FJX3g1UXJUUE1Rb1djaUl4V1JzSml5b2ZtNmpwdkRaRnRHUzYyVUlUOGZXSFl1OWFvaTZyNlE?oc=5",
@@ -514,6 +506,22 @@
      "summary": "",
      "ts": 1793925264.0,
      "time": "Nov 5, 6:34 PM CT"
+    },
+    {
+     "title": "Dallas shooting and crash near DART Ledbetter Station leaves 1 dead, 1 hospitalized",
+     "source": "FOX 4 News Dallas-Fort Worth",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlo5UlMybVRITjVlSDRKUFpRVmlDbDVzc2pBaWRBQWpNRGR3bzBGTk0yeHJkTDdOYXRPNjFNQnpLTmQtMVYzLXhlZW1TUWQ4UFhOTU95RVBJcF9Nd2twWHpLS2NuY0hmUXZYUzIxbV9sSHBNQnlxUlZUdXN2UGZmRFhHeDVIYkJjNHRFQXhsNTVYTlQ3cDJnNEJkM0hONnptOU9ST0l0LWZpdThF?oc=5",
+     "summary": "",
+     "ts": 1793922432.0,
+     "time": "Nov 5, 5:47 PM CT"
+    },
+    {
+     "title": "New Vt. state police commander sworn in \u2013 ABC22 & FOX44",
+     "source": "MyChamplainValley.com",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnhfU3hTZHBOcGZhVTBpRkd1UGI1dE5tUDA5RHZweUxwSlFoX0tuN2FjRWhGX1lxdzZtY0dIeGktLWJKeTNaLTVKcDh1NFVmYl9oWEc0SGt3QUVseHhNT0FzSFc5Z0RhV25uZmFPX2NQRXBFUFREcmtRUEx3ZnQycU1VYkwxUzBlTzEzbS1DNEhFZw?oc=5",
+     "summary": "",
+     "ts": 1793921234.0,
+     "time": "Nov 5, 5:27 PM CT"
     },
     {
      "title": "Police called to North Bennington polls for intimidation concerns",
@@ -540,12 +548,12 @@
      "time": "Nov 5, 3:20 PM CT"
     },
     {
-     "title": "Three arrested after alleged Newport, Vt. park robbery",
-     "source": "MyChamplainValley.com",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtydUJEV0FYb2hlcXc3YUpwdVA5SW5pb1hQend1VEtPZXdScFBpLXBCOXg1UUJrR1ZkNHNzYjdYa2phTVloOUNUTnhlMlFVaUVpT0d1RFJadV96QWQxNHhySlBYTnBLM1VkUzhVWEo5R192N2gtWmpkcHljaVlDNDB6Vjhzc2ZUcDd0ajdub1pSdG40Mk1MOGhDWVIwME5CTk9VTndiN1B5TVhVQ3fSAbMBQVVfeXFMTWFNdGdOLXBOa2p6aFVKTF9IOEx2MG01QlV5OXFNNGRCTkxBNGc1R2kzSWlFcG42bzRxc2lDbHBsY3JvaEFDZzBYUHZZT0JmNHJBMnZCbGpzdDNycnRiRDh2blpTSDdKTnJxaXg1RWowSGlycTVZTEJxZUg3YW10dzdWX3dCZU5Xb3hMYmVseTJyM3BHTms0cXh2bkM1Ui1SOGt3RlNJQ2FSb19oWnRmeWwtWGM?oc=5",
+     "title": "3 people injured in Iowa post office shooting",
+     "source": "PBS",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjlGc0dQUEZuZUZaYWdTampKMnNGUUVGdGV6elBoVUFJZFZZdnRBa2VSdlc2WDVjN0toN3NJdTRkS3dzQ1RHZ1JLdzB5MHVNUUpKMWRGWHlqWDNFdl9PMTRmYWVaVFRrQjNfek5hb254YVdWNjJ3V0JJUV9Pb1dDV2lnajlMTmgw?oc=5",
      "summary": "",
-     "ts": 1793911332.0,
-     "time": "Nov 5, 2:42 PM CT"
+     "ts": 1793903115.0,
+     "time": "Nov 5, 12:25 PM CT"
     },
     {
      "title": "32-year-old man injured in shooting at Fort Worth apartments, police say",
@@ -586,14 +594,6 @@
      "summary": "",
      "ts": 1793802158.0,
      "time": "Nov 4, 8:22 AM CT"
-    },
-    {
-     "title": "Man critically injured in shooting under I-35W in Fort Worth",
-     "source": "FOX 4 News Dallas-Fort Worth",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeG10aDZGSDlNajhfLVpJR0lVOUQwTlZtUnFObE5LM0pvTVAtYnRzVWlXMmlXczNBR1ozUHVxckM1SnVaSmVKM2RFbmF4T0VMSV9hUm9hdnlGNUVPcEFSTmh2cXR4c3IzeC1hUUhXeXVubjRKTTNta3dTdFJ3U01DbHY0N0tpR3RsS2pGcA?oc=5",
-     "summary": "",
-     "ts": 1793794282.0,
-     "time": "Nov 4, 6:11 AM CT"
     }
    ]
   }
