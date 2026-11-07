@@ -1,64 +1,136 @@
 {
- "updated": "Friday, November 6, 2026 6:47 AM CT",
+ "updated": "Saturday, November 7, 2026 5:30 AM CT",
  "sections": [
   {
    "name": "Top US News",
    "items": [
     {
-     "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+     "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
      "source": "NPR",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-     "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a da...",
-     "ts": 1793967892.0,
-     "time": "Nov 6, 6:24 AM CT"
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+     "summary": "Thousands across the U.S. have gotten involved to oppose data centers. One is a Maryland woman who'd been evicted after a pay cut and became a leader of a community effort that ...",
+     "ts": 1794045600.0,
+     "time": "Nov 7, 4:00 AM CT"
     },
     {
-     "title": "Why gold prices are surprisingly low",
-     "source": "NPR",
-     "link": "https://www.npr.org/sections/planet-money/2026/11/06/nx-s1-6030995/why-gold-prices-are-surprisingly-low",
-     "summary": "Gold tends to go up when there's uncertainty in the economy. For a while, the price reflected that. But this week, it dropped from a nearly $5,600 in January to below $4,000. Wh...",
-     "ts": 1793966400.0,
-     "time": "Nov 6, 6:00 AM CT"
-    },
-    {
-     "title": "Past White House adviser Raj Panjabi has written a playbook for 'living room' crises",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6021013/white-house-adviser-raj-panjabi-safer-playbook",
-     "summary": "Dr. Raj Panjabi is the author of Safer: A Playbook. His goal is to help people face a personal crisis \u2014 health, workplace, family conflicts \u2014 and \"turn fear into action.\"",
-     "ts": 1793966252.0,
-     "time": "Nov 6, 5:57 AM CT"
-    },
-    {
-     "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+     "title": "Texas mayor instructs police to limit co-operation with ICE",
      "source": "BBC US",
-     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
-     "ts": 1793964010.0,
-     "time": "Nov 6, 5:20 AM CT"
+     "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+     "ts": 1794039355.0,
+     "time": "Nov 7, 2:15 AM CT"
     },
     {
-     "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
+     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+     "ts": 1794036464.0,
+     "time": "Nov 7, 1:27 AM CT"
+    },
+    {
+     "title": "Ousted Paraguayan president placed under house arrest after bank collapse",
+     "source": "AP News",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
+     "summary": "",
+     "ts": 1794017640.0,
+     "time": "Nov 6, 8:14 PM CT"
+    },
+    {
+     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+     "ts": 1794007455.0,
+     "time": "Nov 6, 5:24 PM CT"
+    },
+    {
+     "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "Lawyers for both campaigns in Mississippi's US Senate race are preparing for a possible legal battle as the close count continues.",
+     "ts": 1794003771.0,
+     "time": "Nov 6, 4:22 PM CT"
+    },
+    {
+     "title": "Why it\u2019s still too early to call the US Senate race in Mississippi",
+     "source": "AP News",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT3o5UDVSZWVrQmI3Wk9zZS14MlJ2QnFYWkNHem1HdHlvVG5YX3JybWd3MVZRd19uclM2ZENiZ09yd3ZoNlZDcmFQam5rVm1xSGhkM1pwNUdYVExwOE1tNVI5ZTFDcGhJVmY1eG8xdW9nN19UZHRaUk9OaHF5WVdwOWozR2dsem9wa0dqSHhDVE5vckNWRUdXMEE3eUZYSG92Z2hZVC1CTmo5Q0hpUWEtblFCanY?oc=5",
+     "summary": "",
+     "ts": 1794003282.0,
+     "time": "Nov 6, 4:14 PM CT"
+    },
+    {
+     "title": "The economy propelled Democrats to victory. What can they actually do about it?",
      "source": "NPR",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
-     "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the cris...",
-     "ts": 1793959200.0,
-     "time": "Nov 6, 4:00 AM CT"
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+     "summary": "The party's success was fueled by frustrations over the cost of living. But in divided government, they'll face opposition from Republicans in Congress and a president vowing to...",
+     "ts": 1794001990.0,
+     "time": "Nov 6, 3:53 PM CT"
+    },
+    {
+     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+     "summary": "Israel's center-right opposition has a chance to unseat Netanyahu \u2014 but backing of Arab-led parties will be key.",
+     "ts": 1793997771.0,
+     "time": "Nov 6, 2:42 PM CT"
+    },
+    {
+     "title": "The incoming class of U.S. senators is full of historic firsts",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+     "summary": "From the first Native American woman elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic c...",
+     "ts": 1793996473.0,
+     "time": "Nov 6, 2:21 PM CT"
+    },
+    {
+     "title": "Trump names Stephen Miller as new White House chief of staff",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
+     "ts": 1793995905.0,
+     "time": "Nov 6, 2:11 PM CT"
+    },
+    {
+     "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+     "summary": "The Trump Administration has ushered in a fundamental shift in the U.S. approach to global health aid. How will the newly elected Democratic Congress weigh in?",
+     "ts": 1793995798.0,
+     "time": "Nov 6, 2:09 PM CT"
+    },
+    {
+     "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+     "source": "NPR",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+     "summary": "The razor-thin margin between GOP Sen. Cindy Hyde-Smith and Democrat Scott Colom is shining a light on an election process in Mississippi that is among the slowest and most dece...",
+     "ts": 1793994614.0,
+     "time": "Nov 6, 1:50 PM CT"
+    },
+    {
+     "title": "These are the federal charges Thomas Markle faces",
+     "source": "BBC US",
+     "link": "https://www.bbc.co.uk/news/videos/crje5515kv0xo?at_medium=RSS&amp;at_campaign=rss",
+     "summary": "The BBC's Ione Wells explains the charges facing the estranged father of Meghan, Duchess of Sussex.",
+     "ts": 1793988832.0,
+     "time": "Nov 6, 12:13 PM CT"
     },
     {
      "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
-     "source": "NPR",
+     "source": "NPR National",
      "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
      "summary": "Plus: Heidi Klum's hand, hackers and the pope's visitor!",
      "ts": 1793959200.0,
      "time": "Nov 6, 4:00 AM CT"
     },
     {
-     "title": "Morning news brief",
-     "source": "NPR",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief",
-     "summary": "The Labor Department to release October jobs report Friday, what tactics are available to the Democratic Party to bring down fuel prices, judge blocks construction of Trump's ar...",
-     "ts": 1793958457.0,
-     "time": "Nov 6, 3:47 AM CT"
+     "title": "Why public schools nationwide are facing a massive drop in student enrollment",
+     "source": "NPR National",
+     "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
+     "summary": "School enrollment was already expected to plunge by 2 million kids by 2030. Education experts say deporting immigrant families, many with school-age children, is making the cris...",
+     "ts": 1793959200.0,
+     "time": "Nov 6, 4:00 AM CT"
     },
     {
      "title": "Former Army medic reflects on his toughest moments helping the wounded",
@@ -69,84 +141,12 @@
      "time": "Nov 6, 3:46 AM CT"
     },
     {
-     "title": "Trump signs order to preserve Oval Office as national monument",
-     "source": "BBC US",
-     "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
-     "ts": 1793956797.0,
-     "time": "Nov 6, 3:19 AM CT"
-    },
-    {
-     "title": "Paraguay President Pe\u00f1a under investigation, faces removal from office over bank collapse",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam96dk1BWFZKQ0pzUHlCZ2FpdEkzUWRqbks0di1NdW9jSE16M1F2c3lwMkphbkEzT0JZNzYxTzdnTkxMcjF4b3U1T25ESkNjQXpmU0ItLVhfanZiaUVsWkpNcUl2ZUNoa3MxRFlHRGRNam9rRzVVblF5bjV5UTAtYW9NVldrSG1QcWwyOXJ1eG1KcFlpbFRjbmtOVGNSSFU0aGxpM1lrd0N1YVhGZWUyNmxXdFRXZVh5dnFVMTBVbERkNldBSWpN?oc=5",
-     "summary": "",
-     "ts": 1793942160.0,
-     "time": "Nov 5, 11:16 PM CT"
-    },
-    {
-     "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+     "title": "A judge blocked construction of Trump's arch at the 11th hour. What's next?",
      "source": "NPR National",
      "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
-     "summary": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocki...",
+     "summary": "The Trump administration had hoped to begin construction immediately after a federal panel approved its arch late Thursday. Overnight, the judge issued an order blocking work fo...",
      "ts": 1793941543.0,
      "time": "Nov 5, 11:05 PM CT"
-    },
-    {
-     "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-     "source": "BBC US",
-     "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run.",
-     "ts": 1793930937.0,
-     "time": "Nov 5, 8:08 PM CT"
-    },
-    {
-     "title": "California Gov. Newsom says he will commute all death sentences in state to life without parole",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXM0d1k2ajhHSTBsWmVGM1daSlByM2dqRmttVU9uZjZJVF9fSm1wRTh5TmRFeEhDdlVDREdVcWlpMmIyWElvUm03Tnc5UkZIV2xlUGh0YmEzTTFmb1Etal8xQzB4OW43empXWVJXQVNTRnJkejN0VFc4MGFKRUN5YXdxdlFjbVg4cFFSaHg0T3NMTy1NclB5NUVpR1QwYlJSYlllLWluZmM?oc=5",
-     "summary": "",
-     "ts": 1793926020.0,
-     "time": "Nov 5, 6:47 PM CT"
-    },
-    {
-     "title": "These are the races in the House and Senate that haven't been called yet",
-     "source": "NPR National",
-     "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
-     "summary": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to...",
-     "ts": 1793923425.0,
-     "time": "Nov 5, 6:03 PM CT"
-    },
-    {
-     "title": "Citibank office shooter targeted company over a $2,500 debt collection, Florida sheriff says",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd01QVUtvYmZ4ZW5qVmdoVldoMTBTSmxqdXBpTmg2QVBfWTVTcGY0WURIN2UxSUtuTmN3cF9XWmpvU3BHNnhEV2hBRWRPeTY3ajBvNnVBMXRzZEVNVUQza3VQd0NLalVUQ1hRcmpfelY5VS1zdVhjNVdQYVd1bUhxYkZjaDZsaG5pTGtLYjRqVlByQW9YNkhpSjV2ZElweXdn?oc=5",
-     "summary": "",
-     "ts": 1793923080.0,
-     "time": "Nov 5, 5:58 PM CT"
-    },
-    {
-     "title": "Democratic socialist Nithya Raman ousts embattled Los Angeles Mayor Karen Bass",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjhIMWFLekdpYW92dVlfVkVsU0RuMUVLVURERkh2eVhqdDBPSEowZVN4VTNfeGJzNjFZenNTQTdPY09veHJILVYybk9fRFlPMmZrbk9YVWF0RGM0YkxBVnAycHFPMFZMc3JHaU5ReGhQNU9MNTlkWXN1OG44V3FJRllKdVZBeEhEMmFVdWwyZDVVQ1pa?oc=5",
-     "summary": "",
-     "ts": 1793919300.0,
-     "time": "Nov 5, 4:55 PM CT"
-    },
-    {
-     "title": "Canada's federal budget includes billions for sovereignty and tackling homelessness",
-     "source": "BBC US",
-     "link": "https://www.bbc.co.uk/news/articles/cwdr87r8pjlvo?at_medium=RSS&amp;at_campaign=rss",
-     "summary": "Prime Minister Mark Carney plans to use an oil revenue windfall to bolster Canada's economic and cultural sovereignty and address cost of living concerns.",
-     "ts": 1793918433.0,
-     "time": "Nov 5, 4:40 PM CT"
-    },
-    {
-     "title": "How major US stock indexes fared Thursday 11/5/2026",
-     "source": "AP News",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDJyTXgyUTZxLWRJMHhxR2tZZGJYRnBENTNsODBUSjZCNG9KWWNwUTU0Y0pvVFJMaE5QLVhpRVhsd012akNzWERXMlN0VEFYMzJWQTZpRWZnSWdoWmV4ZkZwb2NFNDJHR3VVUjVUbVdGeVJocEFHVUZvVmg3M2RKVmh1bmtscWtWYUlEdHJtN1R6eGM?oc=5",
-     "summary": "",
-     "ts": 1793913720.0,
-     "time": "Nov 5, 3:22 PM CT"
     }
    ]
   },
@@ -154,148 +154,148 @@
    "name": "Texas",
    "items": [
     {
-     "title": "'Drummer Boy' cast, creators preview American Revolutionary War musical film",
+     "title": "Did anyone win the Mega Millions $505M jackpot? Winning numbers for Friday, Nov. 6",
      "source": "WFAA",
-     "link": "https://www.wfaa.com/article/entertainment/in-the-spotlight/drummer-boy-cast-creators-interview-american-revolutionary-war-musical-film-angel-studios/507-4e7e7ef8-af37-44c0-9e97-17290aff6b46",
-     "summary": "The cast and creators of \"Drummer Boy\" preview the musical film set during the Revolutionary War. The movie opens in theaters Friday, Nov. 6.",
-     "ts": 1793968545.0,
-     "time": "Nov 6, 6:35 AM CT"
-    },
-    {
-     "title": "Fake Super Bowl rings from China intercepted at Houston airport",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/crime/fake-super-bowl-rings-houston-airport/285-567c8075-84e7-40d5-ae49-0d1e7207a8ee",
-     "summary": "Officers seized 75 fake Chiefs Super Bowl rings at Houston\u2019s Bush airport in a shipment from China labeled as metal hairpins.",
-     "ts": 1793968401.0,
-     "time": "Nov 6, 6:33 AM CT"
-    },
-    {
-     "title": "Texas could more than triple alligator hunting season under new proposal",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/local/texas/texas-alligator-hunting-season-extension-2026/285-91935010-1a9d-492b-bf00-741e458cc8e1",
-     "summary": "",
-     "ts": 1793968356.0,
-     "time": "Nov 6, 6:32 AM CT"
-    },
-    {
-     "title": "What should Buda\u2019s giant wiener dog be named?",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/local/buda-giant-wiener-dog-name-contest/269-f6064782-ef76-4f8f-b769-382a368586a8",
-     "summary": "The public can vote online through Nov. 8, when a name will be selected.",
-     "ts": 1793968260.0,
-     "time": "Nov 6, 6:31 AM CT"
-    },
-    {
-     "title": "Yella Beezy trial: Lead detective continues to lay out evidence in Mo3 murder | Live updates",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/crime/yella-beezy-trial/yella-beezy-trial-live-update-mo3-murder/287-6cab0e67-1cf2-4383-879d-55db117a7a23",
-     "summary": "Day nine of testimony begins as prosecutors seek to prove the Dallas rapper, whose real name is Markies Conway, ordered a hit on a rival in Dallas back in 2020.",
-     "ts": 1793966531.0,
-     "time": "Nov 6, 6:02 AM CT"
-    },
-    {
-     "title": "How Texas law safeguards your vote: testing, security measures and post-election audits explained",
-     "source": "WFAA",
-     "link": "https://www.wfaa.com/article/news/politics/texas-law-safeguards-vote-testing-security-measures-post-election-audits-explained/287-d3881a61-6e34-4ee7-9cd8-75f9550834bb",
-     "summary": "As Texans head to the polls, state law requires multiple safeguards designed to protect ballots, secure voting equipment and verify election results. How it works.",
-     "ts": 1793966119.0,
-     "time": "Nov 6, 5:55 AM CT"
-    },
-    {
-     "title": "Dallas Weather: Cooler temperatures, slight rain chances this weekend",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/weather/dallas-weather-cooler-temperatures-slight-rain-chances-weekend",
-     "summary": "North Texans will feel a noticeable breeze as cooler temperatures and clouds bring a fall-like feel to the Metroplex.",
-     "ts": 1793965673.0,
-     "time": "Nov 6, 5:47 AM CT"
-    },
-    {
-     "title": "Driver crashes into fire blocker truck on I-30 in Mesquite",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/driver-crashes-fire-blocker-truck-i-30-mesquite",
-     "summary": "A driver collided with a Mesquite Fire Department blocker truck early Friday morning.",
-     "ts": 1793965175.0,
-     "time": "Nov 6, 5:39 AM CT"
-    },
-    {
-     "title": "Dallas weather: Nov. 6 morning forecast",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-gmg08syrezlico67",
-     "summary": "FOX 4's Ali Turiano has the morning forecast for Nov. 6",
-     "ts": 1793964504.0,
-     "time": "Nov 6, 5:28 AM CT"
-    },
-    {
-     "title": "Mesquite fire blocker truck hit by vehicle",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-86boruc8gk9foj28",
-     "summary": "I-30 WB at Northwest Dr in Mesquite is shut down after a driver struck a fire blocker truck.",
-     "ts": 1793964122.0,
-     "time": "Nov 6, 5:22 AM CT"
-    },
-    {
-     "title": "NFL star Rashee Rice files for bankruptcy",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/video/fmc-j8jo3ujnartit7y0",
-     "summary": "Former SMU star and current Kansas City Chiefs wide receiver Rashee Rice has filed for bankruptcy as he continues to deal with the fallout of his 2024 car crash in Dallas. FOX 4...",
-     "ts": 1793935511.0,
-     "time": "Nov 5, 9:25 PM CT"
-    },
-    {
-     "title": "Keller, Westlake reach agreement over proposed data center lawsuit",
-     "source": "Fox 4",
-     "link": "https://www.fox4news.com/news/keller-westlake-reach-agreement-over-proposed-data-center-lawsuit",
-     "summary": "Keller and Westlake have settled a debate over a proposed data center on the border of the two cities.",
-     "ts": 1793935144.0,
-     "time": "Nov 5, 9:19 PM CT"
-    },
-    {
-     "title": "Gov.-elect Gina Hinojosa pledges bipartisan administration in first public appearance since win",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX0VaY3Q2aFBMZDBjWFpsV3l6OXhNVE95RXpGWWtzdV8yMFA1bVdLRmJJWWg5T1NnLW1IX2w2VlBYY0NkajhWeG9UVlpXdUdGeWZ0YVpWTFdEVXZLUVZVY2dKdWxSckZ0bW1aeDFETkd0MzZISTZYc1dwYVdLcnJONHhzVQ?oc=5",
-     "summary": "",
-     "ts": 1793907790.0,
-     "time": "Nov 5, 1:43 PM CT"
-    },
-    {
-     "title": "How Texas Democrats pulled off their historic election upset",
-     "source": "The Texas Tribune",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOGFrelBDbTBwVlR6cUNkWHpZd0lHZnZzNDVlVl91YzBsVWl0Mm1jeUxNYVptQ1hMMXFKMy14UVZza2JqdDB6SVZsUy0xZjNabDd1ZzgtSjhQcjdUai1FMFpleFY3emk1TU11c0RTTnVBbHlUclBtZWEySXB2V0kwOTVYVnEyRHFsdzFNcklB?oc=5",
-     "summary": "",
-     "ts": 1793895595.0,
-     "time": "Nov 5, 10:19 AM CT"
-    },
-    {
-     "title": "Fort Worth is poised to lose its premier PGA Tour event at Colonial Country Club",
-     "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHFTMkFTOWE4NkVDeGgxbGFBX3Q4eThFai1BRHBZZ1JuYmVJMWJzMTRvS0QtajR4UUtnMVBFSzFXMV9MUnpHNzFIdUlyaENEc3lqMGZ3S1FjaWU2LXlZTmVXNGptMjhBLVA1b0dCRE02U3MxUDctel9XeGJ1eFVpT0NxdndmTlVRSE9OdldwTQ?oc=5",
-     "summary": "",
-     "ts": 1793894100.0,
-     "time": "Nov 5, 9:55 AM CT"
-    },
-    {
-     "title": "Woman stabbed in head in family violence incident, Fort Worth police say",
-     "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Rbzdra2NwN2xpNjJLNDgwU0dvWW5ISVkzTG5hRjdUcUMwSXRWVFZsajE5R1VldjhQejZ4d3ZrQzIydUJzem44YUt6RUJ4MWxhME5WQnpVcHFld0txcERSUUw1XzVIdkJ1TWs2b2hrTE9VeU13RG9n0gF3QVVfeXFMT1J0VVhxV3p0V3hXZmFsY0FqVDF5c29hNEhNOUlzenhNak1QNmNtRGVZMkdJY3cyb1ZHT09jbjR1a21ZU284c2VxRkJhWkZYUjNoQmpKa1duZlg0TGJ5aWFpMGFmZ0FuUlBVNUpGeG91WXRfQktKc2M?oc=5",
-     "summary": "",
-     "ts": 1793887156.0,
-     "time": "Nov 5, 7:59 AM CT"
+     "link": "https://www.wfaa.com/article/news/nation-world/mega-millions-winning-numbers-friday-november-6-2026/507-00887d3a-c6ea-48c9-bca4-e7440d34d359",
+     "summary": "Here are the winning numbers for Friday's $505 million Mega Millions jackpot.",
+     "ts": 1794028928.0,
+     "time": "Nov 6, 11:22 PM CT"
     },
     {
      "title": "Brach's is turning its controversial seasonal candy into a fragrance",
      "source": "NBC DFW",
      "link": "https://www.nbcdfw.com/news/local/brachs-is-turning-its-controversial-seasonal-candy-into-a-fragrance/4075411/",
-     "summary": "New York appeals judges grilled President Donald Trump\u2019s lawyers and prosecutors Thursday about his bid to erase his historic hush money conviction, but the court didn\u2019t signal ...",
-     "ts": 1793872778.0,
-     "time": "Nov 5, 3:59 AM CT"
+     "summary": "Bomb threats targeted dozens of flights across Europe this week following a string of hoaxes that caused flight diversions and forced airlines to scramble to keep passengers saf...",
+     "ts": 1794028554.0,
+     "time": "Nov 6, 11:15 PM CT"
     },
     {
      "title": "A magnitude 7.1 earthquake shakes part of southern Japan but no tsunami detected",
      "source": "NBC DFW",
      "link": "https://www.nbcdfw.com/news/a-magnitude-7-1-earthquake-shakes-part-of-southern-japan-but-no-tsunami-detected/4054918/",
-     "summary": "New York appeals judges grilled President Donald Trump\u2019s lawyers and prosecutors Thursday about his bid to erase his historic hush money conviction, but the court didn\u2019t signal ...",
-     "ts": 1793872778.0,
-     "time": "Nov 5, 3:59 AM CT"
+     "summary": "Bomb threats targeted dozens of flights across Europe this week following a string of hoaxes that caused flight diversions and forced airlines to scramble to keep passengers saf...",
+     "ts": 1794028554.0,
+     "time": "Nov 6, 11:15 PM CT"
+    },
+    {
+     "title": "Plane carrying pickleball players crashes in Texas Hill Country, killing all 5 on board",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/local/small-plane-crashed-texas-hill-country-killing-all-5-board-county-official-says/4018659/",
+     "summary": "Bomb threats targeted dozens of flights across Europe this week following a string of hoaxes that caused flight diversions and forced airlines to scramble to keep passengers saf...",
+     "ts": 1794028554.0,
+     "time": "Nov 6, 11:15 PM CT"
+    },
+    {
+     "title": "Wisconsin authorities arrest 25 from clashes at beagle breeding facility",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/wisconsin-authorities-put-total-arrests-from-clashes-at-beagle-breeding-facility-at-about-25/4012378/",
+     "summary": "Bomb threats targeted dozens of flights across Europe this week following a string of hoaxes that caused flight diversions and forced airlines to scramble to keep passengers saf...",
+     "ts": 1794028554.0,
+     "time": "Nov 6, 11:15 PM CT"
+    },
+    {
+     "title": "Massive gas tanker explosion in Mexico City kills 3 people and injures 70 others",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/massive-gas-tanker-explosion-in-mexico-city-kills-3-people-and-injures-70-others/3917202/",
+     "summary": "Bomb threats targeted dozens of flights across Europe this week following a string of hoaxes that caused flight diversions and forced airlines to scramble to keep passengers saf...",
+     "ts": 1794028554.0,
+     "time": "Nov 6, 11:15 PM CT"
+    },
+    {
+     "title": "The most popular baby names for 2024 revealed, and two names top the list again",
+     "source": "NBC DFW",
+     "link": "https://www.nbcdfw.com/news/the-most-popular-baby-names-for-2024-revealed-and-two-names-top-the-list-again/3837516/",
+     "summary": "Bomb threats targeted dozens of flights across Europe this week following a string of hoaxes that caused flight diversions and forced airlines to scramble to keep passengers saf...",
+     "ts": 1794028554.0,
+     "time": "Nov 6, 11:15 PM CT"
+    },
+    {
+     "title": "Here's what could change under a Democrat-led Texas",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/politics/heres-what-could-change-under-a-democrat-led-texas/287-baa85dc9-a661-4d0e-9862-7efca2facd45",
+     "summary": "Catch up quick on a whirlwind week of political change in the Lone Star State after the midterm election.",
+     "ts": 1794025608.0,
+     "time": "Nov 6, 10:26 PM CT"
+    },
+    {
+     "title": "'Our hearts are here': Dallas leaders discuss Deep Ellum safety after 4 killed, 15 others injured in deadly shootings",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/local/dallas-county/our-hearts-are-here-dallas-leaders-discuss-deep-ellum-safety-after-4-killed-15-others-injured-in-deadly-shootings/287-c93da4a0-8f96-45d6-8449-e4037af6eff1",
+     "summary": "Treyveion Demby and David Yancy have both been charged with being felons in possession of a firearm; the investigation to find all responsible continues, police say.",
+     "ts": 1794025590.0,
+     "time": "Nov 6, 10:26 PM CT"
+    },
+    {
+     "title": "New documentary will explore the terror plot behind canceled Taylor Swift concerts in Vienna",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/nation-world/documentary-terror-plot-taylor-swift-concerts-vienna/507-841b272d-ab98-4f6e-9c60-2d82612630a4",
+     "summary": "A new documentary will examine the culture behind the terror plot that led to the cancellation of three Taylor Swift concerts in Vienna, and how fans responded.",
+     "ts": 1794022591.0,
+     "time": "Nov 6, 9:36 PM CT"
+    },
+    {
+     "title": "Deaf Arlington Bowie football player finishes senior year",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/video/fmc-50cc3hywptyre0in",
+     "summary": "Kaleb Phifer has played his final game at Arlington Bowie, but he could have a future at the DI level of college football despite his deafness. FOX 4's Peyton Yager has more.",
+     "ts": 1794022464.0,
+     "time": "Nov 6, 9:34 PM CT"
+    },
+    {
+     "title": "Midlothian oil and gas business raided by federal agents",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/video/fmc-ihbhwcn16e8b7i6s",
+     "summary": "Several residences in Midlothian were raided by the FBI on Friday, as was an oil and gas business that is facing multiple lawsuits alleging fraudulent practices. FOX 4's David S...",
+     "ts": 1794021010.0,
+     "time": "Nov 6, 9:10 PM CT"
+    },
+    {
+     "title": "FBI raids Midlothian oil and gas business facing multiple fraud lawsuits: sources",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/news/midlothian-raid-targets-four-locations-multi-agency-investigation",
+     "summary": "The FBI confirmed it was involved in several raids in Midlothian today, including a raid on an oil and gas development business that's facing multiple lawsuits.",
+     "ts": 1794018826.0,
+     "time": "Nov 6, 8:33 PM CT"
+    },
+    {
+     "title": "NASA's Artemis II rocket may have punched a hole in the atmosphere, here's how it could impact GPS signals",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/nation-world/nasa-artemis-ii-rocket-atmosphere-disturbance-study-gps/507-4cb03bae-0939-4c2c-a0b3-bdec029ec4b4",
+     "summary": "NASA's Artemis II rocket launch may have disrupted the ionosphere, causing GPS disturbances, researchers suggest. The true impact remains unclear.",
+     "ts": 1794018332.0,
+     "time": "Nov 6, 8:25 PM CT"
+    },
+    {
+     "title": "One dead following major accident on Alma Dr, Plano Police say",
+     "source": "WFAA",
+     "link": "https://www.wfaa.com/article/news/local/collin-county/one-dead-following-major-accident-on-alma-dr-plano-police-say/287-48b000a7-7509-4e39-ae5e-78cbc5e43c8c",
+     "summary": "Plano Police have closed several lanes of Alma Drive as officers investigate the deadly accident.",
+     "ts": 1794017465.0,
+     "time": "Nov 6, 8:11 PM CT"
+    },
+    {
+     "title": "Texas appeals court cancels oral arguments in challenge to state hemp rules",
+     "source": "The Texas Tribune",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOURXcjIyQlRLYnFPX1VoVUNaWmJSeVN5ZGZ6cjZYeUZLVnlsVFlfZUdfTENXMmw5c3kyOEEyZ1VJbTJtUnZkWGFvV0hnek4yQzM1MXlNblh3Q0lOTkRhMmJkMjlERHZrN2F2aWRzSTVSbXgtc1ppcjRlRE5SNk05aU1fLUhwdDU4OG9Ec3A4N3Y?oc=5",
+     "summary": "",
+     "ts": 1794013021.0,
+     "time": "Nov 6, 6:57 PM CT"
+    },
+    {
+     "title": "Questions linger in Dallas missing mail case",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/video/fmc-fuv8faqfv8t2jent",
+     "summary": "In September, FOX 4's Shaun Rabb reported on viral videos that showed boxes of missing mail at someone's house. The investigation remains ongoing, leaving the victims frustrated...",
+     "ts": 1794007339.0,
+     "time": "Nov 6, 5:22 PM CT"
+    },
+    {
+     "title": "Deep Ellum community meets to discuss change",
+     "source": "Fox 4",
+     "link": "https://www.fox4news.com/video/fmc-87zclbp5h6xw1esh",
+     "summary": "It's been a week since the deadly shootings in Deep Ellum, and community members are talking about ways to make the neighborhood safer.",
+     "ts": 1794007022.0,
+     "time": "Nov 6, 5:17 PM CT"
     }
    ]
   },
@@ -303,84 +303,116 @@
    "name": "Vermont",
    "items": [
     {
-     "title": "Major New England strike leaves grocery store shelves empty",
+     "title": "Showers are likely this afternoon and overnight. Temperatures will be cooler this weekend, and even cooler during the week next week.",
      "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/06/major-new-england-strike-leaves-grocery-store-shelves-empty/",
-     "summary": "More than 250 union workers at Associated Grocers Northeast are striking at a distribution center in Pembroke, New Hampshire.",
-     "ts": 1793968109.0,
-     "time": "Nov 6, 6:28 AM CT"
+     "link": "https://www.wcax.com/2026/11/07/showers-are-likely-this-afternoon-overnight-temperatures-will-be-cooler-this-weekend-even-cooler-during-week-next-week/",
+     "summary": "Today will start off with mostly cloudy skies and a few showers, then showers will become more numerous through the day. Highs will be cooler, in the 50s. Showers will continue ...",
+     "ts": 1794047916.0,
+     "time": "Nov 7, 4:38 AM CT"
     },
     {
-     "title": "Theater performance at St. Michael\u2019s College raises domestic violence awareness",
+     "title": "Lawyer who represented defendant in Tupac Shakur murder case found dead",
      "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/06/theater-performance-st-michaels-college-raises-domestic-violence-awareness/",
-     "summary": "For their fall main stage play, St. Michael\u2019s College performing arts students are trying to educate the public about intimate partner violence.",
-     "ts": 1793967216.0,
-     "time": "Nov 6, 6:13 AM CT"
+     "link": "https://www.wcax.com/2026/11/07/lawyer-who-represented-defendant-tupac-shakur-murder-case-found-dead/",
+     "summary": "The defense attorney who represented Duane \u201cKeffe D\u201d Davis in the Tupac Shakur murder trial has died.",
+     "ts": 1794047456.0,
+     "time": "Nov 7, 4:30 AM CT"
     },
     {
-     "title": "13 events to check out this weekend, Nov. 6-8, in Franklin County",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/things_to_do/13-events-to-check-out-this-weekend-nov-6-8-in-franklin-county/article_6713d636-2de1-4d79-ac7e-3fded8c687bd.html",
-     "summary": "SUBMIT YOUR EVENTSAdd your events to this calendar by sharing the details with news@samessenger.com.",
-     "ts": 1793962800.0,
-     "time": "Nov 6, 5:00 AM CT"
-    },
-    {
-     "title": "Middle school principal arrested for suspected child sex crimes",
+     "title": "Former doctor photographed patients\u2019 genitals during medical procedures, lawsuit alleges",
      "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/06/middle-school-principal-arrested-suspected-child-sex-crimes/",
-     "summary": "A middle school principal was arrested for suspected child sex crimes on Thursday.",
-     "ts": 1793961429.0,
-     "time": "Nov 6, 4:37 AM CT"
+     "link": "https://www.wcax.com/2026/11/07/former-doctor-photographed-patients-genitals-during-medical-procedures-lawsuit-alleges/",
+     "summary": "A Toledo doctor who has been indicted for possession of child sexual abuse material also photographed his patients\u2019 genitals during medical procedures, according to a newly file...",
+     "ts": 1794037232.0,
+     "time": "Nov 7, 1:40 AM CT"
     },
     {
-     "title": "A mild Friday ahead of a cooldown this weekend",
+     "title": "Woman sentenced to life in prison for murder of her 5-week-old daughter",
      "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/06/mild-friday-ahead-cooldown-this-weekend/",
-     "summary": "One more mild day before much cooler weather arrives!",
-     "ts": 1793957093.0,
-     "time": "Nov 6, 3:24 AM CT"
+     "link": "https://www.wcax.com/2026/11/07/woman-sentenced-life-prison-murder-her-5-week-old-daughter/",
+     "summary": "woman in Texas has been sentenced to life in prison without the possibility of parole for the death of her 5-week-old daughter.",
+     "ts": 1794031011.0,
+     "time": "Nov 6, 11:56 PM CT"
     },
     {
-     "title": "Millions Of Americans Have Prediabetes; What Older Adults Need To Know",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/millions-of-americans-have-prediabetes-what-older-adults-need-to-know/image_f3320858-454f-54c7-978a-63be8ed6dc8e.html",
-     "summary": "Early screening for diabetes and learning to prevent and manage the condition can help you have a healthier life.",
-     "ts": 1793953800.0,
-     "time": "Nov 6, 2:30 AM CT"
-    },
-    {
-     "title": "Family Yard Fall To-Dos",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/community_cares/family-yard-fall-to-dos/article_4472802a-5830-55a7-8a12-ebad96c13ace.html",
-     "summary": "(NAPSI)\u2014Fall\u2019s a paw-some time to enjoy your family yard\u00ad\u2014and prep it for a lush spring, say the experts at The TurfMutt Foundation, which advocates for outdoor living and the c...",
-     "ts": 1793953800.0,
-     "time": "Nov 6, 2:30 AM CT"
-    },
-    {
-     "title": "Seeing the Benefits of an Eye Exam",
-     "source": "St. Albans Messenger",
-     "link": "https://www.samessenger.com/online_features/health_and_wellness/seeing-the-benefits-of-an-eye-exam/image_05fcc07b-536c-5a3d-9a7f-bbcbdb262d9b.html",
-     "summary": "Be wise, look out for your eyes and get regular vision exams.",
-     "ts": 1793953800.0,
-     "time": "Nov 6, 2:30 AM CT"
-    },
-    {
-     "title": "Death row inmate asks for a stay of execution until after holidays",
+     "title": "Rain over the weekend, then some sunshine Sunday afternoon. Temperatures will trend colder next week, especially late week.",
      "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/06/death-row-inmate-asks-stay-execution-until-after-holidays/",
-     "summary": "A South Carolina death row inmate is petitioning to have his execution pushed back to after the holidays.",
-     "ts": 1793951702.0,
-     "time": "Nov 6, 1:55 AM CT"
+     "link": "https://www.wcax.com/2026/11/07/rain-over-weekend-then-some-sunshine-sunday-afternoon-temperatures-will-trend-colder-next-week-especially-late-week/",
+     "summary": "Today will start off with mostly cloudy skies and a few showers, then rain will arrive around mid-morning and continue through the day. Highs will be cooler, in the 50s. The rai...",
+     "ts": 1794027998.0,
+     "time": "Nov 6, 11:06 PM CT"
     },
     {
-     "title": "UVM women\u2019s hoops coasts past Quinnipiac",
+     "title": "Argument over Wi-Fi leads to murder of mother and son, police say",
      "source": "WCAX",
-     "link": "https://www.wcax.com/2026/11/06/uvm-womens-hoops-coasts-past-quinnipiac/",
-     "summary": "Cats break program record for threes in a game for the second time in a week",
-     "ts": 1793941007.0,
-     "time": "Nov 5, 10:56 PM CT"
+     "link": "https://www.wcax.com/2026/11/07/argument-over-wi-fi-leads-murder-mother-son-police-say/",
+     "summary": "An arrest has been made in the murder of a mother and son in Texas.",
+     "ts": 1794026786.0,
+     "time": "Nov 6, 10:46 PM CT"
+    },
+    {
+     "title": "PHOTOS: Anti-ICE march of remembrance",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETnAyZTdidDlzckhHeHlmV1NuVURfa3E5RzlZaTZhLUQ4RmUyYWR6dWF5NzZaZ3J3TWlnc0d3RXRldnA2R3lwcVJpUlFCbGhqU0l6Vm11RUpXUEJnSF9LalFBWGF3YzRNbmVyOXdnT2szUUxfdzlQRw?oc=5",
+     "summary": "",
+     "ts": 1794007216.0,
+     "time": "Nov 6, 5:20 PM CT"
+    },
+    {
+     "title": "Promising growth, Utah-based investor leads board takeover at Ethan Allen",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3A0MkhlQnBKWmlfRmRkSXJiTGxkRmNjcGpHckFoNGxvZTJiT2NFdlRQNWlfbDJ4Q3JWSXRlNHlkOEZ5dzdOTjVGTlZTOExvNUxpdU5HUnF4anRMaFk5U3k2WWhvVlpHU0xNMUs2WVlyUkQzb2ZzenJtWC1wZS1xZ1EwVTh0ZnlkSmpfTFNSVjlsY1FVb051OUNPUFVwaVNvSTk5emxvSEU?oc=5",
+     "summary": "",
+     "ts": 1794006498.0,
+     "time": "Nov 6, 5:08 PM CT"
+    },
+    {
+     "title": "Burlington City Council president launches bid for mayor",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUFteHh2V1l1V2U2MGhmYTVyVE9SMXNOQWxLZmdQQnpGbktMb2JhMHlxRXZKdFB6T1gxVW9DbDF3dkEwelU4QlpybTF1ckFLRS1jSHQwOWlUY2c1SVVGS2tTT2FKMkNDVXhkaXRlVzNhdG9lYnRXTDBJc1FPTjBGTlB6RTdqQV9uczB5bjlLS05yLW8?oc=5",
+     "summary": "",
+     "ts": 1794005915.0,
+     "time": "Nov 6, 4:58 PM CT"
+    },
+    {
+     "title": "Vermont stores feel ripple effect of strike at grocery distributor",
+     "source": "VTDigger",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGJ2VXg5VHl0ZDc0UDFqWXVwZ0U3b2dGZElFQ0NUaHhFdk9Cbkx6bFpuOHFKREt3OC16S2NvUmlvTmVIZ3hqNTRCSVEyemJnc0NWN3k1QjgxV3E0d0kyd2ZsMDRHV3VZM0pfSHJqWGFxcEtSYVd0NXcxM1AwbDY0S1BmckVuZWdiam1SUkV2dWRkUzJOSjRfR0VoQmxLMVZV?oc=5",
+     "summary": "",
+     "ts": 1794005298.0,
+     "time": "Nov 6, 4:48 PM CT"
+    },
+    {
+     "title": "Things To Do in Burlington, VT",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRnBLVF9jSEk4VVpOYm5xbE94ME9DS0ZGd2tUMWp6bXZFUVZ5eUdZU25UNGtWZ09ENXdiVndySkVQbmwzQ2lPdkFrWWRvcUg5TC12ZEJQOE5SU2ZLRzRNb0hJNVc5UkRpVFVtM1M1ZTN1cVhNazF6a0lxekwxWVdYdG05VEVzVUNpYW01b3pjV0RhU3NVN0dWRTJraGN1bEc1T3dPZGhPakpkNXJkOWc?oc=5",
+     "summary": "",
+     "ts": 1793960173.0,
+     "time": "Nov 6, 4:16 AM CT"
+    },
+    {
+     "title": "Jefferson Hamer",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGVTUEpJdllPbERMWmVaQ19mSnNUTTBCSnJrS1lCdFJzSG42TFI2NHBiRGtTbktSRG0xTUpXLUNuMTktYUppWkxEWmpkaU9wMWdhMno4cE9tamx4amNVNkZ5blMwWGFMOXc0TEdaSzdFcTVBZFZWWEdzcUxsRU9aQXZzRnlGMGVKeXBFNXFMQ3JxWGNzeVEyR3NoN2VvY0diQUw5Vl81cW4yNmVSOFE?oc=5",
+     "summary": "",
+     "ts": 1793960146.0,
+     "time": "Nov 6, 4:15 AM CT"
+    },
+    {
+     "title": "Katarina String Quartet",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVUzTTRsOTVTcDNrYlFHc3lqeG1rWkd2LWJNcmJXT25OS2VIaFB5RV90MDB0dlNrZC1aQjRSU2VOQ0MyYVY0NElmeElVWVpfUlJ0SW5CTXM1aTQ5Z0tMZTdOQTE0bWZ3WUVqVUhaX3NYdTNJZzRpZzhtS2lkUG9Ib0dEbG9WVEl3eVhzMG9uTmJlbDFsYjBVaFBtcmEzWW5UaGJMbUYwOHlvYVllTWltZHlvbw?oc=5",
+     "summary": "",
+     "ts": 1793960112.0,
+     "time": "Nov 6, 4:15 AM CT"
+    },
+    {
+     "title": "Middlebury Messiah Sing",
+     "source": "Burlington Free Press",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzQtZmZLclR4XzZTUXJPcmhYc0k1SUg0bnplZnVXX1ZrLUVCRElDMnl4cUxkRE41OVNzWTdWaEg2S3YyZ1VwYnFRcFBmcDRjUFVzYkRiVnIwRWVmUGF5U2RXejcyNWtCMEJYOHBWR3p5ZUp3Y2tBNjhLeXBxeWNhYU51UHNYdU5NT2Q0Uk9wbmtBdXNKMl9ZdnBnRmxQVldfZFZxX1ZtYVNZWTlGb25oUVJ4QQ?oc=5",
+     "summary": "",
+     "ts": 1793958768.0,
+     "time": "Nov 6, 3:52 AM CT"
     },
     {
      "title": "For new taxes, only room at the inn",
@@ -391,14 +423,6 @@
      "time": "Nov 5, 5:33 PM CT"
     },
     {
-     "title": "Washington County voters approved $54.9 million bond for new career center",
-     "source": "VTDigger",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXhmdmVFdkhIS2hWNGsxelAzY09HREtNRlRxZ3VrNS1GbEpERkFyUGNic0Vrdy1JVzlmRFhEM0dxOTZ4Q3V2UFVQaTR6SlVEZXl6V2Z0a0g2R25qN1VXZDFxczBKQ3hTcF91c0s2NXd2Z194al9wdGc1TzJ4RndPRTRPOHJ3V2JNd0ZPY2ZoRUNOYTFVRFdOQWw2elNQVTRWdkpnZFdGd2phZw?oc=5",
-     "summary": "",
-     "ts": 1793918050.0,
-     "time": "Nov 5, 4:34 PM CT"
-    },
-    {
      "title": "Apparent election ploy to oust Chittenden County state\u2019s attorney fails",
      "source": "VTDigger",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0xsQUtGZHB6UmZpbnNSTUtZR0I1R3RSd081aG16X1VwcTZraVhKWmpjQ0ktQjZ3Y1hMdjh0TkRwLXIxUzZJbjBRLUxET2ZmWk5TUmItem1wdkx2cDFGbHI3OGpsTFNGVmJBSDJCd0NXUzlVRVFmd0RHNnB2NG0yOXBVZUUzaXFDYzNIQjlfQlhyVmhBVWNRa3h6X2ltaHBvWTI1LXhB?oc=5",
@@ -407,12 +431,12 @@
      "time": "Nov 5, 3:11 PM CT"
     },
     {
-     "title": "My favorite tips for shopping at Trader Joe\u2019s",
+     "title": "Helene \"Leni\" Jorschick",
      "source": "Burlington Free Press",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY3hWa1VhQmtkQ2Q5ZjVTT1JPZ1h3LUpIUXI3Vkdic0RRaTY3UGhtU1BYQmVXS0RlaGVQNEFQZmZ1djNIYnFOaS1tcHlNTWc0MjV5N2NReWJjSFNteFBrZkt1WS1QUmVURDZYcDc5WklYQUdJYjJKYXNaZW1taUNfNEtQNVhscllyNEQ1MHp3SXJUclQtbzNaaUREbFdOMnJVUjhTXzQ1Ty1ic1o5dHViLVFWQ1VBRjZFOXBqLUlWbkExZEl4?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZmpJWUpmR0E4NDA1N3M4ZVhTRXppME5JU2VESnFUY3FlVkxSZHRJSkRPZFBqeVBLTzlvU0M3SzlUUlNkeUdPclNEdU9JcHJUT2Y2Q29SU29maXNucTlYaXE3U1pwc1FZOWc?oc=5",
      "summary": "",
-     "ts": 1793898709.0,
-     "time": "Nov 5, 11:11 AM CT"
+     "ts": 1793911844.0,
+     "time": "Nov 5, 2:50 PM CT"
     },
     {
      "title": "Under-the-radar players entering the 2026 Division I high school football semifinals",
@@ -421,30 +445,6 @@
      "summary": "",
      "ts": 1793896500.0,
      "time": "Nov 5, 10:35 AM CT"
-    },
-    {
-     "title": "Fight off your Election Day hangover with some concerts, shows in VT",
-     "source": "Burlington Free Press",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZnZ6ZXhjeVcxN2o1NVhBZUVzTUtHS2pvZENGMmpOQW5HczNXOFVhOXpxVmRGLWJNb3lNMGY1bS1kZ1RQaU9lWVlWV3U2ZEFtTFVxb096Z056Q2pQdklhbTRUTTJ0b29aVV9pMmNRZnp6djJraDlwUEUtZk5fSEQ3SC1KNWZwTktTNnRlOUIzaTBnN3FBUjJpOVVybFFnc010dkFWaDZvWG1JNzE4Ulo0TUZxUDhNOG1Vak5DTm9DZktLcFQ0ZTZ5ZGlEOXhBY2xQOGlwQ2R4M1hJNkJXYmZObS1RamlMVnozOFlVZmJ1eTE0VG4xWWdDODMwbWo?oc=5",
-     "summary": "",
-     "ts": 1793872500.0,
-     "time": "Nov 5, 3:55 AM CT"
-    },
-    {
-     "title": "Vermont fellowship opens paths to conservation careers",
-     "source": "Burlington Free Press",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNG9QYWx1eGI5eG9heXN5aGZHUlB3Skh5WXlFeUhpQjhjN3R4ajlyeGhlZDJ4ZXpMc3FKLWpMOV9lZ0p3cjZicy1uaEZublI5STV2aHQ0ajljTTlJWlVWODFMSWYydExiZkdYb0hQcnQyeEd0T2t5YmYwaFk4SnVBaWx0eWY0NGFhMV9JU01QSlVZamhRakQ0SVc2cEdSQk50U2wtZFN6WGU1dExMbmZyUE1XVmpKZzVJSUsybzV4S0xvRGxVWm5DVUVvZDcxZ3VQenlWczd0cjlFZEtUX0k3cHREUlFnYWc?oc=5",
-     "summary": "",
-     "ts": 1793871960.0,
-     "time": "Nov 5, 3:46 AM CT"
-    },
-    {
-     "title": "In a \u2018blue tsunami,\u2019 how did Republican Gov. Phil Scott win another term?",
-     "source": "VTDigger",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcmxaRWpnazNtclp6MEdoVGtQUGhBQmstMU9QX2JnVVctR2JnZ2FDbzB3VmtmMmJnYUFwVDAxUlQtT25VREpSNU13NnJudTFDY2tGekpoTnZFY2ozbEZjTEd1RzdYdS0xWUZmdWRaTkZ1MV9KeUl6TTRSZnJCeV9UTmFhcmYtQzFob1dyOTl2VjdidVE2ekpnV19uZGZQQTlnSGZn?oc=5",
-     "summary": "",
-     "ts": 1793834089.0,
-     "time": "Nov 4, 5:14 PM CT"
     }
    ]
   },
@@ -452,100 +452,140 @@
    "name": "Crime",
    "items": [
     {
-     "title": "Man arrested on SEPTA bus for murder, sexual assault inside salon in Philadelphia's East Mount Airy section",
+     "title": "Man arrested in foiled ISIS-inspired mass shooting plot at Mall of America, US authorities say - ABC News",
+     "source": "ABC News - Breaking News, Latest News and Videos",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnZPcUFsUjRXY1k3ZUVzRXhIdTRqTXM1WHZCQ3FyOEYtdzBvcUg3OF9ETFM2UVhnVU1fWEVYSWE3bVozbG50TTBkNWlvZVp2amI0NGZIVTQwM3VzemhiR2hVQ3VUaHdrN1pXWDVMLXFqTFJZcVBJNVlhRFlwSldPMHUwRDd1bG1abU1VdnZjejdqeU9RR2ZQT9IBngFBVV95cUxOUzlGeE9sTGwxZ09DcnNYYnJCYlRlcXlTZm1jVGc1V2RsWU9lZ0NhS24zZ1B4d21GQ2ZBY19JSE1aYTJ2VktJYTc3UFl0dGJUbVgzVmsyUTYyRTJLWUFrbVFCeDhSNG9vX3dvV0ltMG9aM1VobGN2d3ZmcjI2SV96bVp5b19SNjlFNXlkLU5qd2hQSjRDOXNUbVd1OFVwZw?oc=5",
+     "summary": "",
+     "ts": 1794038916.0,
+     "time": "Nov 7, 2:08 AM CT"
+    },
+    {
+     "title": "Man dies after shooting outside hotel in Kansas City",
+     "source": "KCTV",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlJwQWxqMWZhWW5naXhpdkVOQ3ROZXJJRnZnVXJxVkgzZWVUajU5X2lfTUtEejRtSmVHVzNTUkZNMk9DR0FRRTEzbDNXeE5BdTA0MzlLZFQyMGVqVjk1TUp5LVB1U3ZLWE1SNFFVaXNkcDEyemRaZlpTZkFBb1prV29oVEpfaVJWOTNB?oc=5",
+     "summary": "",
+     "ts": 1794026820.0,
+     "time": "Nov 6, 10:47 PM CT"
+    },
+    {
+     "title": "Glens Falls man facing multiple charges after Vermont domestic incident",
+     "source": "WRGB",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTm14RVc5NDNVc2xHMWVCbzd2d1RWWGhtZlc3S29xVzFUNUk5R21CUEp1NjhiemItVjA2akl2SDYyT1ZiTEpGbUpXSzZPUEw4cjJZUlN0VDluQVlwcTlycC04QzRBTnEycXJmN01TdUljTTdLOUJuZUJxcG9ZYTNHemphclR3ajlRd2VtUDd3RDl1QXRiYnhrR3hxQnpQZkxhNktwaXEyTjZrazRncTl3SDdtY2FPWlpoMWJ5UFh1QUM5Uzd3SnNoWjlBZk1mdnQxYjl2TXBjYm5rZzdsMjRRT2N3UUliVTBDTVRyVklwUmJIZw?oc=5",
+     "summary": "",
+     "ts": 1794026687.0,
+     "time": "Nov 6, 10:44 PM CT"
+    },
+    {
+     "title": "Person shot, killed after encounter with police in Norristown, Montgomery County",
      "source": "6abc Philadelphia",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTEpreFdtSTVVVjcwNEFnLVhfWEhLaVV0S0RTY2lPbURRMUJVNklFeFdvcXhSVzhIbHdYNmM0Vk1MclJVWUs4dmJ6VVV0MXJRSzhtN2lac2hYVlR5aVZrMHlNSmNQQ1l0NXBaZi1NNDRTVmRfSU1ib0o1bW1UNlNSUjFUUkJKRVFxTm9BckNUeDBIY2Q0ZWQ3SnE3NlNYTVpiNVgxR29sa28xMy1lRy1ZeFdaZGQ5WnZCQmxBbDBXNWRVbUpKN3fSAcsBQVVfeXFMTUZlVUk2Z2hnTUpWMWhKcFdMTlIwb2NyLXBscURMeERWUXpsR1RhUEZIcnloQjRfZjZqZlJ5bzRfWklzT25oX0NKYjJXMTdhSV9pMlRvbERVb2syb1V6cjVncDk0NUl4VHA5N055c0h2d2E5UngxaU91RnphbGpFcnZ3b0RjZEhPUm9MXzFvci1uWk81eHZIUjJlY3dxOVlrTkpzei12SURTODM2VXM2cU5OOV85ZDJ4SFdoZWNncWw2aTBIcG9EMFgybUU?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnhtV2tIMXFNTEdfbzhNSEpjckNCMTI5ck1CU3Z6U3M3eE1leW45dVUyVVBHSmlyc1JFLVJZRXcxQWNZQklOZ0lDRl9YUFk2d3ZLNHpzMDNGU1QyVDdRYmo4ZHVPQjBXNGhvT2l5Qnh1THlNTmpBTjlkR0JNYXY5cEVQaUdTbTZuZzdxa2JFUWRkV2ctWlRueW8wNVZfWEtSM3JRYdIBqgFBVV95cUxOWGtIMXpjSHdXRTJoQUQtcUpTNHRnMk5SQ25YS3RndVlhclJFQThiWElZTUlSOUlEalo1TzJNREExMDkzLW0wQTV2V2huNDNHQ3VycUtqWjFkaXYyOVNiTjV3ZFR1N2hzdmU0alg3NWUybkpuSDBQc0Vtdm5GZXF1Z3dkbXJzTFl4ek9IRFp2NkNrNjlOQVo1MmF0YnNoVDNCazFYalYxTWppdw?oc=5",
      "summary": "",
-     "ts": 1793968927.0,
-     "time": "Nov 6, 6:42 AM CT"
+     "ts": 1794021070.0,
+     "time": "Nov 6, 9:11 PM CT"
     },
     {
-     "title": "Kenyan cult leader sentenced to 200 years in prison for murder of 190 children",
-     "source": "Reuters",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOVFQN3ZZdXgwV0VlOWE3MF8zbXg0ZF9ZenNaZ3pVTl8xcHpuREFHUFpodWFmMXVzSmN3c29kRVViMDZhdkZ1QjB1WGdoR0tLZ09OaTRORzBOWmNQQUFUb2RvMnpVdjQ3eGlCcmJsSGxPNzFVM0N2bEJCZ3V5SVJ0OTRyZW9LbFVhVmRXeUV2a0Q0eFE4WVR1Vl81V1NoTWZ4THNYbklpbFc1RmxIZ043WTBVWWxwTW4yVmNYXw?oc=5",
+     "title": "Moss Landing State Beach shooting: 18-year-old arrest in connection to deadly shooting of 2 teen boys",
+     "source": "ABC7 Bay Area",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW95Y19idVdodEFXTEdLU0RUa1RhN3hnRnA0M2JQM1hBa191czJ0VW9QcG1mMld6Sm1IU0JMdUxBc0p4SnBDRzRfQlNrWVYyN196aU1rVGEyemR2Y1AwYTlmRWVwSGlaeWNmYV9HbE84dzJvNVlFdWdEaFlkbmpCNUo4Q09OTE1BNktZbmdZSVM1bjRjRXpHR2REVk45NHZlN1F6dmZacEVkV0UzeE5IYzZaYmtBT2dvT3fSAb8BQVVfeXFMUEJRenBhSHJMM25hV0RjY1JCZU0wRVB2S1NpbHJndFJYUGwwNmhQb3kyV2pDMEtnOEpmVEhNSDFHM2lPZnJ3aVJtSTNDV0htTlZBVjZ6UkFka2QtbU95d201VlFiZFZ0MWpWMmJfdHRFZkJPVWU1ZGVNcGs3REpqQkRVYUZvZV9KcFQ0ZVBrdERjMEZxR3pUVWhhd2pBMExUem9HVFhlVDBJNWE5ZUVQTlRvNjctcGozOUJZQmxzSFU?oc=5",
      "summary": "",
-     "ts": 1793966761.0,
-     "time": "Nov 6, 6:06 AM CT"
+     "ts": 1794018527.0,
+     "time": "Nov 6, 8:28 PM CT"
     },
     {
-     "title": "Deputies searching for 17-year-old accused of shooting his father to death inside their NW Harris County home",
-     "source": "Click2Houston",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMjlXbUpxNlpkNk5ZOUNVV2ZzNlJrMzdsQWdMRk53alNFLWNHelZTMFRJU0UtMVRtdHI0em9RQ0tVTndWVkp6UU55NlZ3OS1ydnNaOXI2LWwyRlQ3WXhKZzhWRTJQdzRRcnktNGw0dkZJRWNTUE1hRjEwSFJEZnl6d2xYcFZuTnQ0RUJDNHVKbEZyT3pLQjZ4UjhubVd4Y0s3dmhsOEdNT3dRMmJCeHdlTTh3UE1DY0wzbE9aZ25zR0xvb20zSnBjTnplcnpGUW14enhsZC1n?oc=5",
+     "title": "Man suspected of shooting unarmed Crystal Pier security guard appears in court",
+     "source": "NBC 7 San Diego",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDlvN1BjWEQyX3d3NnJMQ01fLUtwNjA5M3lrUGg5bW1BTDdBMlZ6dVU4MGdlNnpoZklzNkt6UXRuVVFCQXJ3SHlzSnlXZURYMHlvanRzQ0F6Q1JhRGRvX1RqQUpibWNPLUxtRFVTTnNmR3BFZ3VwZWRZS0FnRDRwclppbUU0VmVNZmhnZTVGR2lzVDM0emdYMzdpUEYtWWRwU3FrQ19iUlVBWTZNaHN4S1g1Qm5HQVpDUEsxX1BlTGNVWkxE0gHMAUFVX3lxTE1wa2JtVzNVWVJ4ZFFRRm5Id2tvZGZCd25JR0xBLUlKa2xuZk5fSFZtQnpCVHFES2w0X3ktSm5fdHdMS2ZSZkpUYm1lX0NTYUdhVUVPOUhlLXpJaDhZQzNPVUo1akhCZVJvS1h0Yno3TDFsbmZTTkI1SFdVc2NzMGRqMGRXN2ZOUDhiUnlORDliUmJGNURGSElVZGNQVmNkOGxjbHd1UG9IUE02djJLdE5qMWpBNnBfUzMya2JXdkQ0UHlvMGYyZzJZMnU3ZQ?oc=5",
      "summary": "",
-     "ts": 1793964592.0,
-     "time": "Nov 6, 5:29 AM CT"
+     "ts": 1794013280.0,
+     "time": "Nov 6, 7:01 PM CT"
     },
     {
-     "title": "Chicago shooting: Tow truck driver shot in Logan Square, police say",
+     "title": "Shooting injures man in south Fort Worth; no suspect in custody",
+     "source": "Yahoo",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFdjOUhoMGg3VEdLZHBRYldaRUNqZ0h4NHZsUGtNcG9ZWkc3MzVTU0dvV25pT3FmZnJlUUFwdm12cHlaa3o4cXQzQTJzckpma0FVNVRSeFFlNGhRZEFlbEtKVlhlZUs5TDFJaUxvVDh0aGhPNVRpOXhzZUpJMnMzOVdMNE5KOUpPZ3c?oc=5",
+     "summary": "",
+     "ts": 1794012540.0,
+     "time": "Nov 6, 6:49 PM CT"
+    },
+    {
+     "title": "Dorian Robertson ordered held in Hammond, Indiana shooting of Walmart employee Dakota Norwood",
      "source": "ABC7 Chicago",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVVxd25rRHlIandYTWdJRmI5cFIwbXRMcVBwTi1VNTd6cm9Hb1d1aWF2Tm9nTXRhWkVYWjlNYldHREdONzF1SGhXSFQybnFUTmRPcUJDQmFKRDRnRS05b2lSZGJDcUlYdFczNDZyQmF1ZWEyYUR0ODNHNU5TV3B6b1NzSHM1RG95N1RVc0dNYWhWYnc5Y1V2VGxnRVJlV0p4eVFB0gGoAUFVX3lxTFB0bjU3bTVyMDlzMnZhaC1UaDB1cEJYR1F6dEZxczVmSURLSWQySFI3dmVMV3JjU0ZPNjVSOGdjbXNTbUhXWURVUElCdExPeG5Pa1J5R3l6LUpmbXlfY0pVck5wMGtya2d0Q2N0VEZHQ0hzYjNLbjlJNmxLVzd5QV81bFNLUVFhTkN1U1FOWDVqUUx5NHExMkk2THFzUjM4dXc0eE9kbS1OTw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMW5ONTl0MlRrRWdUbmd6RlZkbVNXNVJYZmhDWFJrMXR2RnltU2xBOVlyRVk5WFNObWhiMmYxenI3eTFmWFVxYndZVGI0aUcybzYxV19FektKRXVNa2o2UjkyLVA2dVFXbW8xM1Z2bDNLdTZmSXZlMjBfRVQ0eURVVU1ETWwtVU04VmhseEZqYVd4RVdTeGtOajBid3d3VGdxd3F6Tl9lRExsTWZZNGpMNzhpbldlZmd2SUFfbXhMUFpvNmPSAcgBQVVfeXFMTVBOYnROUnBIYk1zQndGNDFZUldWcEp3WVNWSE1NeGNrRkZnMkFhcTE5eHpza1hxVnBIRU94Xy1Jd01ucXBnUmhtaUJnaFk2OWxtVnRjZElYQVU5WkctT0xQMzFpb2xodWVFUzE0NjFQd0lQUmpXTUl4UU9FcmNmRjBRNEZqRVZLX2VOVnQ1OHBJUnRfQTh2amoyQ2Y0R1NENFdnYm5DSjlNQnl0RldaZi1ldVM5VlYxVHpBNjVfYkotaFhnWUF6OW0?oc=5",
      "summary": "",
-     "ts": 1793963699.0,
-     "time": "Nov 6, 5:14 AM CT"
+     "ts": 1794010010.0,
+     "time": "Nov 6, 6:06 PM CT"
     },
     {
-     "title": "Lakewood agent killed, 3 others injured & suspect dead in shooting on RTD bus",
-     "source": "Denver7",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTRkV1BFY2VLNXY1T2FqbnB0QU9RYS1ybkFyOGt0MHpZVnd6QUdyRFlIOS1VQ1RYTTljVm1xLXVSMEE0aUlGZmdwWWstcFlhZEZmM0hUTGRrWTJMOGEtYXBCZm1ZUmFQb1QwNGF0NUdCUTMtaTluM3lzVVlXdDdOUm5iMnBpRUZNejhjRTJHdjZjSkV6a3BEY2I0dDd3TnN0TGRscFo2NG1sQVk?oc=5",
+     "title": "Woman Assaulting Person",
+     "source": "Citizen app",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UZ0FtRUlVMGdCdk85bExKbWRrQXJQZ3pZVkFvUV9RX1JsN1lXZEVTbWxiNTJEMjRXT3NScUF0MWwxaWVRZDdla2owYlRISDdCcXc?oc=5",
      "summary": "",
-     "ts": 1793962294.0,
-     "time": "Nov 6, 4:51 AM CT"
+     "ts": 1794004378.0,
+     "time": "Nov 6, 4:32 PM CT"
     },
     {
-     "title": "Lakewood police officer killed, 3 other officers injured in shooting on RTD bus",
-     "source": "Denverite",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFUUJVQlN0akg0aEpEQVZVakNhbHVtc1RfQkViXzVhVlF5MngzTG13T0JfS1paZWwtQlZlNE9Yb3dvTWpidFdaYjRvTzE2UG1UYVdXVU91bkdfNmhzSWNQQTBvelczUkhFdFE?oc=5",
+     "title": "Fort Worth Police Probe Early-Morning Shooting After Gunshot Victim Reaches Hospital",
+     "source": "Hoodline",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1M1TFBycXhna0pXdGsyRjhTcjZGSnU0MGwyV08waWQyZkt3RUFLUVVWUjhxR3F6eVNwaU82c3dOTTk5Z0lsUVVmc1lvS2h0cUVqRkxVc0NjRzFXMWN6WHgwSE9zbzFnVkcyc19jZ3hlWXNpUU5NSUdGUmZVa0pVM0QwYjVFa3F6cW5SMFZTTFJTUFlpaVZXU3M0d19yTlE?oc=5",
      "summary": "",
-     "ts": 1793953242.0,
-     "time": "Nov 6, 2:20 AM CT"
+     "ts": 1794003504.0,
+     "time": "Nov 6, 4:18 PM CT"
     },
     {
-     "title": "Fort Worth ISD to move elementary students over building safety concerns",
-     "source": "CBS News",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXRLeU1rWlFETnJ1c1RLYzRxVTFueUZseU1JZGJrdklRRG5FT1g5dHVyczU1eWpqb2dIYUkxT2RvdGgtN3BFZlpROTJnTl9id2NfWGxuS2ttMlhRVGhIOTBucGJHUURJOVloN1lpWlVGZkJ4b3EtR1FJX3g1UXJUUE1Rb1djaUl4V1JzSml5b2ZtNmpwdkRaRnRHUzYyVUlUOGZXSFl1OWFvaTZyNlE?oc=5",
+     "title": "Vermont man arrested for lewd and lascivious conduct against a minor",
+     "source": "WPTZ",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDJZSTAxN2dQSGc4UFRRNnpuRjdqekE1MDd1RXdxRDkwZEJ5ZFMzTjdsT0h5dS1BMDRIUXNHOTBpOFNwYlk3QmlHUTlPalNFTXpNalFmdTYtQy1OZXBsMTBtVVMzc2VYWG9OX1pwR2VUSzUwM2lSRHZ3UExCaFpJVkFLNlVDck00LURMQldseE9qbnNhelVKS3NMLTN1MTkweWE0VEk3clVzamts?oc=5",
      "summary": "",
-     "ts": 1793928540.0,
-     "time": "Nov 5, 7:29 PM CT"
+     "ts": 1793995860.0,
+     "time": "Nov 6, 2:11 PM CT"
     },
     {
-     "title": "Fort Worth elementary school relocated due to building concerns",
-     "source": "NBC 5 Dallas-Fort Worth",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU21CWTlBTTBTaE9lLVFFMHgyNDNiZmlHT1FEMENZd2FkYmxDQTc3Z3p5LVVRVjJuR2RkWlBoLWc2bTJWc3l3cTlFZkRZXzhXVHhucWgtb0ZfTUo5Sk5kdzRmbE0tc1V4emdRM2VQWGJnSkg2dUtGUWFXYnYtR2dHelE2UE1NdWxSVUJ4RjFMV0dUVGVqVjI0c1F1T1c5VG9LZU9KTlMwTWwxek9QbTZvb3hR0gG6AUFVX3lxTFByUXlJN1JCbUdaY0RieWpxREtkWm1XV2w1S19YRkJyelB2dVV1VENuVGY0UkRkSGc4UkVFZnJHWHAzc1hUbHlVYWtFYmU4MzJzWXVBWGItMFJyU3ZRYXM2SkRISl9xVHBCYkMtSUdub3NQVFdPM2ZyOEcxaG56ZkFZTFJsZ1I2TEFIalBGZ1k0OXktcDdBaEdVVG8tZ0RyNEwzSFlmMEpjWEZMZzR3TmFNNXRmZUgzMUpsQQ?oc=5",
+     "title": "Police seek information after bullet found in Wardsboro home\u2019s window",
+     "source": "WCAX",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGpRMlZteXRTNlgzejhOSm1HMjNMcnhlWEJhUzA2QnQtdTZMWEdKWUlsVEU5OWZyYjFhTTdXN0N6NWFZNW9iT3RUbzNrVjVucFRfZjEtbng0Y21oVlV2UGJsMkJFSTVHbXY3YVFUTlB2X3R5VnJEcGoyX3dXZ3diczF2Y1dWOWNWNE4tWFllcnlWSWk0RUVqN0hrS0JXUzTSAbMBQVVfeXFMTUFjaVFuSGJJaUJtVkcxY1E3S2g2MGtoNFhxOVlGb2N1OVBFRkRqWkpMZ0ktQWR5LUMzNER1UVRmTnFMQjR1aG9zWkJVMmFZZnVPcXd4bjV0VW92UlFCZjlleDN0eHdhMm9mRkJjdEllOVM1YTR5QXh2WWtLZENVNWJ5VHpjWm5hS1RUdDVXMGVBTnRfTFowVkNCazBKUmZHbFl3UENuQU5KYUpEWktIMnR6THM?oc=5",
      "summary": "",
-     "ts": 1793925264.0,
-     "time": "Nov 5, 6:34 PM CT"
+     "ts": 1793995440.0,
+     "time": "Nov 6, 2:04 PM CT"
     },
     {
-     "title": "Dallas shooting and crash near DART Ledbetter Station leaves 1 dead, 1 hospitalized",
+     "title": "Bullet found lodged in Wardsboro home window",
+     "source": "Brattleboro Reformer",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1ZlT2ZrZmt6M2lRQjFOd0tSVHVoUHZFR0NnejlSTmhBcTNjYjhsRHd1YWNmbFZCbno4SHFCNGRkOVlxZG9Qd2kyWEpNRUlfN3RobkhoRjEtLWllcjdlMVdDVzQtX1JBZkk0RjB6X1hrNHVKN0ZjeUpEUFFIbF84VVVYLU9DSGtmLXl6ZHlEZzM2YXFyS3J0aThn?oc=5",
+     "summary": "",
+     "ts": 1793995439.0,
+     "time": "Nov 6, 2:03 PM CT"
+    },
+    {
+     "title": "Mitchell Ellis Once Patrolled East Lancaster. Now He Leads Union Gospel Mission.",
+     "source": "Fort Worth Inc.",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON29CcFBMZEZORHllZXBNbUhkUm1memZvRVJDTU91ZExwcjBhX2hFNTE5WU5veUFaZkxBRk83TlZhLVg1enRJUDFLejJJTV9CZlY3amdKV2dlVlZIRE9wdTNUd1ZGelNMZGVqSi14dVo3Z3J5bVlOTjhZUFR2RWpQbnppMlIta0FRTVFpaWY5ZjRielhoNFE?oc=5",
+     "summary": "",
+     "ts": 1793991789.0,
+     "time": "Nov 6, 1:03 PM CT"
+    },
+    {
+     "title": "Woman arrested for murder after Fort Worth man found dead in Wise County",
      "source": "FOX 4 News Dallas-Fort Worth",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNlo5UlMybVRITjVlSDRKUFpRVmlDbDVzc2pBaWRBQWpNRGR3bzBGTk0yeHJkTDdOYXRPNjFNQnpLTmQtMVYzLXhlZW1TUWQ4UFhOTU95RVBJcF9Nd2twWHpLS2NuY0hmUXZYUzIxbV9sSHBNQnlxUlZUdXN2UGZmRFhHeDVIYkJjNHRFQXhsNTVYTlQ3cDJnNEJkM0hONnptOU9ST0l0LWZpdThF?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHZiSG1tX2ZGbUhCczRyOFpkckhZQWtUNnRWYmwtWWtDZVktWkNVdDFMaTEzeHRSWmVISmoteVo4RWxjQ19GaGlEd2otR0xvZC15WTdlS2tINkhvR0ZKMFZWaHpBcFgxeDJjYU9oNE5RT2F3WmtZczFLQnN2ckVQWTJkcURuZ2VHaDcxRE9oQWNDTnI4clZ2cWF6RQ?oc=5",
      "summary": "",
-     "ts": 1793922432.0,
-     "time": "Nov 5, 5:47 PM CT"
+     "ts": 1793985836.0,
+     "time": "Nov 6, 11:23 AM CT"
     },
     {
-     "title": "New Vt. state police commander sworn in \u2013 ABC22 & FOX44",
-     "source": "MyChamplainValley.com",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnhfU3hTZHBOcGZhVTBpRkd1UGI1dE5tUDA5RHZweUxwSlFoX0tuN2FjRWhGX1lxdzZtY0dIeGktLWJKeTNaLTVKcDh1NFVmYl9oWEc0SGt3QUVseHhNT0FzSFc5Z0RhV25uZmFPX2NQRXBFUFREcmtRUEx3ZnQycU1VYkwxUzBlTzEzbS1DNEhFZw?oc=5",
+     "title": "Fort Worth police investigate early morning shooting that injured 1",
+     "source": "Fort Worth Star-Telegram",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUV0poQy1TM2VOYUFvTE1Nak5ZOVdLWnh2QnV1LTJYS1hqekdOWV9DZlBTd2JCTWZqYjRkMENOMDVVUGtNb3RNZVFoS05yVE1TZzBjbEZKMVlfR09kYVdvbmhDemViVzV4U3JoNUEyQjFTME1pbk1Z0gF3QVVfeXFMTmhvaUk4UjBOMzBIRU1fd2RHUFR6Y0paSmpReVJKOU1tUGJMd3B3N3JMRkNQRC1jeWtESjZCVEV1U2J5dEVPR0V5TUNEcG9scmt0WVJjNGFIdy11OGRubjgzc0VLM2FBU0FwY1U4ZlZRX3pfTG1pc00?oc=5",
      "summary": "",
-     "ts": 1793921234.0,
-     "time": "Nov 5, 5:27 PM CT"
+     "ts": 1793979134.0,
+     "time": "Nov 6, 9:32 AM CT"
     },
     {
-     "title": "Police called to North Bennington polls for intimidation concerns",
-     "source": "Bennington banner",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzVPRWVKTFRkUEwzUUh1c3dEVEFqckNLc3BJazRQRkcwbGMyS0cyeC1EUFAtcUVCOEE5Rzl1di1hd0o5TmxfV01WRUZkTWFMMnFtcUJBdkZjS21tdUJ6V2I3VUlwN0VLVV9qYnpEYkh0UDVyQUJUd294Y09HTXdLUW41TDdiN3JXNjJWR041dXpFNXQ5TGxud0Z5QzM0WEhWWXRYMEtVTWh2VjlyMUdwMmNmMWdsaTV0?oc=5",
+     "title": "Possible Dallas ISD school closures",
+     "source": "NBC 5 Dallas-Fort Worth",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3JtclVTWGlkWWIxamhkRDBvMTNyYlBlNlBBbTBpQmlIaTU2Z0F0MjVlbFh2OUVCd1hKOVk4UU1zZDVHa0pGSjlhN0ZtSlB4MHJ0WGQ1bVpaX3pmUzEyXzF1V0RYNEtuQ04xQ3ZOMTQzMFE0M0hTajlPSjF0MUpXU3RmVmJhOUpPalJFTNIBlAFBVV95cUxQUDM5RXBJZ29NR1luTGNHbmJHdTdYWWQ3M2JvRUpueEFEVjloTVJaZmNaNDJmMktwVzg3eWhBZURNakdnblZZQkN4b1NsOWlKMXN6RUpCRlBJQjNqOVJxZ2Z0RlE4Zkt0Vk5Qakt1YXRnRzZsd19aTWdtWXJhaWhWTkh0X3lxUWJmNWRiX3VDV3BxaVow?oc=5",
      "summary": "",
-     "ts": 1793920290.0,
-     "time": "Nov 5, 5:11 PM CT"
-    },
-    {
-     "title": "Fort Worth woman arrested for murder of man found dead near Rhome",
-     "source": "Wise County Messenger",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3FYdE5iQmU3WFVUUzNMV3JlSnA3eVRycVRCem1QWGU0akUtRjNtazFXZEZQbXYxZW8xak5ZWXplNkNhU3JJUE9qRVowakh2djdXSUJIX2d2NTRpVXhJcjd3YWU3WVFGWlZlS1NIQXVBYU1sZG93ZFNTR0JrMGZlVjdURm5ITDlYcXc0SllQcW1zQkFDWXBzTk1FOXcycVpXcWZHOXV3?oc=5",
-     "summary": "",
-     "ts": 1793918228.0,
-     "time": "Nov 5, 4:37 PM CT"
+     "ts": 1793974188.0,
+     "time": "Nov 6, 8:09 AM CT"
     },
     {
      "title": "Mayor nominates Anthony Geraci to be Burlington\u2019s next chief of police",
@@ -554,46 +594,6 @@
      "summary": "",
      "ts": 1793913613.0,
      "time": "Nov 5, 3:20 PM CT"
-    },
-    {
-     "title": "32-year-old man injured in shooting at Fort Worth apartments, police say",
-     "source": "Fort Worth Star-Telegram",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WelBZV3k0V19HUEh3OFNfWGtzdWIwT19pVUtVMTBsUUdDdm50Ykp1alpQYmZKU1YtS0cyTklGN3o5QWU2TVVDNjJMRUMyX1hsM1Nqd2ZyVTBKOVg2RjloOVVrazAtUGItR0ZVSFF3bWM4SGkyTFVz0gF3QVVfeXFMT2tWbktYbE1BWkswY2M0OFpTQ1hEbDR4VkQyUmw2UjZ1U3JfeFVITVk0R0FLMXhScEh4clNSRExvQ3ZOUDgtajBNTEEzZmctZzQxVzMtdnZ2QzB1X2N6dHJmRW9OdXlyekEzS3pVVzh0ekdpMU5IU00?oc=5",
-     "summary": "",
-     "ts": 1793900360.0,
-     "time": "Nov 5, 11:39 AM CT"
-    },
-    {
-     "title": "Downtown Dallas Homeless Count Nears Record Low, Crime Drops 28% But Remains Over 8X Fort Worth\u2019s",
-     "source": "Dallas Express",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSmlVRl9IZzB1TXRPNUkxaUZTTGtvZk83RGluZUtqNHlUQ18xc0xRa1lTOWhTNHdvVmtEU2VScHlzSjNOWEduRjlDV05admJib0RiSlNFekpkSGVXczU5V0QzSXZ0TDY2c1ZtS2lMV1pFNEo2ZXFzTU9ldDZKMXJaVlRjRGtqb2kwb1U3VXlIeUllVkVLWVJlSjNLRFdmS3ZDdjNPd0NOUHpKc2xUTmRMYU94LXAwaHZmWGRUSmtaejR0Qmgw?oc=5",
-     "summary": "",
-     "ts": 1793887466.0,
-     "time": "Nov 5, 8:04 AM CT"
-    },
-    {
-     "title": "Vermont State Police Log: Troopers say drivers were impaired",
-     "source": "Addison Independent",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0ZYZDR6c0FtTF9HeVRxQmw1YmN4RjF1YzQtVVJpSjJUY0hyQk9pQndUZXBrMk9wWWdfWUNjTFBSbGdyNlJ1TnhQbHBPUklDdXBLdGJudWxxUDEzQkhKNHJxRWhfdFZmRG91NUtQRnlHNUtTd3RZanNNclV4NWhMUUxNZUFDWUF0SjlTOVV0TS1teVdVVmJqZkkyN25iTEVLdzN6dkZuQzctQQ?oc=5",
-     "summary": "",
-     "ts": 1793885400.0,
-     "time": "Nov 5, 7:30 AM CT"
-    },
-    {
-     "title": "Republican incumbent state senator from Rutland County arrested last week loses reelection bid",
-     "source": "VTDigger",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORzVpZGVCM3lYNnlGMVdrZnVzX3VNQlBsNFdWMDNEWWtFemtwek1lcTg0cE40OFBxQU0taDd3dmpDRW5ybS14ekNtZ2FZQ0ltYThSeU5VbU5qRGFBOFIzUXZMaFk1ZFNSTU52ZEdqTjItNnFVRW55QndmLWI3NTNkNjZIR1pDVzJSVWFJMFlhR3pHZE4wXzUtMW5QZGJDQkk4Q3BhZ3ZPRnlYS0RacnplSWJadHpISFQxZ3RRbHVNWm0zV2ZCTmc?oc=5",
-     "summary": "",
-     "ts": 1793828681.0,
-     "time": "Nov 4, 3:44 PM CT"
-    },
-    {
-     "title": "Vermont State Senator charged with domestic assault loses reelection bid",
-     "source": "WRGB",
-     "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPcU51azl2T2VhakV3cldyZFZIU2c1NnJNT1k1TlhWVDQxeVlnR24xeHR6b3JRZHVVd3NJSTVqN2F0Qy1Ibjh1VTVSTTVUS0FEQ1RoLUI5M1NhbnBCSGZXVUZmSHZUYl9ENEY4cko0VWd6OWhiblFOXzhVOEpOSUx3Qy15OXdVMGFleTRYYUF3cDZOUEJubmZEekRoc2dZMC1faDhaRTFrY1BpeUV4TFNQVF9sejhVM3ZGVTBtdG95SVNrUGVhSFRlUmhCN3NBZHJ6aExqWUVDMEJiQ3ZxY0dBNTBDaGVFNDcyU2ZqcXRuLUFXamk2eXdfcDhFMS1NVGxCVVFoSzFDcWYwRzAyYVo5SVFsclJKV09qS0VjeXBDZVhZeHBudE1rMnVJdWRfWV9zcmFBRmxQUW9wSF96OUpiMUlSTm83ckcxYU0xM3JWT2xBa1VIeEd2ZUF1cTQ4Q2Q1Si00Qm13TTQ?oc=5",
-     "summary": "",
-     "ts": 1793802158.0,
-     "time": "Nov 4, 8:22 AM CT"
     }
    ]
   }
